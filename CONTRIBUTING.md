@@ -9,9 +9,9 @@ Submit a pull request or issue with:
 
 Use concise names. Multiple categories are welcome when the source supports distinct configurations. Do not infer agentic behavior from ordinary VLA inference, a fixed score, or a fixed training procedure.
 
-Non-robotics automated-research work belongs in the clearly labeled successor-context collection. State whether the updated researcher actually continues making later research decisions.
+Non-robotics automated-research work belongs in the Successor AI R&D subsection of Self-Evolver, with its domain stated briefly. State whether the updated researcher actually continues making later research decisions.
 
-Edit `data/papers.json` and run:
+Add an optional `code_url` for a verified implementation repository. Then edit `data/papers.json` and run:
 
 ```bash
 python3 scripts/build.py

@@ -45,24 +45,16 @@ Agents use feedback to make changes retained for later tasks or development.
 | Iterative Artifact Refinement | Programs and skills; knowledge and memory; rewards; environments and datasets; robot morphology |
 | Component Optimization | Learned models; code inside reusable tools |
 | Harness Improves Harness | Representation; state management; tool interfaces; execution workflows |
+| Successor AI R&D | Updated researchers and subsequent research decisions |
 
 An improvement to a tool's internal algorithm differs from a change to its calling interface. Retaining a lesson differs from changing how lessons are stored and retrieved. Membership concerns the documented update target, not every configuration of a project.
 
-See [Successor AI R&D](successor-context.md) for explicitly non-robotics context.
-""",
-    "successor-context": """# Successor AI R&D — context outside robotics
-
-[Home](../README.md) · [Self-Evolver](self-evolver.md)
-
-**The works below are non-robotics context.** They cover research-agent succession, automated research, post-training benchmarks, or analyses of recursive improvement. Listing a work here does not imply that it demonstrates a successor model taking over subsequent research decisions.
-
-When comparing systems, distinguish a fixed researcher improving a target model from an updated researcher that actually continues the next research cycle. Self-Developing, DiscoveryRSI, and PostTrainBench provide useful cases for examining that distinction.
 """
 }
 
 def section_file(category):
     if category.startswith("O"):
-        return "successor-context" if category.startswith("Outside") else "policy"
+        return "policy"
     return "infrastructure" if category.startswith("Infrastructure") else "self-evolver"
 
 def escape(text):
@@ -77,6 +69,9 @@ def render():
         assert paper["title"] and paper["categories"]
         assert set(paper["categories"]) <= known
         assert urlparse(paper["url"]).scheme == "https", paper["id"]
+        if paper.get("code_url"):
+            link = urlparse(paper["code_url"])
+            assert link.scheme == "https" and link.netloc == "github.com", paper["id"]
     for name, intro in INTRO.items():
         groups = [g for g in CATEGORIES if section_file(g["name"]) == name]
         text = intro + "\n## Browse\n\n"
@@ -87,10 +82,12 @@ def render():
                 key=lambda p: (-(p["year"] or 0), p["title"].casefold())
             )
             text += f'\n<a id="{group["id"]}"></a>\n\n## {group["name"]}\n\n'
-            text += "| Work | Year | Source |\n| --- | --- | --- |\n"
+            if group["name"].endswith("Successor AI R&D"):
+                text += "These non-robotics works examine research-agent succession, automated research, and its evaluation. A key distinction is whether the updated model takes over later research decisions or remains the target of a fixed researcher.\n\n"
+            text += "| Work | Year | Source | Code |\n| --- | --- | --- | --- |\n"
             for p in entries:
-                label = "**Agent2Act** — " if p["id"] == "robocoliseum2026agent2act" else ""
-                text += f'| {label}[{escape(p["title"])}]({p["url"]}) | {p["year"] or "—"} | {p["source_type"]} |\n'
+                code = f'<a href="{p["code_url"]}"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a>' if p.get("code_url") else "—"
+                text += f'| [{escape(p["title"])}]({p["url"]}) | {p["year"] or "—"} | {p["source_type"]} | {code} |\n'
         files[f"docs/{name}.md"] = text + "\n[Back to overview](../README.md)\n"
     return files
 

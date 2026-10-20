@@ -14,14 +14,13 @@
 
 Foundation-model agents can direct robot behavior, build robotics workflows, and revise systems from feedback. This collection follows the framework of our forthcoming paper, **Agents that Act, Build, and Evolve: A Unified Framework and Platform for Agentic Robotics**.
 
-Browse **385 sources across 29 categories**: 374 robot-domain sources and 11 sources providing non-robotics research-successor context. Categories are non-exclusive; distinct configurations of a work may appear in several places.
+Browse **385 sources across 29 categories**. Categories are non-exclusive; distinct configurations of a work may appear in several places.
 
 | Role | What the agent does | Browse |
 | --- | --- | --- |
 | **Act — Agent as Policy** | Select behaviors, orchestrate tools, or write robot-execution programs. | [Observation × execution interfaces](docs/policy.md) |
 | **Build — Agent as Infrastructure** | Construct and coordinate collection, training, evaluation, and diagnosis workflows. | [Development lifecycle](docs/infrastructure.md) |
 | **Evolve — Agent as Self-Evolver** | Use feedback to revise and retain artifacts, components, or the agent harness. | [Retained update targets](docs/self-evolver.md) |
-| **Successor AI R&D — non-robotics context** | Study whether updated models take over subsequent research decisions. | [Context and benchmarks](docs/successor-context.md) |
 
 ## Browse the collection
 
@@ -48,12 +47,13 @@ Browse **385 sources across 29 categories**: 374 robot-domain sources and 11 sou
 | Iterative Artifact Refinement | [Programs and Skills](docs/self-evolver.md#self-evolver-programs-and-skills) · [Knowledge and Memory](docs/self-evolver.md#self-evolver-knowledge-and-memory) · [Rewards](docs/self-evolver.md#self-evolver-rewards) · [Environments and Datasets](docs/self-evolver.md#self-evolver-environments-and-datasets) · [Robot Morphology](docs/self-evolver.md#self-evolver-robot-morphology) |
 | Component Optimization | [Model](docs/self-evolver.md#self-evolver-model) · [Tool Code](docs/self-evolver.md#self-evolver-code) |
 | Harness Improves Harness | [Representation](docs/self-evolver.md#self-evolver-representation) · [State Management](docs/self-evolver.md#self-evolver-state-management) · [Tool Interface](docs/self-evolver.md#self-evolver-tool-interface) · [Execution Workflows](docs/self-evolver.md#self-evolver-execution-workflows) |
+| Successor AI R&D | [Research agents and succession](docs/self-evolver.md#self-evolver-successor-ai-r-d) |
 
 ## Scope
 
 We include documented foundation-model agent decisions in physical or simulated robot tasks and robotics development. Ordinary VLA inference, implicit reasoning, fixed scoring, and fixed training alone do not establish an agent role. Classification follows the demonstrated configuration.
 
-Each entry links to a primary paper, report, project, or repository. Source types are labeled. A literature entry does not imply that its implementation has been integrated into RoboAgentLab or that its reported results have been reproduced.
+Each entry links to a primary paper, report, project, or repository. Source types are labeled. A clickable <img src="assets/github.svg" width="16" height="16" alt="GitHub" /> in the Code column links to available implementation code; a dash means no code link is currently listed. A literature entry does not imply that its implementation has been integrated into RoboAgentLab or that its reported results have been reproduced.
 
 ## RoboAgentLab resources
 
