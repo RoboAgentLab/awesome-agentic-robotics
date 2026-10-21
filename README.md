@@ -14,7 +14,7 @@
 
 Foundation-model agents can direct robot behavior, build robotics workflows, and revise systems from feedback. This collection follows the framework of our forthcoming paper, **Agents that Act, Build, and Evolve: A Unified Framework and Platform for Agentic Robotics**.
 
-Browse **385 sources across 29 categories**. Categories are non-exclusive; distinct configurations of a work may appear in several places.
+Browse **380 sources across 29 categories**. Categories are non-exclusive; distinct configurations of a work may appear in several places.
 
 | Role | What the agent does | Browse |
 | --- | --- | --- |
