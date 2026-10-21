@@ -49,10 +49,6 @@ Browse **385 sources across 29 categories**. Categories are non-exclusive; disti
 | Harness Improves Harness | [Representation](docs/self-evolver.md#self-evolver-representation) · [State Management](docs/self-evolver.md#self-evolver-state-management) · [Tool Interface](docs/self-evolver.md#self-evolver-tool-interface) · [Execution Workflows](docs/self-evolver.md#self-evolver-execution-workflows) |
 | Successor AI R&D | [Research agents and succession](docs/self-evolver.md#self-evolver-successor-ai-r-d) |
 
-## Data and feedback resources
-
-[Flora](https://research.nvidia.com/labs/gear/flora/) provides temporal segmentation, action captions, and process/outcome rewards for manipulation videos. [Browse supporting resources](docs/resources.md) for project and open-model links.
-
 ## Scope
 
 We include documented foundation-model agent decisions in physical or simulated robot tasks and robotics development. Ordinary VLA inference, implicit reasoning, fixed scoring, and fixed training alone do not establish an agent role. Classification follows the demonstrated configuration.
