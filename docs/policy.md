@@ -147,6 +147,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [AgentVLN: Towards Agentic Vision-and-Language Navigation](https://arxiv.org/abs/2603.17670) | 2026 | Paper | <a href="https://github.com/Allenxinn/AgentVLN"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ASPIRE: Public Robot Skill Discovery Implementation](https://github.com/NVlabs/ASPIRE/tree/fa00f0ef2bc1d91d594b9aa502c22133c9f538f7) | 2026 | Repository | <a href="https://github.com/NVlabs/ASPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Bridging Semantics and Physics with Constrained LLMs for Safe and Trustworthy Robotic Manipulation](https://arxiv.org/abs/2608.29379) | 2026 | Paper | — |
+| [Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning](https://arxiv.org/abs/2610.27613) | 2026 | Paper | <a href="https://github.com/No-518/Tactile-ETA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ETA: A New Agentic Paradigm for Embodied Tasks](https://arxiv.org/abs/2608.03924) | 2026 | Paper | <a href="https://github.com/OpenMOSS/OpenETA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use](https://arxiv.org/abs/2608.14047) | 2026 | Paper | — |
 | [EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation](https://arxiv.org/abs/2606.03509) | 2026 | Paper | — |
