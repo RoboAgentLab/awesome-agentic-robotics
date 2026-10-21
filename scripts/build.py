@@ -89,6 +89,11 @@ def render():
                 code = f'<a href="{p["code_url"]}"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a>' if p.get("code_url") else "—"
                 text += f'| [{escape(p["title"])}]({p["url"]}) | {p["year"] or "—"} | {p["source_type"]} | {code} |\n'
         files[f"docs/{name}.md"] = text + "\n[Back to overview](../README.md)\n"
+    resources = json.loads((ROOT / "data/resources.json").read_text())
+    text = "# Data and feedback resources\n\n[Home](../README.md)\n\nModels and tools supporting robotics workflows, listed separately from the agent-role taxonomy.\n"
+    for r in resources:
+        text += f'\n## [{r["title"]}]({r["url"]})\n\n{r["description"]}\n\n[Project]({r["url"]}) · [Open models]({r["models_url"]})\n'
+    files["docs/resources.md"] = text
     return files
 
 if __name__ == "__main__":
