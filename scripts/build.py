@@ -7,6 +7,7 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
 PAPERS = json.loads((ROOT / "data/papers.json").read_text())
 CATEGORIES = json.loads((ROOT / "data/categories.json").read_text())
+RESEARCH_NOTES = json.loads((ROOT / "data/research-notes.json").read_text())
 
 INTRO = {
     "policy": """# Agent as Policy
@@ -74,7 +75,12 @@ def render():
             assert link.scheme == "https" and link.netloc == "github.com", paper["id"]
     for name, intro in INTRO.items():
         groups = [g for g in CATEGORIES if section_file(g["name"]) == name]
-        text = intro + "\n## Browse\n\n"
+        text = intro
+        if name == "self-evolver":
+            text += "\n## Model–harness co-evolution\n"
+            for note in RESEARCH_NOTES:
+                text += f'\n### [{note["title"]}]({note["url"]})\n\n{note["description"]}\n\n[Project update]({note["url"]}) · [Runtime code]({note["code_url"]})\n'
+        text += "\n## Browse\n\n"
         text += "\n".join(f'- [{g["name"]}](#{g["id"]})' for g in groups) + "\n"
         for group in groups:
             entries = sorted(

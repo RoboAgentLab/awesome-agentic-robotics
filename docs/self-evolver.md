@@ -14,6 +14,14 @@ Agents use feedback to make changes retained for later tasks or development.
 An improvement to a tool's internal algorithm differs from a change to its calling interface. Retaining a lesson differs from changing how lessons are stored and retrieved. Membership concerns the documented update target, not every configuration of a project.
 
 
+## Model–harness co-evolution
+
+### [SenseNova-RoboRSI: Model–Harness Co-Evolution](https://github.com/OpenSenseNova/SenseNova-RoboRSI/blob/006207674a61a2d7a36ed7469bf97dc7920f9099/README.md#sensenova-roborsi-27b-preview)
+
+The project reports converting validated robot interactions into multimodal supervision and returning updated models to the runtime for evaluation and further exploration. Released code supports execution traces, version snapshots, and matched result comparisons. The public materials do not yet establish agent-directed training or joint model–harness update selection, so this remains a research lead outside the classified Self-Evolver methods.
+
+[Project update](https://github.com/OpenSenseNova/SenseNova-RoboRSI/blob/006207674a61a2d7a36ed7469bf97dc7920f9099/README.md#sensenova-roborsi-27b-preview) · [Runtime code](https://github.com/OpenSenseNova/SenseNova-RoboRSI)
+
 ## Browse
 
 - [Self-Evolver / Programs and Skills](#self-evolver-programs-and-skills)
