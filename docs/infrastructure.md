@@ -61,6 +61,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation](https://arxiv.org/abs/2606.28276) | 2026 | Paper | <a href="https://github.com/NVlabs/SimFoundry"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning](https://arxiv.org/abs/2605.09423) | 2026 | Paper | — |
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
+| [Text2MuJoCo](https://github.com/ShawnJoeng/Text2Mujoco) | 2026 | Repository | <a href="https://github.com/ShawnJoeng/Text2Mujoco"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Towards Adaptive Environment Generation for Training Embodied Agents](https://arxiv.org/abs/2602.06366) | 2026 | Paper | — |
 | [V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation](https://arxiv.org/abs/2604.09036) | 2026 | Paper | — |
 | [V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors](https://arxiv.org/abs/2603.18811) | 2026 | Paper | — |
