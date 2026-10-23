@@ -47,6 +47,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation](https://arxiv.org/abs/2607.26148) | 2026 | Paper | <a href="https://github.com/jianzhou0420/MIP"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation](https://arxiv.org/abs/2608.17512) | 2026 | Paper | <a href="https://github.com/ZJU-OmniAI/Embodied-Navigator"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence](https://arxiv.org/abs/2609.17210) | 2026 | Paper | <a href="https://github.com/FluxVLA/FluxVLA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks](https://arxiv.org/abs/2610.30051) | 2026 | Paper | <a href="https://github.com/IRVLUTD/LLM_LIBERO"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Frontier LLMs Enter the World of Robotics: A Cross-Model Evaluation on RoboColiseum](https://robocoliseum.ai/techreport/agent2act) | 2026 | Project / report | — |
 | [GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation](https://tactalent.github.io/) | 2026 | Project / report | — |
 | [Has GPT-6-Astra Achieved Embodied Intelligence?](https://arxiv.org/abs/2610.22471) | 2026 | Paper | <a href="https://github.com/OpenSenseNova/SenseNova-RoboRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -105,6 +106,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
+| [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) | 2026 | Paper | <a href="https://github.com/xinxinliu-ai/AgenticRoboRL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Astranomy: An Empirical Study of GPT-6 Astra as a Native Robot Policy](https://research.nvidia.com/labs/srl/projects/astranomy/) | 2026 | Project / report | — |
 | [Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) | 2026 | Paper | <a href="https://github.com/RLinf/RPent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](https://arxiv.org/abs/2610.01178) | 2026 | Paper | — |
@@ -364,6 +366,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
 | [Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies](https://arxiv.org/abs/2610.10479) | 2026 | Paper | — |
+| [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) | 2026 | Paper | <a href="https://github.com/xinxinliu-ai/AgenticRoboRL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ALRM: Agentic LLM for Robotic Manipulation](https://arxiv.org/abs/2601.19510) | 2026 | Paper | — |
 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) | 2026 | Paper | <a href="https://github.com/capgym/cap-x"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied First Exam](https://github.com/mll-lab-nu/embodied-first-exam) | 2026 | Repository | <a href="https://github.com/mll-lab-nu/embodied-first-exam"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |

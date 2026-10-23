@@ -84,6 +84,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
 | [Agentic World Action Models](https://arxiv.org/abs/2610.30136) | 2026 | Paper | <a href="https://github.com/ZhuoyangLiu2005/agentic-wam"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) | 2026 | Paper | <a href="https://github.com/xinxinliu-ai/AgenticRoboRL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ARS: Agentic Reward System for Robot Learning](https://arxiv.org/abs/2609.34484) | 2026 | Paper | <a href="https://github.com/midea-ai/ars"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) | 2026 | Paper | — |
 | [Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation](https://arxiv.org/abs/2610.02274) | 2026 | Paper | — |
