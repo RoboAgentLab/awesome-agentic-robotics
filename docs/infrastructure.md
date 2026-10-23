@@ -83,6 +83,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
+| [Agentic World Action Models](https://arxiv.org/abs/2610.30136) | 2026 | Paper | <a href="https://github.com/ZhuoyangLiu2005/agentic-wam"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ARS: Agentic Reward System for Robot Learning](https://arxiv.org/abs/2609.34484) | 2026 | Paper | <a href="https://github.com/midea-ai/ars"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) | 2026 | Paper | — |
 | [Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation](https://arxiv.org/abs/2610.02274) | 2026 | Paper | — |
@@ -154,6 +155,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [Hermes Embodied: Self-Improving Robotics via Hermes Agent](https://github.com/bryercowan/hermes-embodied) | 2026 | Repository | <a href="https://github.com/bryercowan/hermes-embodied"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Introducing Waddle: Agents that Control Robots](https://waddlelabs.ai/research/introducing-waddle) | 2026 | Project / report | — |
 | [Nautilus: From One Prompt to Plug-and-Play Robot Learning](https://arxiv.org/abs/2605.11665) | 2026 | Paper | — |
+| [Nebius Physical AI](https://github.com/nebius/nebius-physical-ai) | 2026 | Software | <a href="https://github.com/nebius/nebius-physical-ai"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Prompt-to-Policy: Agentic Engineering for Reinforcement Learning](https://github.com/krafton-ai/Prompt2Policy) | 2026 | Repository | <a href="https://github.com/krafton-ai/Prompt2Policy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RDA: Reward Design Agent for Reinforcement Learning](https://arxiv.org/abs/2606.01672) | 2026 | Paper | — |
 | [ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies](https://arxiv.org/abs/2606.09630) | 2026 | Paper | — |
