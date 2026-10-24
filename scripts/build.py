@@ -88,7 +88,10 @@ def render():
             text += "| Work | Year | Source | Code |\n| --- | --- | --- | --- |\n"
             for p in entries:
                 code = f'<a href="{p["code_url"]}"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a>' if p.get("code_url") else "—"
-                title = f'{p["short_name"]}: {p["title"]}' if p.get("short_name") else p["title"]
+                title = p["title"]
+                short_name = p.get("short_name", "")
+                if short_name and not title.casefold().startswith(short_name.casefold() + ":"):
+                    title = f"{short_name}: {title}"
                 project = f' · [Project]({p["project_url"]})' if p.get("project_url") else ""
                 text += f'| [{escape(title)}]({p["url"]}) | {p["year"] or "—"} | {p["source_type"]}{project} | {code} |\n'
         files[f"docs/{name}.md"] = text + "\n[Back to overview](../README.md)\n"

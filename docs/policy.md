@@ -42,6 +42,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond](https://arxiv.org/abs/2609.24170) | 2026 | Paper | <a href="https://github.com/RoboProbe/RoboProbe"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Astranomy: An Empirical Study of GPT-6 Astra as a Native Robot Policy](https://research.nvidia.com/labs/srl/projects/astranomy/) | 2026 | Project / report | — |
 | [Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?](https://arxiv.org/abs/2610.17350) | 2026 | Paper | <a href="https://github.com/jackbjed/embodied-astra-robomme"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Embody: Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | 2026 | Research blog | — |
 | [Contextual Safety Reasoning and Grounding for Open-World Robots](https://arxiv.org/abs/2602.19983) | 2026 | Paper | — |
 | [DrivingBench: Can Vision-Language Models Drive a Toyota Corolla?](https://arxiv.org/abs/2609.38948v1) | 2026 | Paper | <a href="https://github.com/aditya-ramabadran/drivingbench_harness_v1"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied Agents Take Control: Minimal-Interface Zero-Shot Agents Rival Industrial-Scale Policies in Vision-and-Language Navigation](https://arxiv.org/abs/2607.26148) | 2026 | Paper | <a href="https://github.com/jianzhou0420/MIP"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -53,6 +54,8 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Has GPT-6-Astra Achieved Embodied Intelligence?](https://arxiv.org/abs/2610.22471) | 2026 | Paper | <a href="https://github.com/OpenSenseNova/SenseNova-RoboRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [In-Context Robot Learning with VLM Agents](https://arxiv.org/abs/2609.19138) | 2026 | Paper | <a href="https://github.com/cheng-haha/GPT-Policy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884) | 2026 | Paper | <a href="https://github.com/insight-vla/insight"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI](https://arxiv.org/abs/2610.06306) | 2026 | Paper | <a href="https://github.com/robocurve/inspect-robots"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [GPT-GEAR: Large Multimodal Models for Direct Robot Control: GPT-6 as a Beginning](https://arxiv.org/abs/2610.28259) | 2026 | Paper · [Project](https://6uooon9.github.io/GPT-GEAR) | <a href="https://github.com/6UOOON9/GPT-GEAR"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ManiSkillFormer: Demonstration-Free Compositional Manipulation via Geometric Contracts and Agentic Skill Graph](https://arxiv.org/abs/2609.16331) | 2026 | Paper | — |
 | [NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime](https://arxiv.org/abs/2610.10787) | 2026 | Paper | <a href="https://github.com/metacognitionai/NavGPT-3"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning](https://arxiv.org/abs/2602.20119) | 2026 | Paper | <a href="https://github.com/jiahui-fu/NovaPlan"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -65,6 +68,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Self-Evolving Embodied Agents via Skill-Harness Evolution](https://arxiv.org/abs/2608.11350) | 2026 | Paper | — |
 | [Show-Harness: Just a VLM Agent Can Play Robots](https://arxiv.org/abs/2609.10522) | 2026 | Paper | <a href="https://github.com/showlab/Show-Harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [TacZero: Training-Free Peg Insertion Using a General-Purpose Vision-Language Model with Tactile Feedback](https://arxiv.org/abs/2610.07621) | 2026 | Paper | — |
+| [Bitter Lesson: The Bitter Lesson Comes to Robotics](https://arxiv.org/abs/2610.25287) | 2026 | Paper | — |
 | [VIA: Visual Interface Agent for Robot Control](https://arxiv.org/abs/2607.11119) | 2026 | Paper | <a href="https://github.com/hengyuan-hu/via"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://arxiv.org/abs/2502.09560) | 2025 | Paper | <a href="https://github.com/EmbodiedBench/EmbodiedBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation](https://arxiv.org/abs/2503.02247) | 2025 | Paper | <a href="https://github.com/B0B8K1ng/WMNavigation"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -84,6 +88,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation](https://arxiv.org/abs/2609.11308) | 2026 | Paper | — |
 | [AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning](https://arxiv.org/abs/2606.10927) | 2026 | Paper | — |
 | [AtomicVLA: Unlocking the Potential of Atomic Skill Learning in Robots](https://arxiv.org/abs/2603.07648) | 2026 | Paper | <a href="https://github.com/zhanglk9/AtomicVLA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Embody: Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | 2026 | Research blog | — |
 | [Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation](https://arxiv.org/abs/2607.05377) | 2026 | Paper | — |
 | [Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation](https://arxiv.org/abs/2603.05185) | 2026 | Paper | — |
 | [CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding](https://arxiv.org/abs/2601.02295) | 2026 | Paper | <a href="https://github.com/dannymcy/cyclevla_code"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -103,6 +108,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models](https://arxiv.org/abs/2605.13119) | 2026 | Paper | — |
 | [Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents](https://arxiv.org/abs/2505.23450) | 2025 | Paper | <a href="https://github.com/Agentic-Robot/agentic-robot"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation](https://arxiv.org/abs/2505.00527) | 2025 | Paper | <a href="https://github.com/chenzixuan99/RoboHiMan"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [DualVLN: Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation](https://arxiv.org/abs/2512.08186) | 2025 | Paper · [Project](https://dualvln.github.io/) | <a href="https://github.com/InternRobotics/InternNav"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models](https://arxiv.org/abs/2502.19417) | 2025 | Paper | — |
 | [Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation](https://arxiv.org/abs/2506.22827) | 2025 | Paper | — |
 | [Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](https://arxiv.org/abs/2504.14588) | 2025 | Paper | <a href="https://github.com/GeWu-Lab/Motion-based-Self-Reflection-Framework"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -264,6 +270,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction](https://arxiv.org/abs/2603.26997) | 2026 | Paper | <a href="https://github.com/ROSClaw/rosclaw"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SCOPE: Real-Time Natural Language Camera Agent at the Edge](https://arxiv.org/abs/2606.02951) | 2026 | Paper | — |
 | [Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432) | 2026 | Paper | — |
+| [TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043) | 2026 | Paper · [Project](https://xuyicheng-zju.github.io/TARSphere/) | <a href="https://github.com/xuyicheng-zju/TARSphere"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Towards the Harness of Embodied Agents](https://arxiv.org/abs/2608.11246) | 2026 | Paper | <a href="https://github.com/EIT-HAI/Thea"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal](https://arxiv.org/abs/2609.29964) | 2026 | Paper | — |
 | [General-Purpose Robotic Navigation via LVLM-Orchestrated Perception, Reasoning, and Acting](https://arxiv.org/abs/2506.17462) | 2025 | Paper | — |
@@ -333,6 +340,8 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Code Owns the Simulation, Jev Owns the Evaluation](https://arxiv.org/abs/2610.01834) | 2026 | Paper | — |
 | [DV-VLN: Dual Verification for Reliable LLM-Based Vision-and-Language Navigation](https://arxiv.org/abs/2601.18492) | 2026 | Paper | — |
 | [GAVEL: Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning](https://arxiv.org/abs/2609.19315) | 2026 | Paper | — |
+| [Jev Arm Demo: Jev vs LLM: Robot Arm Control](https://github.com/FazalAAli/jev-robotics-demo) | 2026 | Engineering demo | <a href="https://github.com/FazalAAli/jev-robotics-demo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Askable Arm: jev-askable-arm](https://github.com/TarunTomar122/jev-askable-arm) | 2026 | Engineering demo | <a href="https://github.com/TarunTomar122/jev-askable-arm"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [jev-drone](https://github.com/RomanSlack/jev-drone) | 2026 | Repository | <a href="https://github.com/RomanSlack/jev-drone"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [jev-libero](https://github.com/Dimweaker/jev-libero) | 2026 | Repository | <a href="https://github.com/Dimweaker/jev-libero"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [jev-robot-control](https://github.com/openroboto-ai/jev-robot-control) | 2026 | Repository | <a href="https://github.com/openroboto-ai/jev-robot-control"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -377,6 +386,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [ALRM: Agentic LLM for Robotic Manipulation](https://arxiv.org/abs/2601.19510) | 2026 | Paper | — |
 | [DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents](https://arxiv.org/abs/2609.40306) | 2026 | Paper | — |
 | [EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation](https://arxiv.org/abs/2609.38905) | 2026 | Paper | — |
+| [Jev Arm Demo: Jev vs LLM: Robot Arm Control](https://github.com/FazalAAli/jev-robotics-demo) | 2026 | Engineering demo | <a href="https://github.com/FazalAAli/jev-robotics-demo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning](https://arxiv.org/abs/2607.18060) | 2026 | Paper | — |
 
 <a id="o3-a3"></a>
