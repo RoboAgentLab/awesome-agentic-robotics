@@ -82,6 +82,8 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
 | [2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation](https://arxiv.org/abs/2609.11308) | 2026 | Paper | — |
+| [AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning](https://arxiv.org/abs/2606.10927) | 2026 | Paper | — |
+| [AtomicVLA: Unlocking the Potential of Atomic Skill Learning in Robots](https://arxiv.org/abs/2603.07648) | 2026 | Paper | <a href="https://github.com/zhanglk9/AtomicVLA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation](https://arxiv.org/abs/2607.05377) | 2026 | Paper | — |
 | [Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation](https://arxiv.org/abs/2603.05185) | 2026 | Paper | — |
 | [CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding](https://arxiv.org/abs/2601.02295) | 2026 | Paper | <a href="https://github.com/dannymcy/cyclevla_code"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -92,7 +94,9 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [HumanCLAW: Can Vision-Language Models Act Through a Body?](https://arxiv.org/abs/2607.27180) | 2026 | Paper | <a href="https://github.com/Human-CLAW/HumanCLAW"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884) | 2026 | Paper | <a href="https://github.com/insight-vla/insight"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering](https://arxiv.org/abs/2606.12299) | 2026 | Paper | — |
+| [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2610.03476) | 2026 | Paper | <a href="https://github.com/kaiknower/MobiAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime](https://arxiv.org/abs/2610.10787) | 2026 | Paper | <a href="https://github.com/metacognitionai/NavGPT-3"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [PlayWorld: Learning Robot World Models from Autonomous Play](https://arxiv.org/abs/2603.09030) | 2026 | Paper | <a href="https://github.com/irom-princeton/open-world"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Self-Evolving Embodied Agents via Skill-Harness Evolution](https://arxiv.org/abs/2608.11350) | 2026 | Paper | — |
 | [Slow Brain, Fast Planner: Latency-Resilient VLM-Augmented Urban Navigation](https://arxiv.org/abs/2606.20458) | 2026 | Paper | — |
 | [Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models](https://arxiv.org/abs/2605.13119) | 2026 | Paper | — |
@@ -102,6 +106,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation](https://arxiv.org/abs/2506.22827) | 2025 | Paper | — |
 | [Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](https://arxiv.org/abs/2504.14588) | 2025 | Paper | <a href="https://github.com/GeWu-Lab/Motion-based-Self-Reflection-Framework"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction](https://arxiv.org/abs/2505.12224) | 2025 | Paper | <a href="https://github.com/MINT-SJTU/RoboFAC"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Self-Improving Loops for Visual Robotic Planning](https://arxiv.org/abs/2506.06658) | 2025 | Paper | <a href="https://github.com/brown-palm/silvr"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="o1-a2"></a>
 
@@ -131,6 +136,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper | — |
 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) | 2026 | Paper | — |
 | [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
+| [Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
 | [LITHE: Bridging Best-Effort Python and Real-Time C++ for Hot-Swapping Robotic Control Laws on Commodity Linux](https://arxiv.org/abs/2603.07442) | 2026 | Paper | — |
 | [OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies](https://arxiv.org/abs/2610.02459v1) | 2026 | Paper | <a href="https://github.com/terminalworld/OpenRUA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Recursive Self-Improvement of Visuomotor Policies through Local Recovery Supervision](https://arxiv.org/abs/2610.05151) | 2026 | Paper | — |
@@ -175,6 +181,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [SAIL: Test-Time Scaling for In-Context Imitation Learning with VLM](https://arxiv.org/abs/2603.08269) | 2026 | Paper | — |
 | [SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning](https://arxiv.org/abs/2606.08992) | 2026 | Paper | — |
 | [SysNav: Multi-Level Systematic Cooperation Enables Real-World, Cross-Embodiment Object Navigation](https://arxiv.org/abs/2603.06914) | 2026 | Paper | <a href="https://github.com/zwandering/SysNav"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Uni-Skill: Building Self-Evolving Skill Repository for Generalizable Robotic Manipulation](https://arxiv.org/abs/2603.02623) | 2026 | Paper | — |
 | [A Pragmatist Robot: Learning to Plan Tasks by Experiencing the Real World](https://arxiv.org/abs/2507.16713) | 2025 | Paper | <a href="https://github.com/leggedrobotics/pragmabot"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments](https://arxiv.org/abs/2503.00729) | 2025 | Paper | <a href="https://github.com/SP4595/CLEA-Closed-Loop-Embodied-Agent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics](https://arxiv.org/abs/2504.21716) | 2025 | Paper | <a href="https://github.com/marc1198/chat-hsr"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -198,6 +205,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning](https://arxiv.org/abs/2309.16650) | 2023 | Paper | <a href="https://github.com/concept-graphs/concept-graphs"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [CoPAL: Corrective Planning of Robot Actions with Large Language Models](https://arxiv.org/abs/2310.07263) | 2023 | Paper | — |
 | [DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment](https://arxiv.org/abs/2307.00329) | 2023 | Paper | — |
+| [Language to Rewards for Robotic Skill Synthesis](https://arxiv.org/abs/2306.08647) | 2023 | Paper | <a href="https://github.com/google-deepmind/language_to_reward_2023"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoCo: Dialectic Multi-Robot Collaboration with Large Language Models](https://arxiv.org/abs/2307.04738) | 2023 | Paper | <a href="https://github.com/MandiZhao/robot-collab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/abs/2307.06135) | 2023 | Paper | — |
 | [TidyBot: Personalized Robot Assistance with Large Language Models](https://arxiv.org/abs/2305.05658) | 2023 | Paper | <a href="https://github.com/jimmyyhwu/tidybot"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -337,6 +345,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models](https://arxiv.org/abs/2409.19471) | 2024 | Paper | <a href="https://github.com/lt-asset/selp"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers](https://arxiv.org/abs/2306.06531) | 2023 | Paper | <a href="https://github.com/yongchao98/AutoTAMP"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Building Cooperative Embodied Agents Modularly with Large Language Models](https://arxiv.org/abs/2307.02485) | 2023 | Paper | <a href="https://github.com/UMass-Embodied-AGI/CoELA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Language to Rewards for Robotic Skill Synthesis](https://arxiv.org/abs/2306.08647) | 2023 | Paper | <a href="https://github.com/google-deepmind/language_to_reward_2023"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [LLM-State: Open World State Representation for Long-horizon Task Planning with Large Language Model](https://arxiv.org/abs/2311.17406) | 2023 | Paper | — |
 | [NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models](https://arxiv.org/abs/2305.16986) | 2023 | Paper | <a href="https://github.com/GengzeZhou/NavGPT"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction](https://arxiv.org/abs/2306.15724) | 2023 | Paper | <a href="https://github.com/columbia-ai-robotics/reflect"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |

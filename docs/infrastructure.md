@@ -26,6 +26,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation](https://arxiv.org/abs/2610.02274) | 2026 | Paper | — |
 | [ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction](https://arxiv.org/abs/2605.14398) | 2026 | Paper | — |
 | [CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes](https://arxiv.org/abs/2609.36024) | 2026 | Paper | — |
+| [D-World: An Explicit World-Language-Action Model with Recursive Self-Improvement under Dual Control](https://arxiv.org/abs/2610.17114) | 2026 | Paper | — |
 | [DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library](https://arxiv.org/abs/2609.35318) | 2026 | Paper | <a href="https://github.com/dexagent1/DexAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation](https://arxiv.org/abs/2609.23103) | 2026 | Paper | <a href="https://github.com/diaggen/diaggen"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction](https://arxiv.org/abs/2609.13082) | 2026 | Paper | — |
@@ -86,6 +87,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents](https://arxiv.org/abs/2610.20474) | 2026 | Paper | — |
 | [Agentic World Action Models](https://arxiv.org/abs/2610.30136) | 2026 | Paper | <a href="https://github.com/ZhuoyangLiu2005/agentic-wam"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) | 2026 | Paper | <a href="https://github.com/xinxinliu-ai/AgenticRoboRL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning](https://arxiv.org/abs/2606.10927) | 2026 | Paper | — |
 | [ARS: Agentic Reward System for Robot Learning](https://arxiv.org/abs/2609.34484) | 2026 | Paper | <a href="https://github.com/midea-ai/ars"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) | 2026 | Paper | — |
 | [Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation](https://arxiv.org/abs/2610.02274) | 2026 | Paper | — |
@@ -103,6 +105,9 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [GLM-5.3-Flash Skills: Embodied Data Engine](https://github.com/hxwxss/glm-skills-embodied) | 2026 | Repository | <a href="https://github.com/hxwxss/glm-skills-embodied"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884) | 2026 | Paper | <a href="https://github.com/insight-vla/insight"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Introducing Waddle: Agents that Control Robots](https://waddlelabs.ai/research/introducing-waddle) | 2026 | Project / report | — |
+| [Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
+| [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2610.03476) | 2026 | Paper | <a href="https://github.com/kaiknower/MobiAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [PlayWorld: Learning Robot World Models from Autonomous Play](https://arxiv.org/abs/2603.09030) | 2026 | Paper | <a href="https://github.com/irom-princeton/open-world"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations](https://arxiv.org/abs/2607.26809) | 2026 | Paper | — |
 | [RE-0: Verified Recursive Improvement of Embodied Code-as-Policy Agents through Local On-Policy Distillation](https://arxiv.org/abs/2609.32416) | 2026 | Paper | — |
 | [Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](https://arxiv.org/abs/2610.01178) | 2026 | Paper | — |
@@ -115,6 +120,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | 2026 | Paper | — |
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
 | [Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping](https://arxiv.org/abs/2603.03278) | 2026 | Paper | <a href="https://github.com/tether-research/tether"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Uni-Skill: Building Self-Evolving Skill Repository for Generalizable Robotic Manipulation](https://arxiv.org/abs/2603.02623) | 2026 | Paper | — |
 | [V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation](https://arxiv.org/abs/2604.09036) | 2026 | Paper | — |
 | [V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors](https://arxiv.org/abs/2603.18811) | 2026 | Paper | — |
 | [Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment](https://arxiv.org/abs/2607.14047) | 2026 | Paper | <a href="https://github.com/open-gigaai/Zero2Skill"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -156,14 +162,17 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) | 2026 | Paper | <a href="https://github.com/NVlabs/ENPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [EvoNav: Evolutionary Reward Function Design for Robot Navigation with Large Language Models](https://arxiv.org/abs/2605.11859) | 2026 | Paper | — |
 | [From Demonstrations to Rewards: Test-Time Prompt Optimization for VLM Reward Models](https://arxiv.org/abs/2606.00083) | 2026 | Paper | — |
+| [From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence](https://arxiv.org/abs/2601.21570) | 2026 | Paper | — |
 | [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [GenPHRI: Agentic Generative Simulation for Physical Human-Robot Interaction](https://arxiv.org/abs/2604.08664) | 2026 | Paper | — |
 | [GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch](https://arxiv.org/abs/2607.13960) | 2026 | Paper | — |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hermes Embodied: Self-Improving Robotics via Hermes Agent](https://github.com/bryercowan/hermes-embodied) | 2026 | Repository | <a href="https://github.com/bryercowan/hermes-embodied"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Hyperagents](https://arxiv.org/abs/2603.19461) | 2026 | Paper | <a href="https://github.com/facebookresearch/Hyperagents"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Introducing Waddle: Agents that Control Robots](https://waddlelabs.ai/research/introducing-waddle) | 2026 | Project / report | — |
 | [Nautilus: From One Prompt to Plug-and-Play Robot Learning](https://arxiv.org/abs/2605.11665) | 2026 | Paper | — |
 | [Nebius Physical AI](https://github.com/nebius/nebius-physical-ai) | 2026 | Software | <a href="https://github.com/nebius/nebius-physical-ai"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Predict Before You Modify: Learning Improvement Dynamics for Self-Evolving Agents](https://arxiv.org/abs/2610.13991) | 2026 | Paper | — |
 | [Prompt-to-Policy: Agentic Engineering for Reinforcement Learning](https://github.com/krafton-ai/Prompt2Policy) | 2026 | Repository | <a href="https://github.com/krafton-ai/Prompt2Policy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RDA: Reward Design Agent for Reinforcement Learning](https://arxiv.org/abs/2606.01672) | 2026 | Paper | — |
 | [ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies](https://arxiv.org/abs/2606.09630) | 2026 | Paper | — |
@@ -175,6 +184,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning](https://arxiv.org/abs/2605.09423) | 2026 | Paper | — |
 | [SUN: Agentic Robot Policy Learning with Persistent Task Programs](https://arxiv.org/abs/2608.31167) | 2026 | Paper | — |
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
+| [VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning](https://arxiv.org/abs/2610.08761) | 2026 | Paper | — |
 | [AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853) | 2025 | Paper | — |
 | [AURA: Autonomous Upskilling with Retrieval-Augmented Agents](https://arxiv.org/abs/2506.02507) | 2025 | Paper | — |
 | [CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks](https://arxiv.org/abs/2509.14380) | 2025 | Paper | — |
@@ -244,10 +254,13 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [autoresearch-robotics: Autonomous Robotics Research with Simulation Feedback](https://github.com/jellyheadandrew/autoresearch-robotics/tree/ff30cc481af9343b9c96f448b5ed72b75bfcd562) | 2026 | Repository | <a href="https://github.com/jellyheadandrew/autoresearch-robotics"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [BenchMend: Agent-Guided Instruction Repair for Robotics Benchmarks](https://tianqi-zh.github.io/BenchMend/) | 2026 | Project / report | — |
 | [CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes](https://arxiv.org/abs/2609.36024) | 2026 | Paper | — |
+| [D-World: An Explicit World-Language-Action Model with Recursive Self-Improvement under Dual Control](https://arxiv.org/abs/2610.17114) | 2026 | Paper | — |
 | [EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies](https://arxiv.org/abs/2610.13376) | 2026 | Paper | — |
 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) | 2026 | Paper | <a href="https://github.com/NVlabs/ENPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence](https://arxiv.org/abs/2601.21570) | 2026 | Paper | — |
 | [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
 | [RE-0: Verified Recursive Improvement of Embodied Code-as-Policy Agents through Local On-Policy Distillation](https://arxiv.org/abs/2609.32416) | 2026 | Paper | — |
 | [ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies](https://arxiv.org/abs/2606.09630) | 2026 | Paper | — |
