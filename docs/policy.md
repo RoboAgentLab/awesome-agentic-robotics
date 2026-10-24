@@ -145,6 +145,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Embodied First Exam](https://github.com/mll-lab-nu/embodied-first-exam) | 2026 | Repository | <a href="https://github.com/mll-lab-nu/embodied-first-exam"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ETM: Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper · [Project](https://ropedia.github.io/ropedia-a0/) | — |
 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) | 2026 | Paper | — |
+| [Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback](https://arxiv.org/abs/2610.12549) | 2026 | Paper · [Project](https://fly-by-code.github.io/) | — |
 | [Gemini 4 Argon: Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [GLIDE: Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
 | [LITHE: Bridging Best-Effort Python and Real-Time C++ for Hot-Swapping Robotic Control Laws on Commodity Linux](https://arxiv.org/abs/2603.07442) | 2026 | Paper | — |
@@ -196,6 +197,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [PragmaBot: A Pragmatist Robot: Learning to Plan Tasks by Experiencing the Real World](https://arxiv.org/abs/2507.16713) | 2025 | Paper | <a href="https://github.com/leggedrobotics/pragmabot"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments](https://arxiv.org/abs/2503.00729) | 2025 | Paper | <a href="https://github.com/SP4595/CLEA-Closed-Loop-Embodied-Agent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [IDRA-H: LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics](https://arxiv.org/abs/2504.21716) | 2025 | Paper | <a href="https://github.com/marc1198/chat-hsr"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints](https://arxiv.org/abs/2501.03841) | 2025 | Paper · [Project](https://omnimanip.github.io/) | — |
 | [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415) | 2025 | Paper | — |
 | [RoboReflect: A Robotic Reflective Reasoning Framework for Grasping Ambiguous-Condition Objects](https://arxiv.org/abs/2501.09307) | 2025 | Paper | — |
 | [Proprio-MLLM: Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots](https://arxiv.org/abs/2510.07882) | 2025 | Paper | <a href="https://github.com/ds199895/DualTHOR"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -277,6 +279,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [WAA: World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal](https://arxiv.org/abs/2609.29964) | 2026 | Paper | — |
 | [ARNA: General-Purpose Robotic Navigation via LVLM-Orchestrated Perception, Reasoning, and Acting](https://arxiv.org/abs/2506.17462) | 2025 | Paper | — |
 | [RAI: Flexible Agent Framework for Embodied AI](https://arxiv.org/abs/2505.07532) | 2025 | Paper | <a href="https://github.com/RobotecAI/rai"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [ROSA: Enabling Novel Mission Operations and Interactions with ROSA: The Robot Operating System Agent](https://arxiv.org/abs/2410.06472) | 2024 | Paper · [Project](https://github.com/nasa-jpl/rosa) | <a href="https://github.com/nasa-jpl/rosa"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="o2-a3"></a>
 
@@ -291,6 +294,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) | 2026 | Paper | <a href="https://github.com/capgym/cap-x"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [PyRUA-Lean: Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens](https://arxiv.org/abs/2610.01939) | 2026 | Paper | <a href="https://github.com/DAGroup-PKU/PyRUA-Lean"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback](https://arxiv.org/abs/2610.12549) | 2026 | Paper · [Project](https://fly-by-code.github.io/) | — |
 | [AgentChord: From Reaction to Anticipation: Proactive Failure Recovery through Agentic Task Graph for Robotic Manipulation](https://arxiv.org/abs/2605.11951) | 2026 | Paper | <a href="https://github.com/EDEM-AI/AgentChord"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369) | 2026 | Paper | <a href="https://github.com/graph-robots/graph-as-policy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Guava: Distilling Frontier VLM Agents into a Compact Model with a Manipulation Harness](https://arxiv.org/abs/2606.18363) | 2026 | Paper | <a href="https://github.com/hdacnw/guava-release"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -322,7 +326,9 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [GenCHiP: Generating Robot Policy Code for High-Precision and Contact-Rich Manipulation Tasks](https://arxiv.org/abs/2404.06645) | 2024 | Paper | — |
 | [LRLL: Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models](https://arxiv.org/abs/2406.18746) | 2024 | Paper | — |
 | [MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation](https://arxiv.org/abs/2411.17636) | 2024 | Paper | — |
+| [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation](https://arxiv.org/abs/2409.01652) | 2024 | Paper · [Project](https://rekep-robot.github.io/) | <a href="https://github.com/huangwl18/ReKep"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RePLan: Robotic Replanning with Perception and Language Models](https://arxiv.org/abs/2401.04157) | 2024 | Paper | — |
+| [RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis](https://proceedings.mlr.press/v235/mu24a.html) | 2024 | Paper · [Project](https://sites.google.com/view/robocodexplus) | <a href="https://github.com/RoboCodeX-source/RoboCodeX_code"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboScript: Code Generation for Free-Form Manipulation Tasks across Real and Simulation](https://arxiv.org/abs/2402.14623) | 2024 | Paper | <a href="https://github.com/SgtVincent/RoboScript"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning](https://arxiv.org/abs/2406.19741) | 2024 | Paper | <a href="https://github.com/huawei-noah/HEBO/tree/master/ROSLLM"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [CodeBotler: Deploying and Evaluating LLMs to Program Service Mobile Robots](https://arxiv.org/abs/2311.11183) | 2023 | Paper | <a href="https://github.com/ut-amrl/codebotler"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -330,6 +336,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://arxiv.org/abs/2305.11176) | 2023 | Paper | <a href="https://github.com/OpenGVLab/Instruct2Act"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HALP: Lifelong Robot Learning with Human Assisted Language Planners](https://arxiv.org/abs/2309.14321) | 2023 | Paper | — |
 | [Statler: State-Maintaining Language Models for Embodied Reasoning](https://arxiv.org/abs/2306.17840) | 2023 | Paper | <a href="https://github.com/ripl/statler"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://arxiv.org/abs/2307.05973) | 2023 | Paper · [Project](https://voxposer.github.io/) | <a href="https://github.com/huangwl18/VoxPoser"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Code as Policies: Language Model Programs for Embodied Control](https://arxiv.org/abs/2209.07753) | 2022 | Paper | <a href="https://github.com/google-research/google-research/tree/master/code_as_policies"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ProgPrompt: Generating Situated Robot Task Plans using Large Language Models](https://arxiv.org/abs/2209.11302) | 2022 | Paper | — |
 
@@ -390,6 +397,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation](https://arxiv.org/abs/2609.38905) | 2026 | Paper | — |
 | [Jev Arm Demo: Jev vs LLM: Robot Arm Control](https://github.com/FazalAAli/jev-robotics-demo) | 2026 | Engineering demo | <a href="https://github.com/FazalAAli/jev-robotics-demo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarness (Huang): RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning](https://arxiv.org/abs/2607.18060) | 2026 | Paper | — |
+| [VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks](https://arxiv.org/abs/2412.18194) | 2024 | Paper · [Project](https://vlabench.github.io/) | <a href="https://github.com/OpenMOSS/VLABench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="o3-a3"></a>
 
@@ -418,8 +426,10 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [LMPC: Learning to Learn Faster from Human Feedback with Language Model Predictive Control](https://arxiv.org/abs/2402.11450) | 2024 | Paper | — |
 | [LRLL: Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models](https://arxiv.org/abs/2406.18746) | 2024 | Paper | — |
 | [MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation](https://arxiv.org/abs/2411.17636) | 2024 | Paper | — |
+| [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation](https://arxiv.org/abs/2409.01652) | 2024 | Paper · [Project](https://rekep-robot.github.io/) | <a href="https://github.com/huangwl18/ReKep"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboScript: Code Generation for Free-Form Manipulation Tasks across Real and Simulation](https://arxiv.org/abs/2402.14623) | 2024 | Paper | <a href="https://github.com/SgtVincent/RoboScript"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models](https://arxiv.org/abs/2309.10062) | 2023 | Paper | <a href="https://github.com/SMARTlab-Purdue/SMART-LLM"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://arxiv.org/abs/2307.05973) | 2023 | Paper · [Project](https://voxposer.github.io/) | <a href="https://github.com/huangwl18/VoxPoser"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Code as Policies: Language Model Programs for Embodied Control](https://arxiv.org/abs/2209.07753) | 2022 | Paper | <a href="https://github.com/google-research/google-research/tree/master/code_as_policies"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ProgPrompt: Generating Situated Robot Task Plans using Large Language Models](https://arxiv.org/abs/2209.11302) | 2022 | Paper | — |
 

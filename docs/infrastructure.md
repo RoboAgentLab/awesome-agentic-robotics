@@ -71,6 +71,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos](https://arxiv.org/abs/2610.04432) | 2026 | Paper | <a href="https://github.com/AetherLabsAI/Video2World"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853) | 2025 | Paper | — |
 | [Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model](https://proceedings.iclr.cc/paper_files/paper/2025/hash/2c8047bf3ed8ef6905351608d641f02f-Abstract-Conference.html) | 2025 | Paper | <a href="https://github.com/vlongle/articulate-anything"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent](https://arxiv.org/abs/2509.20414) | 2025 | Paper · [Project](https://scene-weaver.github.io/) | <a href="https://github.com/Scene-Weaver/SceneWeaver"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos](https://arxiv.org/abs/2502.09886) | 2025 | Paper | — |
 | [Eurekaverse: Environment Curriculum Generation via Large Language Models](https://arxiv.org/abs/2411.01775) | 2024 | Paper | <a href="https://github.com/eureka-research/eurekaverse"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://arxiv.org/abs/2410.03645) | 2024 | Paper | <a href="https://github.com/GenSim2/GenSim2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -78,6 +79,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code](https://arxiv.org/abs/2405.15568) | 2024 | Paper | <a href="https://github.com/maxencefaldor/omni-epic"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models](https://arxiv.org/abs/2310.18308) | 2023 | Paper | <a href="https://github.com/pushkalkatara/Gen2Sim"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GenSim: Generating Robotic Simulation Tasks via Large Language Models](https://arxiv.org/abs/2310.01361) | 2023 | Paper | <a href="https://github.com/liruiw/GenSim"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://arxiv.org/abs/2312.09067) | 2023 | Paper · [Project](https://yueyang.ai/holodeck/) | <a href="https://github.com/allenai/Holodeck"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation](https://arxiv.org/abs/2311.01455) | 2023 | Paper | <a href="https://github.com/Genesis-Embodied-AI/RoboGen"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="infrastructure-dataset-construction"></a>
@@ -188,6 +190,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [SUN: Agentic Robot Policy Learning with Persistent Task Programs](https://arxiv.org/abs/2608.31167) | 2026 | Paper | — |
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
 | [VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning](https://arxiv.org/abs/2610.08761) | 2026 | Paper | — |
+| [IKER: A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards](https://arxiv.org/abs/2502.08643) | 2025 | Paper · [Project](https://iker-robot.github.io/) | <a href="https://github.com/shivanshpatel35/IKER"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853) | 2025 | Paper | — |
 | [AURA (Zhu): AURA: Autonomous Upskilling with Retrieval-Augmented Agents](https://arxiv.org/abs/2506.02507) | 2025 | Paper | — |
 | [CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks](https://arxiv.org/abs/2509.14380) | 2025 | Paper | — |
@@ -260,6 +263,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [D-World: An Explicit World-Language-Action Model with Recursive Self-Improvement under Dual Control](https://arxiv.org/abs/2610.17114) | 2026 | Paper | — |
 | [EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies](https://arxiv.org/abs/2610.13376) | 2026 | Paper | — |
 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) | 2026 | Paper | <a href="https://github.com/NVlabs/ENPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback](https://arxiv.org/abs/2610.12549) | 2026 | Paper · [Project](https://fly-by-code.github.io/) | — |
 | [RoboCoach: From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence](https://arxiv.org/abs/2601.21570) | 2026 | Paper | — |
 | [SERA: From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560) | 2026 | Paper | <a href="https://github.com/StevenKKXS/SERA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Gemini 4 Argon: Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
