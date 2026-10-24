@@ -258,14 +258,16 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies](https://arxiv.org/abs/2610.13376) | 2026 | Paper | — |
 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) | 2026 | Paper | <a href="https://github.com/NVlabs/ENPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence](https://arxiv.org/abs/2601.21570) | 2026 | Paper | — |
+| [From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560) | 2026 | Paper | <a href="https://github.com/StevenKKXS/SERA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
+| [Learning to Compose: Recursive Self-Improvement of Shared Executable Stacks for Zero-Shot Long-Horizon Robot Manipulation](https://arxiv.org/abs/2610.24464) | 2026 | Paper | <a href="https://github.com/cocacola-lab/Recursia"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
 | [RE-0: Verified Recursive Improvement of Embodied Code-as-Policy Agents through Local On-Policy Distillation](https://arxiv.org/abs/2609.32416) | 2026 | Paper | — |
 | [ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies](https://arxiv.org/abs/2606.09630) | 2026 | Paper | — |
 | [Recursive Self-Improvement of Visuomotor Policies through Local Recovery Supervision](https://arxiv.org/abs/2610.05151) | 2026 | Paper | — |
-| [RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies](https://robodoctor-rsi.github.io/) | 2026 | Project / report | — |
+| [RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies](https://robodoctor-rsi.github.io/) | 2026 | Project / report | <a href="https://github.com/THUSI-Lab/RoboDoctor"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboLineage: Agent-Native Data Lifecycle Governance Across Robot Policy Iterations](https://arxiv.org/abs/2606.22142) | 2026 | Paper | <a href="https://github.com/robolineage/robolineage"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks](https://arxiv.org/abs/2610.18835) | 2026 | Paper | <a href="https://github.com/robosimstudio/robosimstudio"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SPINE: Bridging the Cyber-Physical Gap with Agentic AI](https://arxiv.org/abs/2607.13049) | 2026 | Paper | — |

@@ -88,6 +88,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Critic in the Loop: A Tri-System VLA Framework for Robust Long-Horizon Manipulation](https://arxiv.org/abs/2603.05185) | 2026 | Paper | — |
 | [CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding](https://arxiv.org/abs/2601.02295) | 2026 | Paper | <a href="https://github.com/dannymcy/cyclevla_code"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Diagnosing Semantic Handoff Failures in Agent-Orchestrated Vision-Language-Action Skill Composition](https://arxiv.org/abs/2607.06256) | 2026 | Paper | — |
+| [From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560) | 2026 | Paper | <a href="https://github.com/StevenKKXS/SERA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection](https://arxiv.org/abs/2604.13942) | 2026 | Paper | — |
 | [Has GPT-6-Astra Achieved Embodied Intelligence?](https://arxiv.org/abs/2610.22471) | 2026 | Paper | <a href="https://github.com/OpenSenseNova/SenseNova-RoboRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HINT: Human-Intent Inception for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2609.02653) | 2026 | Paper | — |
@@ -118,6 +119,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Astranomy: An Empirical Study of GPT-6 Astra as a Native Robot Policy](https://research.nvidia.com/labs/srl/projects/astranomy/) | 2026 | Project / report | — |
 | [Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) | 2026 | Paper | <a href="https://github.com/RLinf/RPent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884) | 2026 | Paper | <a href="https://github.com/insight-vla/insight"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Open Gemini 4 Argon Robot Harness — A Zero-Shot Bimanual Handover Case Study](https://ehehee.github.io/blog/open-gemini-harness/) | 2026 | Project / report | <a href="https://github.com/ehehee/open-gemini-robot-harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](https://arxiv.org/abs/2610.01178) | 2026 | Paper | — |
 | [ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction](https://arxiv.org/abs/2603.26997) | 2026 | Paper | <a href="https://github.com/ROSClaw/rosclaw"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Spotter: Let the Embodied Model Lead, and the VLM Reflect for It](https://arxiv.org/abs/2609.36808) | 2026 | Paper | <a href="https://github.com/zqc3117/Spotter"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -132,8 +134,9 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Act-Observe-Rewrite: Multimodal Coding Agents as In-Context Policy Learners for Robot Manipulation](https://arxiv.org/abs/2603.04466) | 2026 | Paper | — |
 | [Agent as Policy for Robotic Manipulation](https://arxiv.org/abs/2609.12541) | 2026 | Paper | <a href="https://github.com/agent-as-policy-2026/agent-as-policy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation](https://arxiv.org/abs/2610.07594) | 2026 | Paper | <a href="https://github.com/swirl-uk/BiGym2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Compile Once, Run Cheap: Frozen, Portable Skills for Embodied Agents, and What Recursive Self-Improvement Adds](https://arxiv.org/abs/2610.25114) | 2026 | Paper | <a href="https://github.com/Orillusion/embodied-skill-rsi"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied First Exam](https://github.com/mll-lab-nu/embodied-first-exam) | 2026 | Repository | <a href="https://github.com/mll-lab-nu/embodied-first-exam"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper | — |
+| [ETM: Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper · [Project](https://ropedia.github.io/ropedia-a0/) | — |
 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) | 2026 | Paper | — |
 | [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
@@ -254,7 +257,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [RHO: Your Coding Agent is Secretly a Roboticist](https://arxiv.org/abs/2606.16458) | 2026 | Paper | <a href="https://github.com/KE7/HELIX"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Robo-Harness K1: Harnessing Robot-Use Agents via Perception Augmentation](https://arxiv.org/abs/2609.29389) | 2026 | Paper | <a href="https://github.com/Robo-Harness/k1"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks](https://arxiv.org/abs/2603.11558) | 2026 | Paper | <a href="https://github.com/RoboClaw-Robotics/RoboClaw"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies](https://robodoctor-rsi.github.io/) | 2026 | Project / report | — |
+| [RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies](https://robodoctor-rsi.github.io/) | 2026 | Project / report | <a href="https://github.com/THUSI-Lab/RoboDoctor"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarn-Evo: Evolving Hierarchical Physical Knowledge for Self-Improving Robotic Manipulation](https://arxiv.org/abs/2609.37583) | 2026 | Paper | <a href="https://github.com/RUCKBReasoning/RoboHarn-Evo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://bincequ.github.io/RoboHarness/) | 2026 | Project / report | <a href="https://github.com/BinceQu/RoboHarness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning](https://arxiv.org/abs/2607.18060) | 2026 | Paper | — |
@@ -283,6 +286,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369) | 2026 | Paper | <a href="https://github.com/graph-robots/graph-as-policy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Guava: Distilling Frontier VLM Agents into a Compact Model with a Manipulation Harness](https://arxiv.org/abs/2606.18363) | 2026 | Paper | <a href="https://github.com/hdacnw/guava-release"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents](https://arxiv.org/abs/2610.23479) | 2026 | Paper | <a href="https://github.com/HexaFuture/HexaShell"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration](https://arxiv.org/abs/2610.23098) | 2026 | Paper | — |
 | [Introducing Waddle: Agents that Control Robots](https://waddlelabs.ai/research/introducing-waddle) | 2026 | Project / report | — |
 | [Make Code as Policy Great Again: Frontier Agents Write, Call, and Evolve Robot Tools](https://arxiv.org/abs/2609.39018) | 2026 | Paper | — |
 | [Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419) | 2026 | Paper | <a href="https://github.com/Playful-RATs/rats"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -388,7 +392,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) | 2026 | Paper | <a href="https://github.com/capgym/cap-x"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied First Exam](https://github.com/mll-lab-nu/embodied-first-exam) | 2026 | Repository | <a href="https://github.com/mll-lab-nu/embodied-first-exam"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning](https://arxiv.org/abs/2610.27039) | 2026 | Paper | — |
-| [Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper | — |
+| [ETM: Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper · [Project](https://ropedia.github.io/ropedia-a0/) | — |
 | [EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics](https://arxiv.org/abs/2609.27308) | 2026 | Paper | <a href="https://github.com/EmbodiedSWE/EmbodiedSWE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369) | 2026 | Paper | <a href="https://github.com/graph-robots/graph-as-policy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
