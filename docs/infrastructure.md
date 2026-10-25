@@ -266,6 +266,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
 | [vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966) | 2026 | Paper | <a href="https://github.com/allenai/vla-evaluation-harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://arxiv.org/abs/2608.09892) | 2026 | Paper | <a href="https://github.com/XPolicyLab/XPolicyLab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboPAIR: Jailbreaking LLM-Controlled Robots](https://arxiv.org/abs/2410.13691) | 2024 | Paper · [Project](https://robopair.org/) | <a href="https://github.com/arobey1/robopair"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="infrastructure-diagnosis"></a>
 
