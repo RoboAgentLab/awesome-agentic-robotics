@@ -69,6 +69,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [Text2MuJoCo](https://github.com/ShawnJoeng/Text2Mujoco) | 2026 | Repository | <a href="https://github.com/ShawnJoeng/Text2Mujoco"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Adaptive Environment Generation: Towards Adaptive Environment Generation for Training Embodied Agents](https://arxiv.org/abs/2602.06366) | 2026 | Paper | — |
 | [Artisan: Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark](https://arxiv.org/abs/2610.13947) | 2026 | Paper · [Project](https://physicalvision.github.io/artisan/) | <a href="https://github.com/physicalvision/artisan"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation](https://arxiv.org/abs/2610.11322) | 2026 | Paper · [Project](https://xingyoujun.github.io/usdcraft/) | — |
 | [V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation](https://arxiv.org/abs/2604.09036) | 2026 | Paper | — |
 | [V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors](https://arxiv.org/abs/2603.18811) | 2026 | Paper | — |
 | [Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos](https://arxiv.org/abs/2610.04432) | 2026 | Paper | <a href="https://github.com/AetherLabsAI/Video2World"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |

@@ -27,6 +27,8 @@ Agents direct robot task execution by selecting behaviors, orchestrating tools, 
 **Code / Model in A1 describes the executor, not the deciding agent.** Calling a Python API does not by itself establish A3. A project can appear in multiple cells because its documented configurations differ.
 
 Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE entries distinguish generated CaP programs from its released MCP execution interface. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
+
+GALATEA is included for deployment-time video motion planning through a fixed learned tracker. RoboHarness (BinceQu) retains V1 tool orchestration and adds V2 workspace code synthesis; the paper's reported results use V1.
 """,
     "infrastructure": """# Agent as Infrastructure
 

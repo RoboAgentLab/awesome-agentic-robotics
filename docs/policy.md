@@ -17,6 +17,8 @@ Agents direct robot task execution by selecting behaviors, orchestrating tools, 
 
 Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE entries distinguish generated CaP programs from its released MCP execution interface. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
 
+GALATEA is included for deployment-time video motion planning through a fixed learned tracker. RoboHarness (BinceQu) retains V1 tool orchestration and adds V2 workspace code synthesis; the paper's reported results use V1.
+
 ## Browse
 
 - [O1 / A1 Code](#o1-a1-code)
@@ -74,7 +76,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Show-Harness: Just a VLM Agent Can Play Robots](https://arxiv.org/abs/2609.10522) | 2026 | Paper | <a href="https://github.com/showlab/Show-Harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [TacZero: Training-Free Peg Insertion Using a General-Purpose Vision-Language Model with Tactile Feedback](https://arxiv.org/abs/2610.07621) | 2026 | Paper | — |
 | [Bitter Lesson: The Bitter Lesson Comes to Robotics](https://arxiv.org/abs/2610.25287) | 2026 | Paper | — |
-| [RoboDawn: Transferring the Intelligence of VLMs to Robotic Control](https://arxiv.org/abs/2609.22966v1) | 2026 | Paper | — |
+| [RoboDawn: Transferring the Intelligence of VLMs to Robotic Control](https://arxiv.org/abs/2609.22966v1) | 2026 | Paper · [Project](https://robodawn.top/) | <a href="https://github.com/Hugo-AGI/RoboDawn"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VABench: Measuring Embodied Spatial Intelligence through Visual Demonstrations, Active Perception, and Metric Control](https://arxiv.org/abs/2609.19554v1) | 2026 | Paper | <a href="https://github.com/zhangzhongbo2213/VABench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VIA: Visual Interface Agent for Robot Control](https://arxiv.org/abs/2607.11119) | 2026 | Paper | <a href="https://github.com/hengyuan-hu/via"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [MissionBench: Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents](https://arxiv.org/abs/2607.22014v1) | 2026 | Paper · [Project](https://gomtae.github.io/publications/missionbench) | <a href="https://github.com/FraunhoferIVI/MissionBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -106,6 +108,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication](https://arxiv.org/abs/2610.02161v1) | 2026 | Paper · [Project](https://hanchuzhou.github.io/duomind_project_page/) | <a href="https://github.com/ucd-dare/DuoMind"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SERA: From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560) | 2026 | Paper | <a href="https://github.com/StevenKKXS/SERA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection](https://arxiv.org/abs/2604.13942) | 2026 | Paper | — |
+| [GALATEA: Grounding Generated Video Plans in Simulation Towards Versatile Dexterous Controllers](https://arxiv.org/abs/2609.10050) | 2026 | Paper · [Project](https://boyuan-an.github.io/GALATEA/) | <a href="https://github.com/boyuan-an/GALATEA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SenseNova-RoboRSI: Has GPT-6-Astra Achieved Embodied Intelligence?](https://arxiv.org/abs/2610.22471) | 2026 | Paper | <a href="https://github.com/OpenSenseNova/SenseNova-RoboRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control](https://arxiv.org/abs/2607.03449v1) | 2026 | Paper | <a href="https://github.com/HappyWaterXP/HiMe"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HINT: Human-Intent Inception for Long-Horizon Robot Manipulation](https://arxiv.org/abs/2609.02653) | 2026 | Paper | — |
@@ -305,7 +308,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks](https://arxiv.org/abs/2603.11558) | 2026 | Paper | <a href="https://github.com/RoboClaw-Robotics/RoboClaw"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies](https://robodoctor-rsi.github.io/) | 2026 | Project / report | <a href="https://github.com/THUSI-Lab/RoboDoctor"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarn-Evo: Evolving Hierarchical Physical Knowledge for Self-Improving Robotic Manipulation](https://arxiv.org/abs/2609.37583) | 2026 | Paper | <a href="https://github.com/RUCKBReasoning/RoboHarn-Evo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [RoboHarness (BinceQu): RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://bincequ.github.io/RoboHarness/) | 2026 | Project / report | <a href="https://github.com/BinceQu/RoboHarness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboHarness (BinceQu): RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://arxiv.org/abs/2610.14018) | 2026 | Paper · [Project](https://bincequ.github.io/RoboHarness/) | <a href="https://github.com/BinceQu/RoboHarness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarness (Huang): RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning](https://arxiv.org/abs/2607.18060) | 2026 | Paper | — |
 | [ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction](https://arxiv.org/abs/2603.26997) | 2026 | Paper | <a href="https://github.com/ROSClaw/rosclaw"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SCOPE: Real-Time Natural Language Camera Agent at the Edge](https://arxiv.org/abs/2606.02951) | 2026 | Paper | — |
@@ -350,6 +353,7 @@ Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE
 | [Retriever: Composing the Perception-Reasoning-Action Loop for Long-Horizon Manipulation](https://arxiv.org/abs/2607.17213) | 2026 | Paper | <a href="https://github.com/openretriever/retriever"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RHO: Your Coding Agent is Secretly a Roboticist](https://arxiv.org/abs/2606.16458) | 2026 | Paper | <a href="https://github.com/KE7/HELIX"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents](https://arxiv.org/abs/2609.32862) | 2026 | Paper | — |
+| [RoboHarness (BinceQu): RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://arxiv.org/abs/2610.14018) | 2026 | Paper · [Project](https://bincequ.github.io/RoboHarness/) | <a href="https://github.com/BinceQu/RoboHarness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RAX: Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) | 2026 | Paper | <a href="https://github.com/robot-agent-exploration/rax/tree/real/franka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | 2026 | Paper | — |
 | [Physical Coding: Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432) | 2026 | Paper | — |
