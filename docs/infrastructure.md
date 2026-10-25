@@ -44,6 +44,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [glm-skills-embodied: GLM-5.3-Flash Skills: Embodied Data Engine](https://github.com/hxwxss/glm-skills-embodied) | 2026 | Repository | <a href="https://github.com/hxwxss/glm-skills-embodied"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HomeBody: A Humanoid That Explores, Remembers, and Acts on Its Own](https://tml.stanford.edu/homebody/) | 2026 | Project / report | <a href="https://github.com/Stanford-TML/homebody"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Reflective Test-Time Planning: Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](https://arxiv.org/html/2602.21198) | 2026 | Paper · [Project](https://reflective-test-time-planning.github.io) | — |
 | [ManipEvalAgent: Promptable and Efficient Evaluation Framework for Robotic Manipulation Policies](https://proceedings.iclr.cc/paper_files/paper/2026/file/8833c8aa10542d24d693bbaf6a4598f5-Paper-Conference.pdf) | 2026 | Paper | — |
 | [PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement](https://arxiv.org/abs/2602.14968) | 2026 | Paper | — |
 | [RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249) | 2026 | Paper | — |
@@ -147,6 +148,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos](https://arxiv.org/abs/2502.09886) | 2025 | Paper | — |
 | [SOAR: Autonomous Improvement of Instruction Following Skills via Foundation Models](https://arxiv.org/abs/2407.20635) | 2024 | Paper | <a href="https://github.com/rail-berkeley/soar"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents](https://arxiv.org/abs/2401.12963) | 2024 | Paper | — |
+| [BBSEA: An Exploration of Brain-Body Synchronization for Embodied Agents](https://arxiv.org/html/2402.08212) | 2024 | Paper · [Project](https://bbsea-embodied-ai.github.io) | — |
 | [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://arxiv.org/abs/2410.03645) | 2024 | Paper | <a href="https://github.com/GenSim2/GenSim2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Manipulate-Anything: Automating Real-World Robots using Vision-Language Models](https://arxiv.org/abs/2406.18915) | 2024 | Paper | <a href="https://github.com/Robot-MA/manipulate-anything"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting](https://arxiv.org/abs/2403.03174) | 2024 | Paper | <a href="https://github.com/moka-manipulation/moka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -209,6 +211,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [AURA (Zhu): AURA: Autonomous Upskilling with Retrieval-Augmented Agents](https://arxiv.org/abs/2506.02507) | 2025 | Paper | — |
 | [CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks](https://arxiv.org/abs/2509.14380) | 2025 | Paper | — |
 | [ELEMENTAL: Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics](https://proceedings.mlr.press/v267/chen25at.html) | 2025 | Paper | — |
+| [LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation](https://arxiv.org/html/2506.01538) | 2025 | Paper · [Project](https://windylab.github.io/LAMARL/) | — |
 | [Reflective Adaptation: Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710) | 2025 | Paper | — |
 | [RE-GoT: Reward Evolution with Graph-of-Thoughts: A Bi-Level Language Model Framework for Reinforcement Learning](https://arxiv.org/abs/2509.16136) | 2025 | Paper | — |
 | [STRIDE: Automating Reward Design, Deep Reinforcement Learning Training and Feedback Optimization in Humanoid Robotics Locomotion](https://arxiv.org/abs/2502.04692) | 2025 | Paper | — |
@@ -222,9 +225,11 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [Game On: Towards Language Models as RL Experimenters](https://arxiv.org/abs/2409.03402) | 2024 | Paper | — |
 | [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://arxiv.org/abs/2410.03645) | 2024 | Paper | <a href="https://github.com/GenSim2/GenSim2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Self-Alignment: Learning Reward for Robot Skills Using Large Language Models via Self-Alignment](https://proceedings.mlr.press/v235/zeng24d.html) | 2024 | Paper | — |
+| [LLM Locomotion Design: Leveraging large language models for comprehensive locomotion control in humanoid robots design](https://doi.org/10.1016/j.birob.2024.100187) | 2024 | Paper | — |
 | [REvolve (2024): REvolve: Reward Evolution with Large Language Models using Human Feedback](https://arxiv.org/abs/2406.01309) | 2024 | Paper | <a href="https://github.com/RishiHazra/Revolve"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SDS: SDS – See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration](https://arxiv.org/abs/2410.11571) | 2024 | Paper | <a href="https://github.com/RPL-CS-UCL/SDS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning](https://arxiv.org/abs/2412.05515) | 2024 | Paper | — |
+| [BOSS: Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance](https://arxiv.org/html/2310.10021) | 2023 | Paper | — |
 | [Eureka: Human-Level Reward Design via Coding Large Language Models](https://arxiv.org/abs/2310.12931) | 2023 | Paper | <a href="https://github.com/eureka-research/Eureka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models](https://arxiv.org/abs/2310.18308) | 2023 | Paper | <a href="https://github.com/pushkalkatara/Gen2Sim"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [LARG²: LARG, Language-based Automatic Reward and Goal Generation](https://arxiv.org/abs/2306.10985) | 2023 | Paper | — |
@@ -286,6 +291,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [GLIDE: Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
 | [Recursia: Learning to Compose: Recursive Self-Improvement of Shared Executable Stacks for Zero-Shot Long-Horizon Robot Manipulation](https://arxiv.org/abs/2610.24464) | 2026 | Paper | <a href="https://github.com/cocacola-lab/Recursia"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
+| [RAPT: Model-Predictive Out-of-Distribution Detection and Failure Diagnosis for Sim-to-Real Humanoid Deployment](https://arxiv.org/html/2602.01515) | 2026 | Paper · [Project](https://humphreymunn.github.io/RAPT/) | <a href="https://github.com/humphreymunn/RAPT"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RE-0: Verified Recursive Improvement of Embodied Code-as-Policy Agents through Local On-Policy Distillation](https://arxiv.org/abs/2609.32416) | 2026 | Paper | — |
 | [ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies](https://arxiv.org/abs/2606.09630) | 2026 | Paper | — |
 | [Local Recovery: Recursive Self-Improvement of Visuomotor Policies through Local Recovery Supervision](https://arxiv.org/abs/2610.05151) | 2026 | Paper | — |
@@ -299,10 +305,13 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://arxiv.org/abs/2608.09892) | 2026 | Paper | <a href="https://github.com/XPolicyLab/XPolicyLab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AURA (Buchholz): A Collaborative Reasoning Framework for Anomaly Diagnostics in Underwater Robotics](https://arxiv.org/abs/2511.03075) | 2025 | Paper | — |
 | [Unified Failure Handling: A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees](https://arxiv.org/abs/2503.15202) | 2025 | Paper | — |
+| [Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection](https://arxiv.org/abs/2412.04455) | 2025 | Paper · [Project](https://zhoues.github.io/Code-as-Monitor) | — |
+| [UROSA: Distributed AI Agents for Cognitive Underwater Robot Autonomy](https://arxiv.org/abs/2507.23735) | 2025 | Paper · [Project](https://markusbuchholz.github.io/urosa.html) | <a href="https://github.com/markusbuchholz/urosa_underwater_autonomy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Reflective Adaptation: Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710) | 2025 | Paper | — |
 | [RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction](https://arxiv.org/abs/2505.12224) | 2025 | Paper | <a href="https://github.com/MINT-SJTU/RoboFAC"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/abs/2506.22756) | 2025 | Paper · [Project](https://tangtaogo.github.io/RoboPearls/) | — |
 | [ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging](https://arxiv.org/abs/2507.07846) | 2025 | Paper | — |
+| [LLM2Swarm: Robot Swarms that Responsively Reason, Plan, and Collaborate through LLMs](https://arxiv.org/html/2410.11387) | 2024 | Paper | <a href="https://github.com/Pold87/LLM2Swarm"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction](https://arxiv.org/abs/2306.15724) | 2023 | Paper | <a href="https://github.com/columbia-ai-robotics/reflect"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 [Back to overview](../README.md)

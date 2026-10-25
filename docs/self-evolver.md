@@ -161,11 +161,13 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Agentic Robotics Loop: You Don't Need To Stay in The Loop: An Agentic Robotics Loop for Robot-Policy Improvement](https://arxiv.org/abs/2608.07555) | 2026 | Paper | — |
 | [Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment](https://arxiv.org/abs/2607.14047) | 2026 | Paper | <a href="https://github.com/open-gigaai/Zero2Skill"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [PragmaBot: A Pragmatist Robot: Learning to Plan Tasks by Experiencing the Real World](https://arxiv.org/abs/2507.16713) | 2025 | Paper | <a href="https://github.com/leggedrobotics/pragmabot"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [REMAC: Self-Reflective and Self-Evolving Multi-Agent Collaboration for Long-Horizon Robot Manipulation](https://arxiv.org/html/2503.22122) | 2025 | Paper · [Project](https://reamac-repo.github.io/remac-project-page/) | <a href="https://github.com/reamac-repo/remac-repo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415) | 2025 | Paper | — |
 | [RoboReflect: A Robotic Reflective Reasoning Framework for Grasping Ambiguous-Condition Objects](https://arxiv.org/abs/2501.09307) | 2025 | Paper | — |
 | [RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic](https://arxiv.org/abs/2512.21220) | 2025 | Paper | — |
 | [InterPreT: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning](https://arxiv.org/abs/2405.19758) | 2024 | Paper | <a href="https://github.com/hmz-15/interactive-predicate-learning"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [DROC: Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections](https://arxiv.org/abs/2311.10678) | 2023 | Paper | <a href="https://github.com/Stanford-ILIAD/droc"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Incremental Humanoid Learning: Incremental Learning of Humanoid Robot Behavior from Natural Interaction and Large Language Models](https://arxiv.org/html/2309.04316) | 2023 | Paper | — |
 
 <a id="self-evolver-rewards"></a>
 
@@ -233,6 +235,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Efficient Robot Design: Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models](https://haraduka.github.io/urdf-llm-opt/) | 2026 | Project / report | — |
 | [Auto-Robotist: When Search Becomes Memory: Accelerating Robot Design Discovery with Self-Evolving Skills](https://arxiv.org/abs/2605.25832) | 2026 | Paper | <a href="https://github.com/wangyf9/Auto-Robotist"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/abs/2506.00276) | 2025 | Paper | — |
+| [VLMgineer: Vision Language Models as Robotic Toolsmiths](https://arxiv.org/html/2507.12644) | 2025 | Paper · [Project](https://vlmgineer.github.io/) | <a href="https://github.com/vlmgineer/vlmgineer"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboMorph: Evolving Robot Morphology using Large Language Models](https://arxiv.org/abs/2407.08626) | 2024 | Paper | <a href="https://github.com/kevinxqiu/robomorph"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="self-evolver-model"></a>
