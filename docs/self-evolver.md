@@ -175,23 +175,40 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
+| [Agent-Driven RL: Agent-Driven Autonomous Reinforcement Learning Research: Iterative Policy Improvement for Quadruped Locomotion](https://arxiv.org/abs/2603.27416) | 2026 | Paper | — |
 | [AgenticRL: Agentic Reinforcement Learning with Self-Refinement for Complex UAV Navigation](https://arxiv.org/abs/2606.03963) | 2026 | Paper | — |
+| [CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](https://arxiv.org/abs/2607.01721) | 2026 | Paper | <a href="https://github.com/nihx9919/CoRe"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Debate2Create: Robot Co-design via Multi-Agent LLM Debate](https://proceedings.mlr.press/v306/qiu26c.html) | 2026 | Paper | — |
+| [EvoNav: Evolutionary Reward Function Design for Robot Navigation with Large Language Models](https://arxiv.org/abs/2605.11859) | 2026 | Paper | — |
+| [FATE: Closed-Loop Feasibility-Aware Task Generation with Active Repair for Physically Grounded Robotic Curricula](https://arxiv.org/abs/2603.01505) | 2026 | Paper | — |
+| [Demo2Reward: From Demonstrations to Rewards: Test-Time Prompt Optimization for VLM Reward Models](https://arxiv.org/abs/2606.00083) | 2026 | Paper | — |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hyperagents](https://arxiv.org/abs/2603.19461) | 2026 | Paper | <a href="https://github.com/facebookresearch/Hyperagents"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.02196v1) | 2026 | Paper | — |
 | [IDM: Predict Before You Modify: Learning Improvement Dynamics for Self-Evolving Agents](https://arxiv.org/abs/2610.13991) | 2026 | Paper | — |
 | [RDA: Reward Design Agent for Reinforcement Learning](https://arxiv.org/abs/2606.01672) | 2026 | Paper | — |
 | [SUN: Agentic Robot Policy Learning with Persistent Task Programs](https://arxiv.org/abs/2608.31167) | 2026 | Paper | — |
+| [AURA (Zhu): AURA: Autonomous Upskilling with Retrieval-Augmented Agents](https://arxiv.org/abs/2506.02507) | 2025 | Paper | — |
+| [CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks](https://arxiv.org/abs/2509.14380) | 2025 | Paper | — |
+| [ELEMENTAL: Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics](https://proceedings.mlr.press/v267/chen25at.html) | 2025 | Paper | — |
 | [Reflective Adaptation: Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710) | 2025 | Paper | — |
+| [RE-GoT: Reward Evolution with Graph-of-Thoughts: A Bi-Level Language Model Framework for Reinforcement Learning](https://arxiv.org/abs/2509.16136) | 2025 | Paper | — |
 | [RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/abs/2506.00276) | 2025 | Paper | — |
 | [STRIDE: Automating Reward Design, Deep Reinforcement Learning Training and Feedback Optimization in Humanoid Robotics Locomotion](https://arxiv.org/abs/2502.04692) | 2025 | Paper | — |
 | [Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos](https://arxiv.org/abs/2502.09886) | 2025 | Paper | — |
+| [CARD: A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/abs/2410.14660) | 2024 | Paper | — |
 | [Agentic Skill Discovery](https://arxiv.org/abs/2405.15019) | 2024 | Paper | <a href="https://github.com/xf-zhao/Agentic-Skill-Discovery"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation](https://arxiv.org/abs/2410.00371) | 2024 | Paper | <a href="https://github.com/NVlabs/AHA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Code as Reward: Empowering Reinforcement Learning with VLMs](https://proceedings.mlr.press/v235/venuto24a.html) | 2024 | Paper | — |
+| [DrEureka: Language Model Guided Sim-To-Real Transfer](https://arxiv.org/abs/2406.01967) | 2024 | Paper | <a href="https://github.com/eureka-research/DrEureka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ROSKA: Efficient Language-instructed Skill Acquisition via Reward-Policy Co-Evolution](https://arxiv.org/abs/2412.13492) | 2024 | Paper | <a href="https://github.com/NextMyLove/ROSKA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Self-Alignment: Learning Reward for Robot Skills Using Large Language Models via Self-Alignment](https://proceedings.mlr.press/v235/zeng24d.html) | 2024 | Paper | — |
 | [REvolve (2024): REvolve: Reward Evolution with Large Language Models using Human Feedback](https://arxiv.org/abs/2406.01309) | 2024 | Paper | <a href="https://github.com/RishiHazra/Revolve"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [SDS: SDS – See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration](https://arxiv.org/abs/2410.11571) | 2024 | Paper | <a href="https://github.com/RPL-CS-UCL/SDS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning](https://arxiv.org/abs/2412.05515) | 2024 | Paper | — |
 | [Eureka: Human-Level Reward Design via Coding Large Language Models](https://arxiv.org/abs/2310.12931) | 2023 | Paper | <a href="https://github.com/eureka-research/Eureka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Self-Refined LLM: Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics](https://arxiv.org/abs/2309.06687) | 2023 | Paper | — |
+| [Text2Reward: Reward Shaping with Language Models for Reinforcement Learning](https://arxiv.org/abs/2309.11489) | 2023 | Paper | <a href="https://github.com/xlang-ai/text2reward"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="self-evolver-environments-and-datasets"></a>
 
