@@ -507,6 +507,8 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents](https://arxiv.org/abs/2402.08178) | 2024 | Paper | <a href="https://github.com/lbaa2022/LLMTaskPlanning"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks](https://arxiv.org/abs/2412.18194) | 2024 | Paper · [Project](https://vlabench.github.io/) | <a href="https://github.com/OpenMOSS/VLABench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Safety Chip: Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents](https://arxiv.org/html/2309.09919v1) | 2023 | Paper | — |
+| [OmniSim](https://github.com/omnilink-tech/omnisim) | — | Software repository | <a href="https://github.com/omnilink-tech/omnisim"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Strands Robots](https://github.com/strands-labs/robots) | — | Software repository | <a href="https://github.com/strands-labs/robots"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="o3-a3"></a>
 
