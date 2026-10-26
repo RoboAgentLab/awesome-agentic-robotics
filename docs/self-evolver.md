@@ -116,6 +116,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](https://arxiv.org/abs/2606.18235) | 2026 | Paper | — |
 | [EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation](https://arxiv.org/abs/2606.03509) | 2026 | Paper | — |
 | [RoboSkill: Explore, Execute, Evolve: A Skill Acquisition and Reuse Loop for Embodied Agents](https://arxiv.org/abs/2609.37810) | 2026 | Paper | <a href="https://github.com/SII-dannyXSC/RoboSkill"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [FastHarness: Experience-Driven Review Scheduling for Vision-Language-Action Policies](https://arxiv.org/abs/2610.31427) | 2026 | Paper | <a href="https://github.com/FastHarness/fast-harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RPent: Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) | 2026 | Paper | <a href="https://github.com/RLinf/RPent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HarnessPAI: An Evolving Harness for Physical AI](https://arxiv.org/abs/2609.29166) | 2026 | Paper | — |
