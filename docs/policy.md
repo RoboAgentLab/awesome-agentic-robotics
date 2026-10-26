@@ -150,7 +150,9 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](https://arxiv.org/abs/2504.14588) | 2025 | Paper | <a href="https://github.com/GeWu-Lab/Motion-based-Self-Reflection-Framework"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction](https://arxiv.org/abs/2505.12224) | 2025 | Paper | <a href="https://github.com/MINT-SJTU/RoboFAC"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SILVR: Self-Improving Loops for Visual Robotic Planning](https://arxiv.org/abs/2506.06658) | 2025 | Paper | <a href="https://github.com/brown-palm/silvr"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [UniSim: Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114) | 2024 | Paper | — |
 | [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/abs/2412.04453) | 2024 | Paper · [Project](https://navila-bot.github.io) | <a href="https://github.com/AnjieCheng/NaVILA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [SuSIE: Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models](https://openreview.net/forum?id=c0chJTSbci) | 2024 | Paper | <a href="https://github.com/kvablack/susie"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378v1) | 2023 | Paper · [Project](https://palm-e.github.io) | — |
 
 <a id="o1-a2"></a>
