@@ -255,6 +255,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/abs/2506.00276) | 2025 | Paper | — |
 | [VLMgineer: Vision Language Models as Robotic Toolsmiths](https://arxiv.org/html/2507.12644) | 2025 | Paper · [Project](https://vlmgineer.github.io/) | <a href="https://github.com/vlmgineer/vlmgineer"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboMorph: Evolving Robot Morphology using Large Language Models](https://arxiv.org/abs/2407.08626) | 2024 | Paper | <a href="https://github.com/kevinxqiu/robomorph"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [ELM: Evolution through Large Models](https://arxiv.org/abs/2206.08896) | 2022 | Paper | — |
 
 <a id="self-evolver-model"></a>
 
