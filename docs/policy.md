@@ -202,6 +202,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [ETM: Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper · [Project](https://ropedia.github.io/ropedia-a0/) | — |
 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) | 2026 | Paper | — |
 | [Encore: Few-Shot Agentic Discovery of Manipulation Strategies](https://arxiv.org/abs/2609.37359v1) | 2026 | Paper · [Project](https://yifank.github.io/encore/) | <a href="https://github.com/YIFANK/encore"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboSkill: Explore, Execute, Evolve: A Skill Acquisition and Reuse Loop for Embodied Agents](https://arxiv.org/abs/2609.37810) | 2026 | Paper | <a href="https://github.com/SII-dannyXSC/RoboSkill"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback](https://arxiv.org/abs/2610.12549) | 2026 | Paper · [Project](https://fly-by-code.github.io/) | — |
 | [Gemini 4 Argon: Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [GLIDE: Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |

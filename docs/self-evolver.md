@@ -296,6 +296,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [URAI: Make Code as Policy Great Again: Frontier Agents Write, Call, and Evolve Robot Tools](https://arxiv.org/abs/2609.39018) | 2026 | Paper | — |
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
 | [RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning](https://arxiv.org/abs/2609.29394) | 2026 | Paper | <a href="https://github.com/Robo-Harness/racap"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [ResearchBoost: ResearchBoost-Agent: An autonomous agent that profiles, optimizes, and validates AI training code](https://github.com/AI4AI-for-Anything/ResearchBoost-Agent) | 2026 | Repository | <a href="https://github.com/AI4AI-for-Anything/ResearchBoost-Agent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RHO: Your Coding Agent is Secretly a Roboticist](https://arxiv.org/abs/2606.16458) | 2026 | Paper | <a href="https://github.com/KE7/HELIX"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Physical Coding: Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432) | 2026 | Paper | — |
 | [SimEX: Simulation-Integrated Robotics AutoResearch](https://arxiv.org/abs/2609.38982) | 2026 | Paper | — |
