@@ -104,6 +104,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | --- | --- | --- | --- |
 | [τ0-VLA: $\tau_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation](https://arxiv.org/abs/2608.16885) | 2026 | Paper · [Project](https://tau0-vla.github.io/) | <a href="https://github.com/sii-research/tau-0-vla"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation](https://arxiv.org/abs/2609.11308) | 2026 | Paper | — |
+| [ABot-N1: Toward a General Visual Language Navigation Foundation Model](https://arxiv.org/abs/2607.10383) | 2026 | Paper · [Project](https://amap-cvlab.github.io/ABot-Navigation/ABot-N1/) | <a href="https://github.com/amap-cvlab/ABot-Navigation/tree/ABotN-Bench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ActiveArena-Plan: ActiveArena: Benchmarking and Understanding Active Perception in Robotic Manipulation](https://arxiv.org/abs/2609.24124) | 2026 | Paper · [Project](https://leeibo.github.io/ActiveArena) | <a href="https://github.com/leeibo/ActiveArena"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning](https://arxiv.org/abs/2606.10927) | 2026 | Paper | — |
 | [AR-WAM: A Visual-Conditioned Agent-Ready World Action Model for Robotic Manipulation](https://arxiv.org/abs/2609.23578v1) | 2026 | Paper | — |
