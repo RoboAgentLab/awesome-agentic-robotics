@@ -73,7 +73,7 @@ def render():
         assert urlparse(paper["url"]).scheme == "https", paper["id"]
         if paper.get("code_url"):
             link = urlparse(paper["code_url"])
-            assert link.scheme == "https" and link.netloc == "github.com", paper["id"]
+            assert link.scheme == "https" and link.netloc in {"github.com", "zenodo.org"}, paper["id"]
     for name, intro in INTRO.items():
         groups = [g for g in CATEGORIES if section_file(g["name"]) == name]
         text = intro
@@ -90,6 +90,8 @@ def render():
             text += "| Work | Year | Source | Code |\n| --- | --- | --- | --- |\n"
             for p in entries:
                 code = f'<a href="{p["code_url"]}"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a>' if p.get("code_url") else "—"
+                if p.get("code_url") and urlparse(p["code_url"]).netloc == "zenodo.org":
+                    code = f'[Code archive]({p["code_url"]})'
                 if p.get("code_status") == "pending_release" and p.get("repository_url"):
                     code = f'[Code pending release]({p["repository_url"]})'
                 title = p["title"]

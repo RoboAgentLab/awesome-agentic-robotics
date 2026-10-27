@@ -40,6 +40,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
+| [Franka-LLM: A Conversational Framework for Human-Robot Collaborative Manipulation with Distributed Generative AI models](https://arxiv.org/abs/2606.06061) | 2026 | Paper | <a href="https://github.com/cogrob-tuni/franka-llm"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AgentRob: From Virtual Forum Agents to Hijacked Physical Robots](https://arxiv.org/abs/2602.13591v1) | 2026 | Paper | — |
 | [RoboProbe: An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond](https://arxiv.org/abs/2609.24170) | 2026 | Paper | <a href="https://github.com/RoboProbe/RoboProbe"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Astranomy: An Empirical Study of GPT-6 Astra as a Native Robot Policy](https://research.nvidia.com/labs/srl/projects/astranomy/) | 2026 | Project / report | — |
@@ -238,6 +239,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [ASPIRE-CaP: ASPIRE: Public Robot Skill Discovery Implementation](https://github.com/NVlabs/ASPIRE/tree/fa00f0ef2bc1d91d594b9aa502c22133c9f538f7) | 2026 | Repository | <a href="https://github.com/NVlabs/ASPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Constrained LLMs: Bridging Semantics and Physics with Constrained LLMs for Safe and Trustworthy Robotic Manipulation](https://arxiv.org/abs/2608.29379) | 2026 | Paper | — |
 | [CLOSER-VLN: Closed-Loop Self-Verified Retrieval-Augmented Reasoning for Aerial Vision-Language Navigation](https://arxiv.org/html/2606.28397) | 2026 | Paper | — |
+| [SafeHarness: Coding Agents with Harness for Safe Robot Control](https://arxiv.org/abs/2609.20822) | 2026 | Paper | — |
 | [Tactile-ETA: Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning](https://arxiv.org/abs/2610.27613) | 2026 | Paper | <a href="https://github.com/No-518/Tactile-ETA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [OpenETA: ETA: A New Agentic Paradigm for Embodied Tasks](https://arxiv.org/abs/2608.03924) | 2026 | Paper | <a href="https://github.com/OpenMOSS/OpenETA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ART: Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use](https://arxiv.org/abs/2608.14047) | 2026 | Paper | — |
@@ -320,6 +322,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [KPI: A Promptable Kernel for Physical Interaction on Humanoids](https://arxiv.org/abs/2609.36151) | 2026 | Paper | — |
 | [ME-Brain: ME-Brain-1.0: Memory, Cognition and Action for Evolving Embodied Intelligence](https://arxiv.org/abs/2609.24271) | 2026 | Paper | — |
 | [RoboCoach (Liu): RoboCoach: World Models as Active Coaches for Compositional Robot Skills](https://arxiv.org/abs/2609.39685) | 2026 | Paper · [Project](https://robocoach-ai.github.io/) | <a href="https://github.com/RoboCoach-AI/CoachWorld"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [UPS: When to Act, Ask, or Learn: Uncertainty-Aware Policy Steering](https://arxiv.org/abs/2602.22474) | 2026 | Paper | <a href="https://github.com/CMU-IntentLab/uncertainty_aware_policy_steering"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation](https://arxiv.org/abs/2505.01709) | 2025 | Paper | <a href="https://github.com/abliao/RoBridge"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Foundation Models to the Rescue: Deadlock Resolution in Connected Multi-Robot Systems](https://arxiv.org/html/2404.06413) | 2024 | Paper · [Project](https://mit-realm.github.io/LLM-gcbfplus-website/) | — |
 | [RobiButler: Robi Butler: Multimodal Remote Interaction with a Household Robot Assistant](https://arxiv.org/abs/2409.20548) | 2024 | Paper | <a href="https://github.com/threefruits/zoom_robot_interface"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -415,6 +418,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies](https://arxiv.org/abs/2610.10479) | 2026 | Paper | — |
 | [ASPIRE: Agentic /Skills Discovery for Robotics](https://arxiv.org/abs/2607.00272) | 2026 | Paper | <a href="https://github.com/NVlabs/ASPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ASPIRE-CaP: ASPIRE: Public Robot Skill Discovery Implementation](https://github.com/NVlabs/ASPIRE/tree/fa00f0ef2bc1d91d594b9aa502c22133c9f538f7) | 2026 | Repository | <a href="https://github.com/NVlabs/ASPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Auto-HSI: Personalized human control of a robot swarm on demand by using LLMs for online automatic code generation](https://arxiv.org/abs/2609.16346v1) | 2026 | Paper | [Code archive](https://zenodo.org/records/22758068) |
 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) | 2026 | Paper | <a href="https://github.com/capgym/cap-x"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](https://arxiv.org/html/2605.02600) | 2026 | Paper · [Project](https://sites.google.com/view/lira-coral) | — |
@@ -525,6 +529,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
 | [APPL: Agent Priors-guided Policy Learning](https://arxiv.org/abs/2609.35690) | 2026 | Paper | — |
+| [Kitchen-R: Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation](https://arxiv.org/abs/2508.15663) | 2025 | Paper | — |
 | [PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks](https://arxiv.org/abs/2411.00081) | 2024 | Paper | <a href="https://github.com/facebookresearch/partnr-planner"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments](https://arxiv.org/abs/2309.04077) | 2023 | Paper | <a href="https://github.com/arajv/SayNav"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
@@ -548,6 +553,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [RoboTalk: Learning Multi-Robot Communication and Coordination from Multimodal Demonstrations](https://arxiv.org/html/2609.23997v1) | 2026 | Paper | — |
 | [Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams](https://arxiv.org/abs/2603.08814) | 2026 | Paper | <a href="https://github.com/honda-research-institute/Scale_Plan"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks](https://arxiv.org/abs/2506.16402) | 2025 | Paper | <a href="https://github.com/AI45Lab/IS-Bench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [CLiMRS: Leveraging Adaptive Group Negotiation for Heterogeneous Multi-Robot Collaboration with Large Language Models](https://arxiv.org/abs/2602.06967) | 2025 | Paper | [Code pending release](https://github.com/song-siqi/CLiMRS) |
 | [RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills](https://arxiv.org/abs/2506.14763) | 2025 | Paper | <a href="https://github.com/UMass-Embodied-AGI/RobotSmith"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ReAd: Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration](https://aclanthology.org/2025.findings-acl.84/) | 2025 | Paper · [Project](https://embodied-read.github.io/) | — |
 | [EAI: Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making](https://arxiv.org/abs/2410.07166) | 2024 | Paper · [Project](https://embodied-agent-interface.github.io/) | <a href="https://github.com/embodied-agent-interface/embodied-agent-interface"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -576,6 +582,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning](https://arxiv.org/abs/2610.27039) | 2026 | Paper | — |
 | [ETM: Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper · [Project](https://ropedia.github.io/ropedia-a0/) | — |
 | [EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics](https://arxiv.org/abs/2609.27308) | 2026 | Paper | <a href="https://github.com/EmbodiedSWE/EmbodiedSWE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Heuristic Grasping: From False Positives to Failure Topologies: Heuristic Learning for Auditable Dexterous Grasping Development](https://doi.org/10.5281/zenodo.20922238) | 2026 | Paper | — |
 | [GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks](https://arxiv.org/abs/2607.05369) | 2026 | Paper | <a href="https://github.com/graph-robots/graph-as-policy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Gemini 4 Argon: Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [RATs: Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419) | 2026 | Paper | <a href="https://github.com/Playful-RATs/rats"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
