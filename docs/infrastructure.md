@@ -80,6 +80,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [GenManip: LLM-driven Simulation for Generalizable Instruction-Following Manipulation](https://arxiv.org/abs/2506.10966) | 2025 | Paper · [Project](https://genmanip.com/) | <a href="https://github.com/InternRobotics/GenManip"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboSimGS: High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting](https://arxiv.org/abs/2510.10637) | 2025 | Paper · [Project](https://robosimgs.github.io/) | <a href="https://github.com/Maxwell-Zhao/RoboSimGS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ReGen: Generative Robot Simulation via Inverse Design](https://arxiv.org/abs/2511.04769) | 2025 | Paper · [Project](https://regen-sim.github.io/) | — |
+| [RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](https://arxiv.org/abs/2506.06677) | 2025 | Paper | <a href="https://github.com/buaa-colalab/RoboCerebra"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/abs/2506.22756) | 2025 | Paper · [Project](https://tangtaogo.github.io/RoboPearls/) | — |
 | [SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent](https://arxiv.org/abs/2509.20414) | 2025 | Paper · [Project](https://scene-weaver.github.io/) | <a href="https://github.com/Scene-Weaver/SceneWeaver"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos](https://arxiv.org/abs/2502.09886) | 2025 | Paper | — |
@@ -145,9 +146,11 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853) | 2025 | Paper | — |
 | [HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning](https://arxiv.org/abs/2507.00833) | 2025 | Paper | <a href="https://github.com/TeleHuman/HumanoidGen"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](https://arxiv.org/abs/2504.14588) | 2025 | Paper | <a href="https://github.com/GeWu-Lab/Motion-based-Self-Reflection-Framework"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](https://arxiv.org/abs/2506.06677) | 2025 | Paper | <a href="https://github.com/buaa-colalab/RoboCerebra"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints](https://arxiv.org/abs/2503.16408v1) | 2025 | Paper · [Project](https://iranqin.github.io/robofactory/) | <a href="https://github.com/MARS-EAI/RoboFactory"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/abs/2506.22756) | 2025 | Paper · [Project](https://tangtaogo.github.io/RoboPearls/) | — |
 | [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://arxiv.org/abs/2506.18088) | 2025 | Paper | <a href="https://github.com/RoboTwin-Platform/RoboTwin"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins](https://arxiv.org/abs/2504.13059) | 2025 | Paper | <a href="https://github.com/RoboTwin-Platform/RoboTwin/tree/gpt"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos](https://arxiv.org/abs/2502.09886) | 2025 | Paper | — |
 | [SOAR: Autonomous Improvement of Instruction Following Skills via Foundation Models](https://arxiv.org/abs/2407.20635) | 2024 | Paper | <a href="https://github.com/rail-berkeley/soar"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents](https://arxiv.org/abs/2401.12963) | 2024 | Paper | — |
@@ -279,6 +282,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
+| [ATP-VPDSG: Adaptive Task Planning for Long-Horizon Robotic Manipulation Based on Video Priors and Dynamic Scene Graphs](https://doi.org/10.3390/s26175595) | 2026 | Paper | — |
 | [AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents](https://arxiv.org/abs/2610.20474) | 2026 | Paper | — |
 | [Agent-Driven RL: Agent-Driven Autonomous Reinforcement Learning Research: Iterative Policy Improvement for Quadruped Locomotion](https://arxiv.org/abs/2603.27416) | 2026 | Paper | — |
 | [Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies](https://arxiv.org/abs/2610.10479) | 2026 | Paper | — |
@@ -318,6 +322,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction](https://arxiv.org/abs/2505.12224) | 2025 | Paper | <a href="https://github.com/MINT-SJTU/RoboFAC"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/abs/2506.22756) | 2025 | Paper · [Project](https://tangtaogo.github.io/RoboPearls/) | — |
 | [ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging](https://arxiv.org/abs/2507.07846) | 2025 | Paper | — |
+| [LASP: Language-Augmented Symbolic Planner for Open-World Task Planning](https://arxiv.org/abs/2407.09792) | 2024 | Paper | — |
 | [LLM2Swarm: Robot Swarms that Responsively Reason, Plan, and Collaborate through LLMs](https://arxiv.org/html/2410.11387) | 2024 | Paper | <a href="https://github.com/Pold87/LLM2Swarm"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction](https://arxiv.org/abs/2306.15724) | 2023 | Paper | <a href="https://github.com/columbia-ai-robotics/reflect"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
