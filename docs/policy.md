@@ -258,7 +258,6 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://arxiv.org/abs/2609.38078) | 2026 | Paper | <a href="https://github.com/Motor-Mind/MotorMind-Code"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [NavProbe: Evidence-Grounded Reasoning with Active Memory Retrieval for Zero-Shot Navigation](https://arxiv.org/html/2609.27526v1) | 2026 | Paper | — |
 | [PLanAR: Planning-Language-Grounded Agentic Reasoning for Robot Manipulation](https://arxiv.org/abs/2602.01662) | 2026 | Paper | — |
-| [ZAP: Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent](https://arxiv.org/abs/2610.35817) | 2026 | Paper | — |
 | [RACAS: Controlling Diverse Robots With a Single Agentic System](https://arxiv.org/abs/2603.05621) | 2026 | Paper | <a href="https://github.com/janprz11/robot-agnostic-control"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics](https://arxiv.org/abs/2603.12939) | 2026 | Paper | — |
 | [SAIL: Test-Time Scaling for In-Context Imitation Learning with VLM](https://arxiv.org/abs/2603.08269) | 2026 | Paper | — |
@@ -375,6 +374,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [MaCoPlanner: LLM-Assisted Manual-Compiled Task Planning with Proactive Safety Verification for Robotic Industrial Panel Operation](https://arxiv.org/abs/2608.28300v1) | 2026 | Paper | <a href="https://github.com/XinGP/MaCoPlanner"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Distributed UAV Context: Managing Context and Communication in Distributed Agentic UAV Swarms](https://arxiv.org/html/2610.01569v1) | 2026 | Paper | — |
 | [PEACE: A Planner-Executor Agent with Constraint Enforcement for UAVs](https://arxiv.org/abs/2606.00104v1) | 2026 | Paper | — |
+| [ZAP: Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent](https://arxiv.org/abs/2610.35817) | 2026 | Paper | — |
 | [PROBE: Manipulation-Grounded Visual Question Answering with VLM Agents](https://arxiv.org/html/2608.17129v1) | 2026 | Paper | — |
 | [Qwen-RobotNav: Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System](https://arxiv.org/html/2606.18112v1) | 2026 | Paper | — |
 | [RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning](https://arxiv.org/abs/2609.29394) | 2026 | Paper | <a href="https://github.com/Robo-Harness/racap"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
