@@ -90,6 +90,8 @@ def render():
             text += "| Work | Year | Source | Code |\n| --- | --- | --- | --- |\n"
             for p in entries:
                 code = f'<a href="{p["code_url"]}"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a>' if p.get("code_url") else "—"
+                if p.get("code_status") == "pending_release" and p.get("repository_url"):
+                    code = f'[Code pending release]({p["repository_url"]})'
                 title = p["title"]
                 short_name = p.get("short_name", "")
                 if short_name:

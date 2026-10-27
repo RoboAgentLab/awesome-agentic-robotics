@@ -255,6 +255,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://arxiv.org/abs/2609.38078) | 2026 | Paper | <a href="https://github.com/Motor-Mind/MotorMind-Code"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [NavProbe: Evidence-Grounded Reasoning with Active Memory Retrieval for Zero-Shot Navigation](https://arxiv.org/html/2609.27526v1) | 2026 | Paper | — |
 | [PLanAR: Planning-Language-Grounded Agentic Reasoning for Robot Manipulation](https://arxiv.org/abs/2602.01662) | 2026 | Paper | — |
+| [ZAP: Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent](https://arxiv.org/abs/2610.35817) | 2026 | Paper | — |
 | [RACAS: Controlling Diverse Robots With a Single Agentic System](https://arxiv.org/abs/2603.05621) | 2026 | Paper | <a href="https://github.com/janprz11/robot-agnostic-control"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics](https://arxiv.org/abs/2603.12939) | 2026 | Paper | — |
 | [SAIL: Test-Time Scaling for In-Context Imitation Learning with VLM](https://arxiv.org/abs/2603.08269) | 2026 | Paper | — |
@@ -385,6 +386,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [SafeMem: Safe Task Planning with Long-Term Graph Memory for Embodied Agents](https://arxiv.org/html/2609.08444v1) | 2026 | Paper · [Project](https://sites.google.com/view/safemem) | <a href="https://github.com/lty759/SafeMem"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [NavMCP: Scaffolding Foundation Models into Physical-World Agents Pushes the Frontier of Long-Horizon Navigation](https://arxiv.org/html/2608.30396v1) | 2026 | Paper | — |
 | [SCOPE: Real-Time Natural Language Camera Agent at the Edge](https://arxiv.org/abs/2606.02951) | 2026 | Paper | — |
+| [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | 2026 | Paper | [Code pending release](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) |
 | [Physical Coding: Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432) | 2026 | Paper | — |
 | [TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043) | 2026 | Paper · [Project](https://xuyicheng-zju.github.io/TARSphere/) | <a href="https://github.com/xuyicheng-zju/TARSphere"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [THEA: Towards the Harness of Embodied Agents](https://arxiv.org/abs/2608.11246) | 2026 | Paper | <a href="https://github.com/EIT-HAI/Thea"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -439,7 +441,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents](https://arxiv.org/abs/2609.32862) | 2026 | Paper | — |
 | [RoboHarness (BinceQu): RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://arxiv.org/abs/2610.14018) | 2026 | Paper · [Project](https://bincequ.github.io/RoboHarness/) | <a href="https://github.com/BinceQu/RoboHarness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RAX: Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) | 2026 | Paper | <a href="https://github.com/robot-agent-exploration/rax/tree/real/franka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | 2026 | Paper | — |
+| [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | 2026 | Paper | [Code pending release](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) |
 | [Physical Coding: Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432) | 2026 | Paper | — |
 | [Zetta: Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://arxiv.org/abs/2608.16590) | 2026 | Paper | <a href="https://github.com/air-embodied-brain/Zetta-Embodiment"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [CaSP: Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation](https://arxiv.org/abs/2503.01700) | 2025 | Paper | <a href="https://github.com/yongchao98/Code-as-Symbolic-Planner"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
