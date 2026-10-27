@@ -131,6 +131,7 @@ Agents build and coordinate robotics development workflows across **collection, 
 | [Local Recovery: Recursive Self-Improvement of Visuomotor Policies through Local Recovery Supervision](https://arxiv.org/abs/2610.05151) | 2026 | Paper | — |
 | [REVOLVE (2026): REVOLVE: An Automated Closed-Loop Framework for Evolving Robot Manipulation with Minimal Human Intervention](https://arxiv.org/abs/2609.14633) | 2026 | Paper | — |
 | [RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks](https://arxiv.org/abs/2603.11558) | 2026 | Paper | <a href="https://github.com/RoboClaw-Robotics/RoboClaw"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data](https://arxiv.org/abs/2605.13775) | 2026 | Paper | — |
 | [RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation](https://arxiv.org/abs/2602.16444) | 2026 | Paper | — |
 | [RoboLineage: Agent-Native Data Lifecycle Governance Across Robot Policy Iterations](https://arxiv.org/abs/2606.22142) | 2026 | Paper | <a href="https://github.com/robolineage/robolineage"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921) | 2026 | Paper | <a href="https://github.com/OpenHelix-Team/RoboMemArena"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |

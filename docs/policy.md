@@ -233,6 +233,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
 | [ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory](https://arxiv.org/abs/2607.10350) | 2026 | Paper | — |
+| [ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints](https://arxiv.org/abs/2604.14902) | 2026 | Paper · [Project](https://charlotteannchen.github.io/ADAPT/) | [Code pending release](https://github.com/charlotteannchen/ADAPT-Codebase) |
 | [AgentVLN: Towards Agentic Vision-and-Language Navigation](https://arxiv.org/abs/2603.17670) | 2026 | Paper | <a href="https://github.com/Allenxinn/AgentVLN"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ASPIRE-CaP: ASPIRE: Public Robot Skill Discovery Implementation](https://github.com/NVlabs/ASPIRE/tree/fa00f0ef2bc1d91d594b9aa502c22133c9f538f7) | 2026 | Repository | <a href="https://github.com/NVlabs/ASPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Constrained LLMs: Bridging Semantics and Physics with Constrained LLMs for Safe and Trustworthy Robotic Manipulation](https://arxiv.org/abs/2608.29379) | 2026 | Paper | — |
@@ -533,6 +534,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
+| [AeroWeaver: An Embodied-Agent Harness for Weaving Aerial Skills into Distributed, Adaptive Swarm Execution](https://arxiv.org/abs/2609.18520v1) | 2026 | Paper | <a href="https://github.com/Admire-ljb/AeroWeaver"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ALRM: Agentic LLM for Robotic Manipulation](https://arxiv.org/abs/2601.19510) | 2026 | Paper | — |
 | [DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents](https://arxiv.org/abs/2609.40306) | 2026 | Paper | — |
 | [EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation](https://arxiv.org/abs/2609.38905) | 2026 | Paper | — |
@@ -545,6 +547,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [RoboHarness (Huang): RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning](https://arxiv.org/abs/2607.18060) | 2026 | Paper | — |
 | [RoboTalk: Learning Multi-Robot Communication and Coordination from Multimodal Demonstrations](https://arxiv.org/html/2609.23997v1) | 2026 | Paper | — |
 | [Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams](https://arxiv.org/abs/2603.08814) | 2026 | Paper | <a href="https://github.com/honda-research-institute/Scale_Plan"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks](https://arxiv.org/abs/2506.16402) | 2025 | Paper | <a href="https://github.com/AI45Lab/IS-Bench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills](https://arxiv.org/abs/2506.14763) | 2025 | Paper | <a href="https://github.com/UMass-Embodied-AGI/RobotSmith"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ReAd: Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration](https://aclanthology.org/2025.findings-acl.84/) | 2025 | Paper · [Project](https://embodied-read.github.io/) | — |
 | [EAI: Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making](https://arxiv.org/abs/2410.07166) | 2024 | Paper · [Project](https://embodied-agent-interface.github.io/) | <a href="https://github.com/embodied-agent-interface/embodied-agent-interface"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
