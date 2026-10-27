@@ -61,6 +61,7 @@ Evaluation resource: [LADDER](https://ladderrobotics.ai/) ([paper](https://arxiv
 | [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116) | 2026 | Paper | — |
 | [ScaleVLA-RL: Scaling Sim-to-Real VLA Reinforcement Learning with Generative 3D Worlds](https://arxiv.org/abs/2603.18532) | 2026 | Paper · [Project](https://horizonrobotics.github.io/gail/scale-vla-rl/) | — |
 | [Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph](https://arxiv.org/abs/2602.12065) | 2026 | Paper | — |
+| [SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images](https://arxiv.org/abs/2610.28585) | 2026 | Paper · [Project](https://red-fairy.github.io/SceneRig/) | <a href="https://github.com/Red-Fairy/SceneRig"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://arxiv.org/abs/2602.09153) | 2026 | Paper | <a href="https://github.com/nepfaff/scenesmith"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SEES: A Self-Evolving Embodied System via Failure-Guided VLA Policy Adaptation](https://arxiv.org/abs/2609.32698) | 2026 | Paper | — |
 | [SimEX: Simulation-Integrated Robotics AutoResearch](https://arxiv.org/abs/2609.38982) | 2026 | Paper | — |
