@@ -4,6 +4,8 @@
 
 Agents build and coordinate robotics development workflows across **collection, training, and inference**. Collection includes environment generation and dataset construction; inference includes evaluation and diagnosis. Inclusion requires agent decisions about the workflow, not simply running a fixed script.
 
+Evaluation resource: [LADDER](https://ladderrobotics.ai/) ([paper](https://arxiv.org/abs/2610.18053), [code](https://github.com/insait-institute/ladder)) benchmarks long-horizon robot manipulation. Its PSP-Agent configurations are listed under [Policy](policy.md).
+
 ## Browse
 
 - [Infrastructure / Environment Generation](#infrastructure-environment-generation)
