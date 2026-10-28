@@ -63,6 +63,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [GLIDE: Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
 | [Recursia: Learning to Compose: Recursive Self-Improvement of Shared Executable Stacks for Zero-Shot Long-Horizon Robot Manipulation](https://arxiv.org/abs/2610.24464) | 2026 | Paper | <a href="https://github.com/cocacola-lab/Recursia"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ManiSkillFormer: Demonstration-Free Compositional Manipulation via Geometric Contracts and Agentic Skill Graph](https://arxiv.org/abs/2609.16331) | 2026 | Paper | — |
+| [ME-Brain-RSI: A Dual-Harness Framework for Self-Evolving Embodied Agents](https://machembodied.com/ME-Brain/ME-Brain-RSI/index.html) | 2026 | Blog | — |
 | [MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution](https://arxiv.org/abs/2607.22832) | 2026 | Paper | <a href="https://github.com/sygkounas/MEMENTO"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
 | [PhysicalRSI: PhysicalRSI 1.0: Recursive Self-Harness for Scaling Embodied Skills](https://mmlab.hk/research/PhysicalRSI) | 2026 | Project / report | <a href="https://github.com/PhysicalRSI/PhysicalRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |

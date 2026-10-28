@@ -6,6 +6,8 @@ Agents build and coordinate robotics development workflows across **collection, 
 
 Evaluation resource: [LADDER](https://ladderrobotics.ai/) ([paper](https://arxiv.org/abs/2610.18053), [code](https://github.com/insait-institute/ladder)) benchmarks long-horizon robot manipulation. Its PSP-Agent configurations are listed under [Policy](policy.md).
 
+Evaluation resource: [EmbodiedLab](https://hexafuture.ai/benchmarks/embodiedlab/) ([paper](https://arxiv.org/abs/2610.35385), [code](https://github.com/HexaFuture/EmbodiedLab)) benchmarks acting-to-know science experiments in a simulated robot laboratory. Its T0/T1 agent configurations are listed under [Policy](policy.md).
+
 ## Browse
 
 - [Infrastructure / Environment Generation](#infrastructure-environment-generation)
