@@ -17,6 +17,8 @@ Agents direct robot task execution by selecting behaviors, orchestrating tools, 
 
 Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE entries distinguish generated CaP programs from its released MCP execution interface. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
 
+Implementation resource: [ManiMux](https://github.com/SII-LiuLab/manimux) deploys RPent with RGB and robot-state observations and fixed motion/VLA tools (O1/A2). It succeeds [ManiUniCon](https://github.com/Universal-Control/ManiUniCon) and provides robot interfaces, execution scheduling and experiment records.
+
 GALATEA is included for deployment-time video motion planning through a fixed learned tracker. RoboHarness (BinceQu) retains V1 tool orchestration and adds V2 workspace code synthesis; the paper's reported results use V1.
 
 ## Browse
@@ -60,6 +62,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [TacTalent: GPT-6 Astra Is a Native Visuo-Tactile Policy for Contact-Rich Manipulation](https://tactalent.github.io/) | 2026 | Project / report | — |
 | [GTA-2: A Multi-VLM Framework for Synthesizing Robot Manipulation Skills via Grounded Task Axes](https://arxiv.org/abs/2609.09808) | 2026 | Paper | <a href="https://github.com/gta2-project/GTA-2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/html/2607.29600v1) | 2026 | Paper | — |
+| [HandsOn: A Large-Scale Simulation Benchmark for Generalizable Dexterous Manipulation](https://arxiv.org/abs/2610.26765) | 2026 | Paper · [Project](https://llltttwww.github.io/HandsOn-website/) | <a href="https://github.com/TsinghuaC3I/HandsOn"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SenseNova-RoboRSI: Has GPT-6-Astra Achieved Embodied Intelligence?](https://arxiv.org/abs/2610.22471) | 2026 | Paper | <a href="https://github.com/OpenSenseNova/SenseNova-RoboRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [EBench-Astra: How Far Does a Frontier Agent Get as an Embodied Policy?](https://internrobotics.github.io/EBench-Astra-Tech-Report/) | 2026 | Paper | <a href="https://github.com/InternRobotics/EBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GPT-Policy: In-Context Robot Learning with VLM Agents](https://arxiv.org/abs/2609.19138) | 2026 | Paper | <a href="https://github.com/cheng-haha/GPT-Policy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |

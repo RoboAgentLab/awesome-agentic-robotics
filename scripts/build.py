@@ -28,6 +28,8 @@ Agents direct robot task execution by selecting behaviors, orchestrating tools, 
 
 Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE entries distinguish generated CaP programs from its released MCP execution interface. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
 
+Implementation resource: [ManiMux](https://github.com/SII-LiuLab/manimux) deploys RPent with RGB and robot-state observations and fixed motion/VLA tools (O1/A2). It succeeds [ManiUniCon](https://github.com/Universal-Control/ManiUniCon) and provides robot interfaces, execution scheduling and experiment records.
+
 GALATEA is included for deployment-time video motion planning through a fixed learned tracker. RoboHarness (BinceQu) retains V1 tool orchestration and adds V2 workspace code synthesis; the paper's reported results use V1.
 """,
     "infrastructure": """# Agent as Infrastructure
@@ -39,6 +41,8 @@ Agents build and coordinate robotics development workflows across **collection, 
 Evaluation resource: [LADDER](https://ladderrobotics.ai/) ([paper](https://arxiv.org/abs/2610.18053), [code](https://github.com/insait-institute/ladder)) benchmarks long-horizon robot manipulation. Its PSP-Agent configurations are listed under [Policy](policy.md).
 
 Evaluation resource: [EmbodiedLab](https://hexafuture.ai/benchmarks/embodiedlab/) ([paper](https://arxiv.org/abs/2610.35385), [code](https://github.com/HexaFuture/EmbodiedLab)) benchmarks acting-to-know science experiments in a simulated robot laboratory. Its T0/T1 agent configurations are listed under [Policy](policy.md).
+
+Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([paper](https://arxiv.org/abs/2610.26765), [code](https://github.com/TsinghuaC3I/HandsOn)) benchmarks dexterous manipulation. Its GPT-6 baseline is listed under [Policy](policy.md); the public code covers the benchmark and evaluation stack, with the exact GPT runner unverified.
 """,
     "self-evolver": """# Agent as Self-Evolver
 

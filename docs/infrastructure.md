@@ -8,6 +8,8 @@ Evaluation resource: [LADDER](https://ladderrobotics.ai/) ([paper](https://arxiv
 
 Evaluation resource: [EmbodiedLab](https://hexafuture.ai/benchmarks/embodiedlab/) ([paper](https://arxiv.org/abs/2610.35385), [code](https://github.com/HexaFuture/EmbodiedLab)) benchmarks acting-to-know science experiments in a simulated robot laboratory. Its T0/T1 agent configurations are listed under [Policy](policy.md).
 
+Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([paper](https://arxiv.org/abs/2610.26765), [code](https://github.com/TsinghuaC3I/HandsOn)) benchmarks dexterous manipulation. Its GPT-6 baseline is listed under [Policy](policy.md); the public code covers the benchmark and evaluation stack, with the exact GPT runner unverified.
+
 ## Browse
 
 - [Infrastructure / Environment Generation](#infrastructure-environment-generation)
