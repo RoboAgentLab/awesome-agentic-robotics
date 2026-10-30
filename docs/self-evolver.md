@@ -43,6 +43,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [ASPIRE-CaP: ASPIRE: Public Robot Skill Discovery Implementation](https://github.com/NVlabs/ASPIRE/tree/fa00f0ef2bc1d91d594b9aa502c22133c9f538f7) | 2026 | Repository | <a href="https://github.com/NVlabs/ASPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation](https://arxiv.org/abs/2610.07594) | 2026 | Paper | <a href="https://github.com/swirl-uk/BiGym2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) | 2026 | Paper | <a href="https://github.com/capgym/cap-x"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance](https://arxiv.org/abs/2610.21453) | 2026 | Paper · [Project](https://vincent2311.github.io/Projects/CarryOn/) | <a href="https://github.com/JIA-Lab-research/CarryOn"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Coding Agents for TAMP: Coding Agents for Generalized Task and Motion Planning Problems](https://arxiv.org/abs/2609.30233v1) | 2026 | Paper · [Project](https://agenticgentamp.github.io) | <a href="https://github.com/tomsilver/robocode"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Skill-RSI: Compile Once, Run Cheap: Frozen, Portable Skills for Embodied Agents, and What Recursive Self-Improvement Adds](https://arxiv.org/abs/2610.25114) | 2026 | Paper | <a href="https://github.com/Orillusion/embodied-skill-rsi"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ETM: Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper · [Project](https://ropedia.github.io/ropedia-a0/) | — |
@@ -112,11 +113,13 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [ASPIRE: Agentic /Skills Discovery for Robotics](https://arxiv.org/abs/2607.00272) | 2026 | Paper | <a href="https://github.com/NVlabs/ASPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ASPIRE-CaP: ASPIRE: Public Robot Skill Discovery Implementation](https://github.com/NVlabs/ASPIRE/tree/fa00f0ef2bc1d91d594b9aa502c22133c9f538f7) | 2026 | Repository | <a href="https://github.com/NVlabs/ASPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning](https://arxiv.org/abs/2604.16331) | 2026 | Paper | — |
+| [CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance](https://arxiv.org/abs/2610.21453) | 2026 | Paper · [Project](https://vincent2311.github.io/Projects/CarryOn/) | <a href="https://github.com/JIA-Lab-research/CarryOn"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [BATON: Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](https://arxiv.org/abs/2608.16889) | 2026 | Paper | — |
 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) | 2026 | Paper | — |
 | [EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution](https://arxiv.org/abs/2610.10498) | 2026 | Paper | — |
 | [EmbodiSkill: Skill-Aware Reflection for Self-Evolving Embodied Agents](https://arxiv.org/abs/2605.10332) | 2026 | Paper | <a href="https://github.com/air-embodied-brain/EmbodiSkill"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [EnactOpt: Diagnosis-Guided Harness Evolution for Embodied Agents](https://arxiv.org/abs/2610.14977) | 2026 | Paper | — |
 | [EEAgent: Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization](https://arxiv.org/abs/2604.13533) | 2026 | Paper | — |
 | [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](https://arxiv.org/abs/2606.18235) | 2026 | Paper | — |
 | [EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation](https://arxiv.org/abs/2606.03509) | 2026 | Paper | — |
@@ -318,6 +321,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | --- | --- | --- | --- |
 | [AdaHVLA: Adaptive Harnesses for Long-Horizon Vision-Language-Action Execution](https://arxiv.org/abs/2609.29204) | 2026 | Paper | <a href="https://github.com/Haaareally/AdaHVLA-Adaptive_Harness_VLA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AgentCanvas: Automating the Design of Embodied Agent Architectures](https://arxiv.org/abs/2606.30111) | 2026 | Paper | <a href="https://github.com/jianzhou0420/AgentCanvas"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [EnactOpt: Diagnosis-Guided Harness Evolution for Embodied Agents](https://arxiv.org/abs/2610.14977) | 2026 | Paper | — |
 | [NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime](https://arxiv.org/abs/2610.10787) | 2026 | Paper | <a href="https://github.com/metacognitionai/NavGPT-3"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [PhysicalRSI: PhysicalRSI 1.0: Recursive Self-Harness for Scaling Embodied Skills](https://mmlab.hk/research/PhysicalRSI) | 2026 | Project / report | <a href="https://github.com/PhysicalRSI/PhysicalRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents](https://arxiv.org/abs/2609.32862) | 2026 | Paper | — |
@@ -331,6 +335,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | --- | --- | --- | --- |
 | [AdaHVLA: Adaptive Harnesses for Long-Horizon Vision-Language-Action Execution](https://arxiv.org/abs/2609.29204) | 2026 | Paper | <a href="https://github.com/Haaareally/AdaHVLA-Adaptive_Harness_VLA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AgentCanvas: Automating the Design of Embodied Agent Architectures](https://arxiv.org/abs/2606.30111) | 2026 | Paper | <a href="https://github.com/jianzhou0420/AgentCanvas"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [EnactOpt: Diagnosis-Guided Harness Evolution for Embodied Agents](https://arxiv.org/abs/2610.14977) | 2026 | Paper | — |
 | [PhysicalRSI: PhysicalRSI 1.0: Recursive Self-Harness for Scaling Embodied Skills](https://mmlab.hk/research/PhysicalRSI) | 2026 | Project / report | <a href="https://github.com/PhysicalRSI/PhysicalRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents](https://arxiv.org/abs/2609.32862) | 2026 | Paper | — |
 | [HyMeS: Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation](https://arxiv.org/abs/2608.09410) | 2026 | Paper | — |
