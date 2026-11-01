@@ -64,6 +64,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies](https://arxiv.org/abs/2604.09860) | 2026 | Paper | — |
 | [RoboPlayground: Democratizing Robotic Evaluation through Structured Physical Domains](https://arxiv.org/abs/2604.05226) | 2026 | Paper | — |
 | [RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks](https://arxiv.org/abs/2610.18835) | 2026 | Paper | <a href="https://github.com/robosimstudio/robosimstudio"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RobotAgentBench: Towards Open-world Robot Autonomy](https://arxiv.org/abs/2610.34649) | 2026 | Paper · [Project](https://aetherlabsai.github.io/RobotAgentBench/) | <a href="https://github.com/AetherLabsAI/RobotAgentBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboWits: Unexpected Challenges for Robotic Creative Problem Solving](https://arxiv.org/abs/2605.30326) | 2026 | Paper | <a href="https://github.com/UMass-Embodied-AGI/RoboWits"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116) | 2026 | Paper | — |
 | [ScaleVLA-RL: Scaling Sim-to-Real VLA Reinforcement Learning with Generative 3D Worlds](https://arxiv.org/abs/2603.18532) | 2026 | Paper · [Project](https://horizonrobotics.github.io/gail/scale-vla-rl/) | — |
@@ -148,6 +149,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [RoboLineage: Agent-Native Data Lifecycle Governance Across Robot Policy Iterations](https://arxiv.org/abs/2606.22142) | 2026 | Paper | <a href="https://github.com/robolineage/robolineage"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921) | 2026 | Paper | <a href="https://github.com/OpenHelix-Team/RoboMemArena"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [DGAC: Robot Self-Improvement via Human-Video Dynamics Models](https://arxiv.org/abs/2606.21406) | 2026 | Paper | — |
+| [RobotAgentBench: Towards Open-world Robot Autonomy](https://arxiv.org/abs/2610.34649) | 2026 | Paper · [Project](https://aetherlabsai.github.io/RobotAgentBench/) | <a href="https://github.com/AetherLabsAI/RobotAgentBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph](https://arxiv.org/abs/2602.12065) | 2026 | Paper | — |
 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | 2026 | Paper | [Code pending release](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) |
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
