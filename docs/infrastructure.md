@@ -25,15 +25,18 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
 | [3DCodeVerse: Exploring 3D Worlds as Code](https://arxiv.org/abs/2610.22341) | 2026 | Paper | <a href="https://github.com/gaoypeng/3dcodeverse"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Agentic System-ID: Agentic real-to-sim reconstruction from robot demonstrations](https://x.com/Lingxiao234/status/2096992059731443923) | 2026 | Demonstration report | — |
 | [Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents](https://arxiv.org/abs/2607.19190) | 2026 | Paper | <a href="https://github.com/agentic-real2sim/agentic_real2sim"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies](https://arxiv.org/abs/2610.10479) | 2026 | Paper | — |
 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) | 2026 | Paper | — |
 | [Articraft: An Agentic System for Scalable Articulated 3D Asset Generation](https://arxiv.org/abs/2605.15187) | 2026 | Paper | <a href="https://github.com/articraftresearch/Articraft"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Sharpa Pen RL: Autonomous construction and training of a Sharpa pen-spinning task](https://x.com/walterzhu8/status/2100212420840989112) | 2026 | Demonstration report | — |
 | [Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation](https://arxiv.org/abs/2610.02274) | 2026 | Paper | — |
 | [ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction](https://arxiv.org/abs/2605.14398) | 2026 | Paper | — |
 | [CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes](https://arxiv.org/abs/2609.36024) | 2026 | Paper | — |
 | [D-World: An Explicit World-Language-Action Model with Recursive Self-Improvement under Dual Control](https://arxiv.org/abs/2610.17114) | 2026 | Paper | — |
 | [DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library](https://arxiv.org/abs/2609.35318) | 2026 | Paper | <a href="https://github.com/dexagent1/DexAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Dexterous Astra](https://github.com/jianglongye/dexterous-astra) | 2026 | Software / demo | <a href="https://github.com/jianglongye/dexterous-astra"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [DiagGen: Agentic Generation of Deformable Assets with Sim-based Diagnostics for Robotic Simulation](https://arxiv.org/abs/2609.23103) | 2026 | Paper | <a href="https://github.com/diaggen/diaggen"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction](https://arxiv.org/abs/2609.13082) | 2026 | Paper | — |
 | [EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development](https://arxiv.org/abs/2604.13800) | 2026 | Paper | — |
@@ -108,6 +111,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | --- | --- | --- | --- |
 | [AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents](https://arxiv.org/abs/2610.20474) | 2026 | Paper | — |
 | [Affordance2Action: Task-Conditioned Scene-level Affordance Grounding for Real-Time Manipulation](https://arxiv.org/abs/2606.04172) | 2026 | Paper | <a href="https://github.com/arc-l/a2a"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Physical Retargeting: Agentic physical retargeting of human videos to Wuji hands](https://x.com/Lingxiao234/status/2097717020540481630) | 2026 | Demonstration report | — |
 | [AW-0: Agentic World Action Models](https://arxiv.org/abs/2610.30136) | 2026 | Paper | <a href="https://github.com/ZhuoyangLiu2005/agentic-wam"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) | 2026 | Paper | <a href="https://github.com/xinxinliu-ai/AgenticRoboRL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning](https://arxiv.org/abs/2606.10927) | 2026 | Paper | — |
@@ -116,6 +120,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation](https://arxiv.org/abs/2610.02274) | 2026 | Paper | — |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library](https://arxiv.org/abs/2609.35318) | 2026 | Paper | <a href="https://github.com/dexagent1/DexAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [DexGPT: GIF to Sharpa Wave](https://github.com/Hu-xiao-max/dexgpt) | 2026 | Software / demo | <a href="https://github.com/Hu-xiao-max/dexgpt"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development](https://arxiv.org/abs/2604.13800) | 2026 | Paper | — |
 | [EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics](https://arxiv.org/abs/2609.27308) | 2026 | Paper | <a href="https://github.com/EmbodiedSWE/EmbodiedSWE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation](https://arxiv.org/abs/2609.38905) | 2026 | Paper | — |
@@ -184,6 +189,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Agent-Driven RL: Agent-Driven Autonomous Reinforcement Learning Research: Iterative Policy Improvement for Quadruped Locomotion](https://arxiv.org/abs/2603.27416) | 2026 | Paper | — |
 | [AI Training Manager: Bounded Closed-Loop Control of Adaptive Training Recipes](https://arxiv.org/abs/2606.29871) | 2026 | Paper | — |
 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) | 2026 | Paper | — |
+| [Sharpa Pen RL: Autonomous construction and training of a Sharpa pen-spinning task](https://x.com/walterzhu8/status/2100212420840989112) | 2026 | Demonstration report | — |
 | [Autoresearch Gym](https://github.com/gabec-slop/autoresearch-gym) | 2026 | Repository | <a href="https://github.com/gabec-slop/autoresearch-gym"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [autoresearch-robotics: Autonomous Robotics Research with Simulation Feedback](https://github.com/jellyheadandrew/autoresearch-robotics/tree/ff30cc481af9343b9c96f448b5ed72b75bfcd562) | 2026 | Repository | <a href="https://github.com/jellyheadandrew/autoresearch-robotics"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Causal Reward Models: Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation](https://arxiv.org/abs/2606.23280) | 2026 | Paper | — |

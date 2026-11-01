@@ -4,6 +4,8 @@
 
 Agents use feedback to make changes retained for later tasks or development.
 
+Related context: SceneEvolve studies reconstruction-harness evolution in a non-robotics setting; it has no robot-task evaluation. It is listed under Execution Workflows as a methodological example.
+
 | Family | Retained update targets |
 | --- | --- |
 | Iterative Artifact Refinement | Programs and skills; knowledge and memory; rewards; environments and datasets; robot morphology |
@@ -366,6 +368,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [SERA: From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560) | 2026 | Paper | <a href="https://github.com/StevenKKXS/SERA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hierarchical MAP: Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning](https://arxiv.org/abs/2602.21670v1) | 2026 | Paper | — |
 | [Hyperagents](https://arxiv.org/abs/2603.19461) | 2026 | Paper | <a href="https://github.com/facebookresearch/Hyperagents"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [SceneEvolve: Learning to Code the World: Harness Evolution for Compositional 3D Reconstruction](https://arxiv.org/abs/2610.37046) | 2026 | Paper | <a href="https://github.com/haoyu-agent/SceneEvolve_Code"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Recursia: Learning to Compose: Recursive Self-Improvement of Shared Executable Stacks for Zero-Shot Long-Horizon Robot Manipulation](https://arxiv.org/abs/2610.24464) | 2026 | Paper | <a href="https://github.com/cocacola-lab/Recursia"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
 | [IDM: Predict Before You Modify: Learning Improvement Dynamics for Self-Evolving Agents](https://arxiv.org/abs/2610.13991) | 2026 | Paper | — |

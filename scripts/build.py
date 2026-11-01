@@ -26,6 +26,8 @@ Agents direct robot task execution by selecting behaviors, orchestrating tools, 
 
 **Code / Model in A1 describes the executor, not the deciding agent.** Calling a Python API does not by itself establish A3. A project can appear in multiple cells because its documented configurations differ.
 
+Demonstration reports are identified by source type. Dexterous Astra, DexGPT, Sphere Retargeting, Physical Retargeting and Agentic System-ID describe development-time constructions; they do not establish general reactive robot policies. DexGPT reports a failed penetration acceptance test, and the microphone example in Agentic System-ID is kinematic replay with failed dynamics. Innate ICL links to an unmerged implementation pull request.
+
 Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE entries distinguish generated CaP programs from its released MCP execution interface. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
 
 Implementation resource: [ManiMux](https://github.com/SII-LiuLab/manimux) deploys RPent with RGB and robot-state observations and fixed motion/VLA tools (O1/A2). It succeeds [ManiUniCon](https://github.com/Universal-Control/ManiUniCon) and provides robot interfaces, execution scheduling and experiment records.
@@ -49,6 +51,8 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 [Home](../README.md) · [Policy](policy.md) · [Infrastructure](infrastructure.md)
 
 Agents use feedback to make changes retained for later tasks or development.
+
+Related context: SceneEvolve studies reconstruction-harness evolution in a non-robotics setting; it has no robot-task evaluation. It is listed under Execution Workflows as a methodological example.
 
 | Family | Retained update targets |
 | --- | --- |
