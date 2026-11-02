@@ -144,6 +144,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](https://arxiv.org/abs/2610.01178) | 2026 | Paper | — |
 | [Local Recovery: Recursive Self-Improvement of Visuomotor Policies through Local Recovery Supervision](https://arxiv.org/abs/2610.05151) | 2026 | Paper | — |
 | [REVOLVE (2026): REVOLVE: An Automated Closed-Loop Framework for Evolving Robot Manipulation with Minimal Human Intervention](https://arxiv.org/abs/2609.14633) | 2026 | Paper | — |
+| [RoboAtom: Large-scale Atomic-Action Supervision for Robot Learning](https://arxiv.org/abs/2610.40207) | 2026 | Paper · [Project](https://internrobotics.github.io/RoboAtom/) | <a href="https://github.com/InternRobotics/RoboAtom"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks](https://arxiv.org/abs/2603.11558) | 2026 | Paper | <a href="https://github.com/RoboClaw-Robotics/RoboClaw"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data](https://arxiv.org/abs/2605.13775) | 2026 | Paper | — |
 | [RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation](https://arxiv.org/abs/2602.16444) | 2026 | Paper | — |
