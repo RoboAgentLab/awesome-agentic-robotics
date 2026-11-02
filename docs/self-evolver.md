@@ -77,7 +77,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [RHO: Your Coding Agent is Secretly a Roboticist](https://arxiv.org/abs/2606.16458) | 2026 | Paper | <a href="https://github.com/KE7/HELIX"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboUse: Robo Use: agent as a policy for embodied agents](https://robouse.ai/) | 2026 | Software | <a href="https://github.com/benchflow-ai/robouse"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents](https://arxiv.org/abs/2609.32862) | 2026 | Paper | — |
-| [RoboRSI: Stable, Efficient, and Reusable Robot Self-Evolution in Complex Real-World Environments](https://robo-rsi.com/blog/2-roborsi/) | 2026 | Project / report | <a href="https://github.com/nssmd/RoboRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments](https://arxiv.org/abs/2610.12424) | 2026 | Paper · [Project](https://robo-rsi.com/blog/2-roborsi/) | <a href="https://github.com/nssmd/RoboRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks](https://arxiv.org/abs/2610.18835) | 2026 | Paper | <a href="https://github.com/robosimstudio/robosimstudio"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboSkills: A minimal set of agent workflows and tools for robotics](https://github.com/openrobokit/roboskills) | 2026 | Repository · [Project](https://openrobokit.com/roboskills/) | <a href="https://github.com/openrobokit/roboskills"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RobotAgentBench: Towards Open-world Robot Autonomy](https://arxiv.org/abs/2610.34649) | 2026 | Paper · [Project](https://aetherlabsai.github.io/RobotAgentBench/) | <a href="https://github.com/AetherLabsAI/RobotAgentBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -102,6 +102,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Agentic Skill Discovery](https://arxiv.org/abs/2405.15019) | 2024 | Paper | <a href="https://github.com/xf-zhao/Agentic-Skill-Discovery"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [LRLL: Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models](https://arxiv.org/abs/2406.18746) | 2024 | Paper | — |
 | [RoboCoder: Robotic Learning from Basic Skills to General Tasks with Large Language Models](https://arxiv.org/abs/2406.03757) | 2024 | Paper | — |
+| [Trace: Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs](https://arxiv.org/abs/2406.16218) | 2024 | Paper | <a href="https://github.com/microsoft/Trace"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HALP: Lifelong Robot Learning with Human Assisted Language Planners](https://arxiv.org/abs/2309.14321) | 2023 | Paper | — |
 
 <a id="self-evolver-knowledge-and-memory"></a>
@@ -369,6 +370,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [AdaHVLA: Adaptive Harnesses for Long-Horizon Vision-Language-Action Execution](https://arxiv.org/abs/2609.29204) | 2026 | Paper | <a href="https://github.com/Haaareally/AdaHVLA-Adaptive_Harness_VLA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents](https://arxiv.org/abs/2610.20474) | 2026 | Paper | — |
 | [AgentCanvas: Automating the Design of Embodied Agent Architectures](https://arxiv.org/abs/2606.30111) | 2026 | Paper | <a href="https://github.com/jianzhou0420/AgentCanvas"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [EMHO: EMbodied Agent Harness Optimization via Experience Traces](https://arxiv.org/abs/2610.08432) | 2026 | Paper · [Project](https://hyunjung00.github.io/emho/) | — |
 | [SERA: From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560) | 2026 | Paper | <a href="https://github.com/StevenKKXS/SERA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hierarchical MAP: Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning](https://arxiv.org/abs/2602.21670v1) | 2026 | Paper | — |
 | [Hyperagents](https://arxiv.org/abs/2603.19461) | 2026 | Paper | <a href="https://github.com/facebookresearch/Hyperagents"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
