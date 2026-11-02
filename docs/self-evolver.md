@@ -87,6 +87,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [SkillClaw: Collectively Self-Improving Robot Agents](https://github.com/lilyzhng/SkillClaw) | 2026 | Repository | <a href="https://github.com/lilyzhng/SkillClaw"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SkillComposer: Learning Reusable Skills for Natural-Language Robot Programming](https://arxiv.org/abs/2608.14944) | 2026 | Paper | — |
 | [SUN: Agentic Robot Policy Learning with Persistent Task Programs](https://arxiv.org/abs/2608.31167) | 2026 | Paper | — |
+| [The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://arxiv.org/abs/2610.36077) | 2026 | Paper · [Project](https://trinity-rsi.github.io/) | <a href="https://github.com/InfRec-Cardinal/The-Trinity"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VLCP: Vision Language Control Policy Closed-Loop Code Replanning for Robot Manipulation](https://arxiv.org/abs/2608.16978) | 2026 | Paper | — |
 | [WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories](https://arxiv.org/abs/2609.18435) | 2026 | Paper | <a href="https://github.com/tsudalab/WetRobo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [123-round study: What Stops Recursive Self-Improvement in Robotics? Lessons from 123 Rounds of Agentic Skill Discovery](https://arxiv.org/abs/2609.31760) | 2026 | Paper | — |
@@ -381,6 +382,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Scale and Selection: What Makes Automatic Harness Evolution Work for Visual-Interface Robot Agents](https://arxiv.org/abs/2609.39304) | 2026 | Paper | — |
 | [HyMeS: Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation](https://arxiv.org/abs/2608.09410) | 2026 | Paper | — |
 | [RQGM: The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators](https://arxiv.org/abs/2606.26294) | 2026 | Paper | — |
+| [The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://arxiv.org/abs/2610.36077) | 2026 | Paper · [Project](https://trinity-rsi.github.io/) | <a href="https://github.com/InfRec-Cardinal/The-Trinity"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Zetta: Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://arxiv.org/abs/2608.16590) | 2026 | Paper | <a href="https://github.com/air-embodied-brain/Zetta-Embodiment"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="self-evolver-successor-ai-r-d"></a>
