@@ -14,7 +14,7 @@
 
 Foundation-model agents can direct robot behavior, build robotics workflows, and revise systems from feedback. This collection follows the framework of our forthcoming paper, **Agents that Act, Build, and Evolve: A Unified Framework and Platform for Agentic Robotics**.
 
-Browse **426 sources across 29 categories**. Categories are non-exclusive; distinct configurations of a work may appear in several places.
+The three reading lists group works by the decisions made by the agent. A work can appear more than once when its configurations differ.
 
 | Role | What the agent does | Browse |
 | --- | --- | --- |
@@ -31,6 +31,8 @@ Browse **426 sources across 29 categories**. Categories are non-exclusive; disti
 | **O1 — Sensory input** | [Code executor](docs/policy.md#o1-a1-code) · [Model executor](docs/policy.md#o1-a1-model) | [O1 / A2](docs/policy.md#o1-a2) | [O1 / A3](docs/policy.md#o1-a3) |
 | **O2 — Perception tools** | [Code executor](docs/policy.md#o2-a1-code) · [Model executor](docs/policy.md#o2-a1-model) | [O2 / A2](docs/policy.md#o2-a2) | [O2 / A3](docs/policy.md#o2-a3) |
 | **O3 — Privileged state** | [Code executor](docs/policy.md#o3-a1-code) · [Model executor](docs/policy.md#o3-a1-model) | [O3 / A2](docs/policy.md#o3-a2) | [O3 / A3](docs/policy.md#o3-a3) |
+
+[Additional Policy configurations](docs/policy.md#policy-role) are grouped by execution authority where the source establishes it.
 
 ### Agent as Infrastructure
 
