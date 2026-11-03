@@ -32,8 +32,6 @@ The three reading lists group works by the decisions made by the agent. A work c
 | **O2 — Perception tools** | [Code executor](docs/policy.md#o2-a1-code) · [Model executor](docs/policy.md#o2-a1-model) | [O2 / A2](docs/policy.md#o2-a2) | [O2 / A3](docs/policy.md#o2-a3) |
 | **O3 — Privileged state** | [Code executor](docs/policy.md#o3-a1-code) · [Model executor](docs/policy.md#o3-a1-model) | [O3 / A2](docs/policy.md#o3-a2) | [O3 / A3](docs/policy.md#o3-a3) |
 
-[Additional Policy configurations](docs/policy.md#policy-role) are grouped by execution authority where the source establishes it.
-
 ### Agent as Infrastructure
 
 | Stage | Categories |
