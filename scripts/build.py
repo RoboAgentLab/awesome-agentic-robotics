@@ -30,6 +30,8 @@ Demonstration reports are identified by source type. Dexterous Astra, DexGPT, Sp
 
 Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE entries distinguish generated CaP programs from its released MCP execution interface. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
 
+Engineering resource: [NVIDIA Agent Skills](https://github.com/NVIDIA/skills) includes a CAD-to-SimReady workflow for asset conversion, physics assignment and validation.
+
 Implementation resource: [ManiMux](https://github.com/SII-LiuLab/manimux) deploys RPent with RGB and robot-state observations and fixed motion/VLA tools (O1/A2). It succeeds [ManiUniCon](https://github.com/Universal-Control/ManiUniCon) and provides robot interfaces, execution scheduling and experiment records.
 
 GALATEA is included for deployment-time video motion planning through a fixed learned tracker. RoboHarness (BinceQu) retains V1 tool orchestration and adds V2 workspace code synthesis; the paper's reported results use V1.

@@ -19,6 +19,8 @@ Demonstration reports are identified by source type. Dexterous Astra, DexGPT, Sp
 
 Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE entries distinguish generated CaP programs from its released MCP execution interface. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
 
+Engineering resource: [NVIDIA Agent Skills](https://github.com/NVIDIA/skills) includes a CAD-to-SimReady workflow for asset conversion, physics assignment and validation.
+
 Implementation resource: [ManiMux](https://github.com/SII-LiuLab/manimux) deploys RPent with RGB and robot-state observations and fixed motion/VLA tools (O1/A2). It succeeds [ManiUniCon](https://github.com/Universal-Control/ManiUniCon) and provides robot interfaces, execution scheduling and experiment records.
 
 GALATEA is included for deployment-time video motion planning through a fixed learned tracker. RoboHarness (BinceQu) retains V1 tool orchestration and adds V2 workspace code synthesis; the paper's reported results use V1.
@@ -413,10 +415,12 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [SERP: Agentic Self-Evolutionary Replanning for Embodied Navigation](https://arxiv.org/html/2603.02772v1) | 2026 | Paper | — |
 | [AgenticNav: Zero-Shot Vision-and-Language Navigation as a Tool-Calling Harness](https://arxiv.org/html/2606.10577v1) | 2026 | Paper | — |
 | [AnchorVLN: Geometry-Anchored Vision-Language Grounding Reasoning for Open-Vocabulary Navigation](https://arxiv.org/abs/2609.12285v1) | 2026 | Paper | <a href="https://github.com/aryanmangal769/embodied-nav-mcp"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [EvoLife: Ask to Evolve: A Unified Harness for Lifelong Embodied Navigation with Hybrid Action Space and Persistent Memory](https://arxiv.org/abs/2610.39446) | 2026 | Paper · [Project](https://kai-sheng-caesar.github.io/EvoLife-Web/) | — |
 | [MetaToolROS: Bridging Thought and Action: Taming Long-Horizon Instability in Open-Source LLM Agents with a MetaTool-Enhanced ROS Framework](https://arxiv.org/html/2609.13335v1) | 2026 | Paper | — |
 | [CLASP: Language-Driven Robot Skill Selection and Composition using Task-Parameterized Learning](https://arxiv.org/abs/2606.08169) | 2026 | Paper | — |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [Cognitive Reality: CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation](https://arxiv.org/abs/2609.31418v1) | 2026 | Paper | — |
+| [uni-robot-agent: Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://arxiv.org/abs/2611.01560) | 2026 | Paper · [Project](https://openrua.ai/) | <a href="https://github.com/Open-RUA/uni-robot-agent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents](https://arxiv.org/abs/2609.40306) | 2026 | Paper | — |
 | [EMERGE-Policy: A Robot Mind Emerges Beyond a Single Policy](https://arxiv.org/html/2608.29896v1) | 2026 | Paper · [Project](https://emerge-policy.github.io/EMERGE-Policy/) | <a href="https://github.com/EMERGE-Policy/EMERGE-Policy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied Tools: Enabling Extensible Embodied Capabilities with Tools](https://arxiv.org/abs/2605.26637) | 2026 | Paper | — |
@@ -490,6 +494,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](https://arxiv.org/html/2605.02600) | 2026 | Paper · [Project](https://sites.google.com/view/lira-coral) | — |
 | [cuArms: GPU-Accelerated Conflict-Based Planning for Multi-Arm Manipulation](https://arxiv.org/abs/2610.36250) | 2026 | Paper · [Project](https://cuarms.github.io/) | — |
+| [uni-robot-agent: Democratizing Robot-Use Agents: A Unified Harness with Open Models](https://arxiv.org/abs/2611.01560) | 2026 | Paper · [Project](https://openrua.ai/) | <a href="https://github.com/Open-RUA/uni-robot-agent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [EmbodiedLab: Benchmarking Embodied Agents That Act to Know](https://arxiv.org/abs/2610.35385) | 2026 | Paper · [Project](https://hexafuture.ai/benchmarks/embodiedlab/) | <a href="https://github.com/HexaFuture/EmbodiedLab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [PyRUA-Lean: Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens](https://arxiv.org/abs/2610.01939) | 2026 | Paper | <a href="https://github.com/DAGroup-PKU/PyRUA-Lean"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback](https://arxiv.org/abs/2610.12549) | 2026 | Paper · [Project](https://fly-by-code.github.io/) | — |
