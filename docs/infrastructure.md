@@ -89,6 +89,8 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853) | 2025 | Paper | — |
 | [Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling](https://arxiv.org/abs/2502.02590) | 2025 | Paper · [Project](https://articulateanymesh.github.io/) | <a href="https://github.com/UMass-Embodied-AGI/Articulate-Anymesh"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model](https://proceedings.iclr.cc/paper_files/paper/2025/hash/2c8047bf3ed8ef6905351608d641f02f-Abstract-Conference.html) | 2025 | Paper | <a href="https://github.com/vlongle/articulate-anything"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [DriveGen: Towards Infinite Diverse Traffic Scenarios with Large Models](https://arxiv.org/abs/2503.05808) | 2025 | Paper | — |
+| [GenDexHand: Generative Simulation for Dexterous Hands](https://arxiv.org/abs/2511.01791) | 2025 | Paper | — |
 | [GenManip: LLM-driven Simulation for Generalizable Instruction-Following Manipulation](https://arxiv.org/abs/2506.10966) | 2025 | Paper · [Project](https://genmanip.com/) | <a href="https://github.com/InternRobotics/GenManip"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboSimGS: High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic Manipulation Learning with Gaussian Splatting](https://arxiv.org/abs/2510.10637) | 2025 | Paper · [Project](https://robosimgs.github.io/) | <a href="https://github.com/Maxwell-Zhao/RoboSimGS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ReGen: Generative Robot Simulation via Inverse Design](https://arxiv.org/abs/2511.04769) | 2025 | Paper · [Project](https://regen-sim.github.io/) | — |
@@ -96,14 +98,18 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/abs/2506.22756) | 2025 | Paper · [Project](https://tangtaogo.github.io/RoboPearls/) | — |
 | [SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and Self-Reflective Agent](https://arxiv.org/abs/2509.20414) | 2025 | Paper · [Project](https://scene-weaver.github.io/) | <a href="https://github.com/Scene-Weaver/SceneWeaver"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos](https://arxiv.org/abs/2502.09886) | 2025 | Paper | — |
+| [ChatSim: Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/abs/2402.05746) | 2024 | Paper | <a href="https://github.com/yifanlu0227/ChatSim"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Eurekaverse: Environment Curriculum Generation via Large Language Models](https://arxiv.org/abs/2411.01775) | 2024 | Paper | <a href="https://github.com/eureka-research/eurekaverse"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://arxiv.org/abs/2410.03645) | 2024 | Paper | <a href="https://github.com/GenSim2/GenSim2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GRS: Generating Robotic Simulation Tasks from Real-World Images](https://arxiv.org/abs/2410.15536) | 2024 | Paper | — |
 | [OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code](https://arxiv.org/abs/2405.15568) | 2024 | Paper | <a href="https://github.com/maxencefaldor/omni-epic"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models](https://arxiv.org/abs/2406.04300) | 2024 | Paper | — |
+| [Dialogue-Based Scenarios: Dialogue-based generation of self-driving simulation scenarios using Large Language Models](https://arxiv.org/abs/2310.17372) | 2023 | Paper | — |
 | [Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models](https://arxiv.org/abs/2310.18308) | 2023 | Paper | <a href="https://github.com/pushkalkatara/Gen2Sim"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GenSim: Generating Robotic Simulation Tasks via Large Language Models](https://arxiv.org/abs/2310.01361) | 2023 | Paper | <a href="https://github.com/liruiw/GenSim"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Holodeck: Language Guided Generation of 3D Embodied AI Environments](https://arxiv.org/abs/2312.09067) | 2023 | Paper · [Project](https://yueyang.ai/holodeck/) | <a href="https://github.com/allenai/Holodeck"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation](https://arxiv.org/abs/2311.01455) | 2023 | Paper | <a href="https://github.com/Genesis-Embodied-AI/RoboGen"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [SurrealDriver: Designing LLM-powered Generative Driver Agent Framework based on Human Drivers' Driving-thinking Data](https://arxiv.org/abs/2309.13193) | 2023 | Paper | — |
 
 <a id="infrastructure-dataset-construction"></a>
 
@@ -139,6 +145,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Waddle: Introducing Waddle: Agents that Control Robots](https://waddlelabs.ai/research/introducing-waddle) | 2026 | Project / report | — |
 | [GLIDE: Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
 | [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2610.03476) | 2026 | Paper | <a href="https://github.com/kaiknower/MobiAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [DRIVE-CHOREO: OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation](https://arxiv.org/abs/2606.17536) | 2026 | Paper | — |
 | [PlayWorld: Learning Robot World Models from Autonomous Play](https://arxiv.org/abs/2603.09030) | 2026 | Paper | <a href="https://github.com/irom-princeton/open-world"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HERO: Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations](https://arxiv.org/abs/2607.26809) | 2026 | Paper | — |
 | [RE-0: Verified Recursive Improvement of Embodied Code-as-Policy Agents through Local On-Policy Distillation](https://arxiv.org/abs/2609.32416) | 2026 | Paper | — |
@@ -155,13 +162,16 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [RobotAgentBench: Towards Open-world Robot Autonomy](https://arxiv.org/abs/2610.34649) | 2026 | Paper · [Project](https://aetherlabsai.github.io/RobotAgentBench/) | <a href="https://github.com/AetherLabsAI/RobotAgentBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph](https://arxiv.org/abs/2602.12065) | 2026 | Paper | — |
 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | 2026 | Paper | [Code pending release](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) |
+| [SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning](https://arxiv.org/abs/2601.04699) | 2026 | Paper | <a href="https://github.com/SeqWalker/SeqWalker-code"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
+| [TREAD: Task Robustness via Re-Labelling Vision-Action Robot Data](https://arxiv.org/abs/2606.10918) | 2026 | Paper | — |
 | [Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping](https://arxiv.org/abs/2603.03278) | 2026 | Paper | <a href="https://github.com/tether-research/tether"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Uni-Skill: Building Self-Evolving Skill Repository for Generalizable Robotic Manipulation](https://arxiv.org/abs/2603.02623) | 2026 | Paper | — |
 | [V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation](https://arxiv.org/abs/2604.09036) | 2026 | Paper | — |
 | [V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors](https://arxiv.org/abs/2603.18811) | 2026 | Paper | — |
 | [Zero2Skill: Bootstrapping Robot Skills through Autonomous Data Collection, Training, and Deployment](https://arxiv.org/abs/2607.14047) | 2026 | Paper | <a href="https://github.com/open-gigaai/Zero2Skill"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853) | 2025 | Paper | — |
+| [ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2512.20940) | 2025 | Paper | <a href="https://github.com/Cepillar/ETP-R1"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning](https://arxiv.org/abs/2507.00833) | 2025 | Paper | <a href="https://github.com/TeleHuman/HumanoidGen"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data](https://arxiv.org/abs/2501.04595) | 2025 | Paper · [Project](https://mobileh2r.github.io/) | — |
 | [Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](https://arxiv.org/abs/2504.14588) | 2025 | Paper | <a href="https://github.com/GeWu-Lab/Motion-based-Self-Reflection-Framework"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -174,9 +184,13 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [SOAR: Autonomous Improvement of Instruction Following Skills via Foundation Models](https://arxiv.org/abs/2407.20635) | 2024 | Paper | <a href="https://github.com/rail-berkeley/soar"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents](https://arxiv.org/abs/2401.12963) | 2024 | Paper | — |
 | [BBSEA: An Exploration of Brain-Body Synchronization for Embodied Agents](https://arxiv.org/html/2402.08212) | 2024 | Paper · [Project](https://bbsea-embodied-ai.github.io) | — |
+| [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) | 2024 | Paper | <a href="https://github.com/f1yfisher/DriveDreamer2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://arxiv.org/abs/2410.03645) | 2024 | Paper | <a href="https://github.com/GenSim2/GenSim2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [InfiniteWorld: A Unified Scalable Simulation Framework for General Visual-Language Robot Interaction](https://arxiv.org/abs/2412.05789) | 2024 | Paper | — |
 | [Manipulate-Anything: Automating Real-World Robots using Vision-Language Models](https://arxiv.org/abs/2406.18915) | 2024 | Paper | <a href="https://github.com/Robot-MA/manipulate-anything"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting](https://arxiv.org/abs/2403.03174) | 2024 | Paper | <a href="https://github.com/moka-manipulation/moka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RAPID (driving): Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving](https://arxiv.org/abs/2410.12568) | 2024 | Paper | — |
+| [NavGen: Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method](https://arxiv.org/abs/2412.09082) | 2024 | Paper | <a href="https://github.com/HCPLab-SYSU/LH-VLN"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GenSim: Generating Robotic Simulation Tasks via Large Language Models](https://arxiv.org/abs/2310.01361) | 2023 | Paper | <a href="https://github.com/liruiw/GenSim"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [OLAF: Interactive Robot Learning from Verbal Correction](https://arxiv.org/abs/2310.17555) | 2023 | Paper · [Project](https://ut-austin-rpl.github.io/olaf/) | — |
 | [RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation](https://arxiv.org/abs/2311.01455) | 2023 | Paper | <a href="https://github.com/Genesis-Embodied-AI/RoboGen"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -235,13 +249,17 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [RQGM: The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators](https://arxiv.org/abs/2606.26294) | 2026 | Paper | — |
 | [VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning](https://arxiv.org/abs/2610.08761) | 2026 | Paper | — |
 | [IKER: A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards](https://arxiv.org/abs/2502.08643) | 2025 | Paper · [Project](https://iker-robot.github.io/) | <a href="https://github.com/shivanshpatel35/IKER"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Atomic Skill Library: An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation](https://arxiv.org/abs/2501.15068) | 2025 | Paper | — |
 | [AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853) | 2025 | Paper | — |
 | [AURA (Zhu): AURA: Autonomous Upskilling with Retrieval-Augmented Agents](https://arxiv.org/abs/2506.02507) | 2025 | Paper | — |
 | [CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks](https://arxiv.org/abs/2509.14380) | 2025 | Paper | — |
 | [ELEMENTAL: Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics](https://proceedings.mlr.press/v267/chen25at.html) | 2025 | Paper | — |
 | [LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation](https://arxiv.org/html/2506.01538) | 2025 | Paper · [Project](https://windylab.github.io/LAMARL/) | — |
+| [LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models](https://arxiv.org/abs/2501.05057) | 2025 | Paper | — |
 | [Reflective Adaptation: Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710) | 2025 | Paper | — |
 | [RE-GoT: Reward Evolution with Graph-of-Thoughts: A Bi-Level Language Model Framework for Reinforcement Learning](https://arxiv.org/abs/2509.16136) | 2025 | Paper | — |
+| [RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2501.06605) | 2025 | Paper | — |
+| [Dexterity Scaffolding: Scaffolding Dexterous Manipulation with Vision-Language Models](https://arxiv.org/abs/2506.19212) | 2025 | Paper | — |
 | [STRIDE: Automating Reward Design, Deep Reinforcement Learning Training and Feedback Optimization in Humanoid Robotics Locomotion](https://arxiv.org/abs/2502.04692) | 2025 | Paper | — |
 | [CARD: A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/abs/2410.14660) | 2024 | Paper | — |
 | [Agentic Skill Discovery](https://arxiv.org/abs/2405.15019) | 2024 | Paper | <a href="https://github.com/xf-zhao/Agentic-Skill-Discovery"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -252,6 +270,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Eurekaverse: Environment Curriculum Generation via Large Language Models](https://arxiv.org/abs/2411.01775) | 2024 | Paper | <a href="https://github.com/eureka-research/eurekaverse"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Game On: Towards Language Models as RL Experimenters](https://arxiv.org/abs/2409.03402) | 2024 | Paper | — |
 | [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://arxiv.org/abs/2410.03645) | 2024 | Paper | <a href="https://github.com/GenSim2/GenSim2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [LGDRL: Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving](https://arxiv.org/abs/2412.18511) | 2024 | Paper | — |
 | [Self-Alignment: Learning Reward for Robot Skills Using Large Language Models via Self-Alignment](https://proceedings.mlr.press/v235/zeng24d.html) | 2024 | Paper | — |
 | [LLM Locomotion Design: Leveraging large language models for comprehensive locomotion control in humanoid robots design](https://doi.org/10.1016/j.birob.2024.100187) | 2024 | Paper | — |
 | [REvolve (2024): REvolve: Reward Evolution with Large Language Models using Human Feedback](https://arxiv.org/abs/2406.01309) | 2024 | Paper | <a href="https://github.com/RishiHazra/Revolve"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -294,6 +313,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
 | [vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966) | 2026 | Paper | <a href="https://github.com/allenai/vla-evaluation-harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://arxiv.org/abs/2608.09892) | 2026 | Paper | <a href="https://github.com/XPolicyLab/XPolicyLab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Critical Scenario Testing: Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach](https://arxiv.org/abs/2412.06684) | 2024 | Paper | — |
 | [RoboPAIR: Jailbreaking LLM-Controlled Robots](https://arxiv.org/abs/2410.13691) | 2024 | Paper · [Project](https://robopair.org/) | <a href="https://github.com/arobey1/robopair"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="infrastructure-diagnosis"></a>

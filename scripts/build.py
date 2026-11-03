@@ -67,7 +67,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 }
 
 def section_file(category):
-    if category.startswith("O"):
+    if category == "Policy" or category.startswith("O"):
         return "policy"
     return "infrastructure" if category.startswith("Infrastructure") else "self-evolver"
 
@@ -97,6 +97,8 @@ def render():
                 key=lambda p: (-(p["year"] or 0), p["title"].casefold())
             )
             text += f'\n<a id="{group["id"]}"></a>\n\n## {group["name"]}\n\n'
+            if group["name"] == "Policy":
+                text += "\nEntries with a documented execution category carry an A1, A2 or A3 label.\n\n"
             if group["name"].endswith("Successor AI R&D"):
                 text += "These non-robotics works examine research-agent succession, automated research, and its evaluation. A key distinction is whether the updated model takes over later research decisions or remains the target of a fixed researcher.\n\n"
             text += "| Work | Year | Source | Code |\n| --- | --- | --- | --- |\n"
@@ -115,6 +117,8 @@ def render():
                         title = short_name + title[len(short_name):]
                     else:
                         title = f"{short_name}: {title}"
+                if group["name"] == "Policy" and p.get("execution_authority"):
+                    title += f" [{p['execution_authority']}]"
                 project = f' · [Project]({p["project_url"]})' if p.get("project_url") else ""
                 text += f'| [{escape(title)}]({p["url"]}) | {p["year"] or "—"} | {p["source_type"]}{project} | {code} |\n'
         files[f"docs/{name}.md"] = text + "\n[Back to overview](../README.md)\n"
