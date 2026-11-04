@@ -318,6 +318,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [RobotAgentBench: Towards Open-world Robot Autonomy](https://arxiv.org/abs/2610.34649) | 2026 | Paper · [Project](https://aetherlabsai.github.io/RobotAgentBench/) | <a href="https://github.com/AetherLabsAI/RobotAgentBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Physical Coding: Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432) | 2026 | Paper | — |
 | [SimEX: Simulation-Integrated Robotics AutoResearch](https://arxiv.org/abs/2609.38982) | 2026 | Paper | — |
+| [TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](https://arxiv.org/abs/2610.41216) | 2026 | Paper · [Project](https://garfield-kh.github.io/TinyAstral/) | <a href="https://github.com/Garfield-kh/TinyAstral"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [123-round study: What Stops Recursive Self-Improvement in Robotics? Lessons from 123 Rounds of Agentic Skill Discovery](https://arxiv.org/abs/2609.31760) | 2026 | Paper | — |
 | [Zetta: Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://arxiv.org/abs/2608.16590) | 2026 | Paper | <a href="https://github.com/air-embodied-brain/Zetta-Embodiment"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [InterPreT: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning](https://arxiv.org/abs/2405.19758) | 2024 | Paper | <a href="https://github.com/hmz-15/interactive-predicate-learning"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -362,6 +363,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning](https://arxiv.org/abs/2609.29394) | 2026 | Paper | <a href="https://github.com/Robo-Harness/racap"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents](https://arxiv.org/abs/2609.32862) | 2026 | Paper | — |
 | [Scale and Selection: What Makes Automatic Harness Evolution Work for Visual-Interface Robot Agents](https://arxiv.org/abs/2609.39304) | 2026 | Paper | — |
+| [TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](https://arxiv.org/abs/2610.41216) | 2026 | Paper · [Project](https://garfield-kh.github.io/TinyAstral/) | <a href="https://github.com/Garfield-kh/TinyAstral"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="self-evolver-execution-workflows"></a>
 
@@ -387,6 +389,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [HyMeS: Skills in Weights, Memory in Code: Hybrid Learning for Memory-Dependent Robot Manipulation](https://arxiv.org/abs/2608.09410) | 2026 | Paper | — |
 | [RQGM: The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators](https://arxiv.org/abs/2606.26294) | 2026 | Paper | — |
 | [The Trinity: Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://arxiv.org/abs/2610.36077) | 2026 | Paper · [Project](https://trinity-rsi.github.io/) | <a href="https://github.com/InfRec-Cardinal/The-Trinity"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](https://arxiv.org/abs/2610.41216) | 2026 | Paper · [Project](https://garfield-kh.github.io/TinyAstral/) | <a href="https://github.com/Garfield-kh/TinyAstral"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Zetta: Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://arxiv.org/abs/2608.16590) | 2026 | Paper | <a href="https://github.com/air-embodied-brain/Zetta-Embodiment"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="self-evolver-successor-ai-r-d"></a>

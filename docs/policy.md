@@ -310,6 +310,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics](https://arxiv.org/abs/2603.12939) | 2026 | Paper | — |
 | [SAIL: Test-Time Scaling for In-Context Imitation Learning with VLM](https://arxiv.org/abs/2603.08269) | 2026 | Paper | — |
 | [SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning](https://arxiv.org/abs/2606.08992) | 2026 | Paper | — |
+| [SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation](https://arxiv.org/abs/2610.12457v1) | 2026 | Paper · [Project](https://emilia113.github.io/SpatialHarness/) | — |
 | [STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models](https://arxiv.org/html/2607.18580) | 2026 | Paper | — |
 | [MetaNav: Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning](https://arxiv.org/html/2604.02318v1) | 2026 | Paper | — |
 | [WORLDS: Structured World-State Reasoning for Agentic Robotic Search](https://arxiv.org/abs/2609.23841v1) | 2026 | Paper | — |
@@ -454,6 +455,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | 2026 | Paper | [Code pending release](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) |
 | [Physical Coding: Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432) | 2026 | Paper | — |
 | [TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043) | 2026 | Paper · [Project](https://xuyicheng-zju.github.io/TARSphere/) | <a href="https://github.com/xuyicheng-zju/TARSphere"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents](https://arxiv.org/abs/2610.41216) | 2026 | Paper · [Project](https://garfield-kh.github.io/TinyAstral/) | <a href="https://github.com/Garfield-kh/TinyAstral"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [THEA: Towards the Harness of Embodied Agents](https://arxiv.org/abs/2608.11246) | 2026 | Paper | <a href="https://github.com/EIT-HAI/Thea"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [TypeGo: An OS Runtime for Embodied Agents](https://arxiv.org/abs/2607.05482) | 2026 | Paper | — |
 | [WCM: World-Cognition Model for Generalizable Human-Robot Interaction](https://arxiv.org/html/2607.22999v1) | 2026 | Paper | — |
