@@ -169,6 +169,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [SpaceMind: A Modular and Self-Evolving Embodied Vision-Language Agent Framework for Autonomous On-orbit Servicing](https://arxiv.org/abs/2604.14399) | 2026 | Paper | <a href="https://github.com/wuaodi/SpaceMind"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Spotter: Let the Embodied Model Lead, and the VLM Reflect for It](https://arxiv.org/abs/2609.36808) | 2026 | Paper | <a href="https://github.com/zqc3117/Spotter"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [STARS: extending interactive task learning with large language models](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1848830/full) | 2026 | Project / report | — |
+| [TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation](https://arxiv.org/abs/2611.03584) | 2026 | Paper · [Project](https://umishra.me/TAMPAgent/) | — |
 | [Teach-and-Grow: Teach and Grow: An Agent-Centered Architecture for General Robot Learning](https://arxiv.org/abs/2608.17209) | 2026 | Paper | <a href="https://github.com/IRMVLab/TGL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents](https://arxiv.org/abs/2606.05395) | 2026 | Paper | — |
 | [HoloMind: When Robots Do the Chores: A Benchmark and Agent for Long-Horizon Household Task Execution](https://arxiv.org/abs/2605.14504) | 2026 | Paper | — |
