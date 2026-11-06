@@ -256,6 +256,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback](https://arxiv.org/abs/2610.12549) | 2026 | Paper · [Project](https://fly-by-code.github.io/) | — |
 | [Gemini 4 Argon: Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [Sphere Retargeting: Human sphere-handling video to a Sharpa robot trajectory](https://x.com/memmelma/status/2113601346280804846) | 2026 | Demonstration report | — |
+| [Kinex: One Agent for Any Robot](https://kinex-agent.org/) | 2026 | Project / software | <a href="https://github.com/stacx-lab/kinex"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GLIDE: Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
 | [LITHE: Bridging Best-Effort Python and Real-Time C++ for Hot-Swapping Robotic Control Laws on Commodity Linux](https://arxiv.org/abs/2603.07442) | 2026 | Paper | — |
 | [OpenRUA: Robot-Use Agents Are Zero-Shot Visuomotor Policies](https://arxiv.org/abs/2610.02459v1) | 2026 | Paper | <a href="https://github.com/terminalworld/OpenRUA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -513,6 +514,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration](https://arxiv.org/abs/2610.23098) | 2026 | Paper | — |
 | [Apex-35B: Introducing Apex-35B-V1.0](https://apexin.com/apex-35b/) | 2026 | Technical blog · [Project](https://huggingface.co/Apexintelligence-AI/Apex-35B-V1.0) | — |
 | [Waddle: Introducing Waddle: Agents that Control Robots](https://waddlelabs.ai/research/introducing-waddle) | 2026 | Project / report | — |
+| [Kinex: One Agent for Any Robot](https://kinex-agent.org/) | 2026 | Project / software | <a href="https://github.com/stacx-lab/kinex"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [PSP-Agent: LADDER: A Long-Horizon Robot Manipulation Benchmark](https://arxiv.org/abs/2610.18053) | 2026 | Paper · [Project](https://ladderrobotics.ai/) | <a href="https://github.com/insait-institute/ladder"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [URAI: Make Code as Policy Great Again: Frontier Agents Write, Call, and Evolve Robot Tools](https://arxiv.org/abs/2609.39018) | 2026 | Paper | — |
 | [RATs: Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419) | 2026 | Paper | <a href="https://github.com/Playful-RATs/rats"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
