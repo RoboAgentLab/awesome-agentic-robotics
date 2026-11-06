@@ -249,6 +249,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
 | [RQGM: The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators](https://arxiv.org/abs/2606.26294) | 2026 | Paper | — |
 | [VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning](https://arxiv.org/abs/2610.08761) | 2026 | Paper | — |
+| [Robotics Weight Editing: We Asked Opus-5.5 to Edit π0.5’s Weights. AutoResearch Made It Happen.](https://cuzyoung.github.io/robotics-weight-editing/en/) | 2026 | Technical blog | — |
 | [IKER: A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards](https://arxiv.org/abs/2502.08643) | 2025 | Paper · [Project](https://iker-robot.github.io/) | <a href="https://github.com/shivanshpatel35/IKER"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Atomic Skill Library: An Atomic Skill Library Construction Method for Data-Efficient Embodied Manipulation](https://arxiv.org/abs/2501.15068) | 2025 | Paper | — |
 | [AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning](https://arxiv.org/abs/2512.17853) | 2025 | Paper | — |

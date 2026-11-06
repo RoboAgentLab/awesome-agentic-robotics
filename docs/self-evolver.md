@@ -295,6 +295,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [RLE-Bench: A Qualifying Exam for Coding Agents as Robot Learning Engineers](https://arxiv.org/abs/2609.34210) | 2026 | Paper | <a href="https://github.com/RLE-Bench/RLE-Bench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | 2026 | Paper | [Code pending release](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) |
 | [TacEvo: Self-Evolving Architecture Discovery for Robotic Tactile Perception via LLM-Driven Quality-Diversity Search](https://arxiv.org/abs/2606.30109) | 2026 | Paper | <a href="https://github.com/LannWei/TacEvo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Robotics Weight Editing: We Asked Opus-5.5 to Edit π0.5’s Weights. AutoResearch Made It Happen.](https://cuzyoung.github.io/robotics-weight-editing/en/) | 2026 | Technical blog | — |
 | [Reflective Adaptation: Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710) | 2025 | Paper | — |
 
 <a id="self-evolver-code"></a>
