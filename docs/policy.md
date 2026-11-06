@@ -87,6 +87,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
 | [ReTrace: Cross-Stage Failure Attribution for Self-Improving Robotic Manipulation](https://arxiv.org/abs/2610.15814) | 2026 | Paper | — |
 | [RoboAgent: Chaining Basic Capabilities for Embodied Task Planning](https://arxiv.org/abs/2604.07774) | 2026 | Paper | — |
+| [RoboHarm](https://github.com/robocurve/roboharm) | 2026 | Software repository | <a href="https://github.com/robocurve/roboharm"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboICL: Embodied In-Context Learning with GPT-6 Astra](https://arxiv.org/abs/2609.34261) | 2026 | Paper | <a href="https://github.com/Mosi-AI/RoboICL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboQuest: Generalist Physical Agents that Search, Inspect and Test](https://arxiv.org/html/2610.10388v1) | 2026 | Paper · [Project](https://declare-lab.github.io/RoboQuest/) | <a href="https://github.com/declare-lab/RoboQuest"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Robota-Embed: Unified VLA Embeddings for Robot In-Context Learning and Evolution](https://arxiv.org/abs/2610.19495) | 2026 | Paper | — |
@@ -508,6 +509,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [Guava: Distilling Frontier VLM Agents into a Compact Model with a Manipulation Harness](https://arxiv.org/abs/2606.18363) | 2026 | Paper | <a href="https://github.com/hdacnw/guava-release"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents](https://arxiv.org/abs/2610.23479) | 2026 | Paper | <a href="https://github.com/HexaFuture/HexaShell"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [IMR-LLM: Industrial Multi-Robot Task Planning and Program Generation using Large Language Models](https://arxiv.org/html/2603.02669v1) | 2026 | Paper | — |
+| [Inspect Robots: Evaluating the Capabilities and Safety of Embodied AI](https://arxiv.org/abs/2610.06306) | 2026 | Paper | <a href="https://github.com/robocurve/inspect-robots"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration](https://arxiv.org/abs/2610.23098) | 2026 | Paper | — |
 | [Apex-35B: Introducing Apex-35B-V1.0](https://apexin.com/apex-35b/) | 2026 | Technical blog · [Project](https://huggingface.co/Apexintelligence-AI/Apex-35B-V1.0) | — |
 | [Waddle: Introducing Waddle: Agents that Control Robots](https://waddlelabs.ai/research/introducing-waddle) | 2026 | Project / report | — |
