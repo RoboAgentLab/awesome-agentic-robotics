@@ -87,6 +87,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
 | [ReTrace: Cross-Stage Failure Attribution for Self-Improving Robotic Manipulation](https://arxiv.org/abs/2610.15814) | 2026 | Paper | — |
 | [RoboAgent: Chaining Basic Capabilities for Embodied Task Planning](https://arxiv.org/abs/2604.07774) | 2026 | Paper | — |
+| [RoboARCade: Benchmarking Agentic Robot Control](https://arxiv.org/abs/2611.08209) | 2026 | Paper · [Project](https://roboarcade.org/) | <a href="https://github.com/Satvik1701/RoboARCade"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarm](https://github.com/robocurve/roboharm) | 2026 | Software repository | <a href="https://github.com/robocurve/roboharm"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboICL: Embodied In-Context Learning with GPT-6 Astra](https://arxiv.org/abs/2609.34261) | 2026 | Paper | <a href="https://github.com/Mosi-AI/RoboICL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboQuest: Generalist Physical Agents that Search, Inspect and Test](https://arxiv.org/html/2610.10388v1) | 2026 | Paper · [Project](https://declare-lab.github.io/RoboQuest/) | <a href="https://github.com/declare-lab/RoboQuest"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
