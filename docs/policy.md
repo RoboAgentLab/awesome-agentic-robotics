@@ -197,6 +197,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation](https://arxiv.org/abs/2509.08820) | 2025 | Paper | — |
 | [RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction](https://arxiv.org/abs/2505.12224) | 2025 | Paper | <a href="https://github.com/MINT-SJTU/RoboFAC"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SILVR: Self-Improving Loops for Visual Robotic Planning](https://arxiv.org/abs/2506.06658) | 2025 | Paper | <a href="https://github.com/brown-palm/silvr"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | 2025 | Paper · [Project](https://jasper0314-huang.github.io/thinkact-vla/) | — |
 | [VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models](https://arxiv.org/abs/2506.17561) | 2025 | Paper | <a href="https://github.com/HeegerGao/VLA-OS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control](https://arxiv.org/abs/2405.04798) | 2024 | Paper | — |
 | [RFST: Language-Conditioned Robotic Manipulation with Fast and Slow Thinking](https://arxiv.org/abs/2401.04181) | 2024 | Paper | — |
@@ -658,6 +659,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [RoboHarness (Huang): RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning](https://arxiv.org/abs/2607.18060) | 2026 | Paper | — |
 | [RoboTalk: Learning Multi-Robot Communication and Coordination from Multimodal Demonstrations](https://arxiv.org/html/2609.23997v1) | 2026 | Paper | — |
 | [Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams](https://arxiv.org/abs/2603.08814) | 2026 | Paper | <a href="https://github.com/honda-research-institute/Scale_Plan"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [AGOS-Agent: Towards Embodied Air-Ground Cooperative Object Search: Benchmark, Dataset and Agentic Method](https://arxiv.org/abs/2609.08402) | 2026 | Paper | — |
 | [BrainBody-LLM: Grounding Large Language Models for Robot Task Planning Using Closed‐Loop State Feedback](https://doi.org/10.1002/adrr.202500072) | 2025 | Paper | — |
 | [IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks](https://arxiv.org/abs/2506.16402) | 2025 | Paper | <a href="https://github.com/AI45Lab/IS-Bench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [CLiMRS: Leveraging Adaptive Group Negotiation for Heterogeneous Multi-Robot Collaboration with Large Language Models](https://arxiv.org/abs/2602.06967) | 2025 | Paper | [Code pending release](https://github.com/song-siqi/CLiMRS) |
