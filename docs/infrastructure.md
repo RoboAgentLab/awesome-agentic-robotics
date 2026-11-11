@@ -167,6 +167,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
 | [TREAD: Task Robustness via Re-Labelling Vision-Action Robot Data](https://arxiv.org/abs/2606.10918) | 2026 | Paper | — |
 | [Tether: Autonomous Functional Play with Correspondence-Driven Trajectory Warping](https://arxiv.org/abs/2603.03278) | 2026 | Paper | <a href="https://github.com/tether-research/tether"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [A²-MEAS: Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124) | 2026 | Paper · [Project](https://a2-meas.github.io/) | <a href="https://github.com/AutoLab-SAI-SJTU/A2MEAS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Uni-Skill: Building Self-Evolving Skill Repository for Generalizable Robotic Manipulation](https://arxiv.org/abs/2603.02623) | 2026 | Paper | — |
 | [V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation](https://arxiv.org/abs/2604.09036) | 2026 | Paper | — |
 | [V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors](https://arxiv.org/abs/2603.18811) | 2026 | Paper | — |
@@ -356,6 +357,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [VAP-TAMP: Robot Planning and Situation Handling with Active Perception](https://arxiv.org/abs/2604.26988v1) | 2026 | Paper · [Project](https://vap-tamp.github.io/vap-tamp/) | — |
 | [SPINE (2026): SPINE: Bridging the Cyber-Physical Gap with Agentic AI](https://arxiv.org/abs/2607.13049) | 2026 | Paper | — |
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
+| [A²-MEAS: Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124) | 2026 | Paper · [Project](https://a2-meas.github.io/) | <a href="https://github.com/AutoLab-SAI-SJTU/A2MEAS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966) | 2026 | Paper | <a href="https://github.com/allenai/vla-evaluation-harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://arxiv.org/abs/2608.09892) | 2026 | Paper | <a href="https://github.com/XPolicyLab/XPolicyLab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AURA (Buchholz): A Collaborative Reasoning Framework for Anomaly Diagnostics in Underwater Robotics](https://arxiv.org/abs/2511.03075) | 2025 | Paper | — |
