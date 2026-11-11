@@ -45,7 +45,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [ASPIRE-CaP: ASPIRE: Public Robot Skill Discovery Implementation](https://github.com/NVlabs/ASPIRE/tree/fa00f0ef2bc1d91d594b9aa502c22133c9f538f7) | 2026 | Repository | <a href="https://github.com/NVlabs/ASPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [BEHAVIOR-Spatial: BEHAVIOR-Spatial Benchmark: Evaluating Spatial Understanding for Robotics](https://arxiv.org/abs/2610.34051) | 2026 | Paper · [Project](https://arielchen07.github.io/behavior-spatial/) | <a href="https://github.com/arielchen07/BEHAVIOR-Spatial-benchmark"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [BiGym 2.0: Benchmarking Learned and Agent-Developed Policies for Humanoid Household Manipulation](https://arxiv.org/abs/2610.07594) | 2026 | Paper | <a href="https://github.com/swirl-uk/BiGym2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://arxiv.org/abs/2603.22435) | 2026 | Paper | <a href="https://github.com/capgym/cap-x"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation](https://proceedings.mlr.press/v306/fu26u.html) | 2026 | Paper | <a href="https://github.com/capgym/cap-x"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance](https://arxiv.org/abs/2610.21453) | 2026 | Paper · [Project](https://vincent2311.github.io/Projects/CarryOn/) | <a href="https://github.com/JIA-Lab-research/CarryOn"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Coding Agents for TAMP: Coding Agents for Generalized Task and Motion Planning Problems](https://arxiv.org/abs/2609.30233v1) | 2026 | Paper · [Project](https://agenticgentamp.github.io) | <a href="https://github.com/tomsilver/robocode"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Skill-RSI: Compile Once, Run Cheap: Frozen, Portable Skills for Embodied Agents, and What Recursive Self-Improvement Adds](https://arxiv.org/abs/2610.25114) | 2026 | Paper | <a href="https://github.com/Orillusion/embodied-skill-rsi"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -97,12 +97,12 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Zetta: Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence](https://arxiv.org/abs/2608.16590) | 2026 | Paper | <a href="https://github.com/air-embodied-brain/Zetta-Embodiment"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AutoMisty: A Multi-Agent LLM Framework for Automated Code Generation in the Misty Social Robot](https://arxiv.org/abs/2503.06791) | 2025 | Paper | <a href="https://github.com/WangXiaoShawn/AutoMisty"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [LLM-Exoskeleton: LLM-Enabled Incremental Learning Framework for Hand Exoskeleton Control](https://doi.org/10.1109/TASE.2024.3382679) | 2025 | Paper | — |
-| [MAESTRO: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots](https://arxiv.org/abs/2511.00917) | 2025 | Paper | — |
+| [MAESTRO: Orchestrating Robotics Modules with Coding Agents for Zero-Shot Generalist Robots](https://arxiv.org/abs/2511.00917) | 2025 | Paper | <a href="https://github.com/penn-pal-lab/maestro"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [MTP: Memory Transfer Planning: LLM-driven Context-Aware Code Adaptation for Robot Manipulation](https://arxiv.org/abs/2509.24160) | 2025 | Paper | — |
 | [LYRA: Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation](https://arxiv.org/abs/2509.18597) | 2025 | Paper | <a href="https://github.com/Ghiara/LYRA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement](https://arxiv.org/abs/2504.20459) | 2025 | Paper | — |
 | [Agentic Skill Discovery](https://arxiv.org/abs/2405.15019) | 2024 | Paper | <a href="https://github.com/xf-zhao/Agentic-Skill-Discovery"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [LRLL: Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models](https://arxiv.org/abs/2406.18746) | 2024 | Paper | — |
+| [LRLL: Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models](https://doi.org/10.1109/icra57147.2024.10611448) | 2024 | Paper | — |
 | [RoboCoder: Robotic Learning from Basic Skills to General Tasks with Large Language Models](https://arxiv.org/abs/2406.03757) | 2024 | Paper | — |
 | [Trace: Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs](https://arxiv.org/abs/2406.16218) | 2024 | Paper | <a href="https://github.com/microsoft/Trace"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HALP: Lifelong Robot Learning with Human Assisted Language Planners](https://arxiv.org/abs/2309.14321) | 2023 | Paper | — |
@@ -138,7 +138,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RPent: Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) | 2026 | Paper | <a href="https://github.com/RLinf/RPent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HarnessPAI: An Evolving Harness for Physical AI](https://arxiv.org/abs/2609.29166) | 2026 | Paper | — |
-| [HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents](https://arxiv.org/abs/2610.23479) | 2026 | Paper | <a href="https://github.com/HexaFuture/HexaShell"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World](https://arxiv.org/abs/2610.23479) | 2026 | Paper | <a href="https://github.com/HexaFuture/HexaShell"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration](https://arxiv.org/abs/2610.23098) | 2026 | Paper | — |
 | [KnowBody: Know Your Body: A Harness for Direct and Self-Improving Robot Control with VLMs](https://arxiv.org/abs/2609.28530) | 2026 | Paper | — |
 | [M2HRI: An LLM-Driven Multimodal Multi-Agent Framework for Personalized Human-Robot Interaction](https://arxiv.org/abs/2604.11975) | 2026 | Paper | — |
@@ -159,7 +159,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Robo-Cortex: A Self-Evolving Embodied Agent via Dual-Grain Cognitive Memory and Autonomous Knowledge Induction](https://arxiv.org/abs/2605.18729) | 2026 | Paper | — |
 | [RoboARCade: Benchmarking Agentic Robot Control](https://arxiv.org/abs/2611.08209) | 2026 | Paper · [Project](https://roboarcade.org/) | <a href="https://github.com/Satvik1701/RoboARCade"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboBridge: A Self-Evolving Embodied Agent Framework for Sim-to-Real Transfer](https://arxiv.org/abs/2610.02717) | 2026 | Paper | — |
-| [RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies](https://robodoctor-rsi.github.io/) | 2026 | Project / report | <a href="https://github.com/THUSI-Lab/RoboDoctor"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies](https://arxiv.org/abs/2610.35604) | 2026 | Paper | <a href="https://github.com/THUSI-Lab/RoboDoctor"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarn-Evo: Evolving Hierarchical Physical Knowledge for Self-Improving Robotic Manipulation](https://arxiv.org/abs/2609.37583) | 2026 | Paper | <a href="https://github.com/RUCKBReasoning/RoboHarn-Evo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboRouter: Training-Free Policy Routing for Robotic Manipulation](https://arxiv.org/abs/2603.07892) | 2026 | Paper | — |
 | [RAX: Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) | 2026 | Paper | <a href="https://github.com/robot-agent-exploration/rax/tree/real/franka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -186,9 +186,9 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415) | 2025 | Paper | — |
 | [RoboReflect: A Robotic Reflective Reasoning Framework for Grasping Ambiguous-Condition Objects](https://arxiv.org/abs/2501.09307) | 2025 | Paper | — |
 | [RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic](https://arxiv.org/abs/2512.21220) | 2025 | Paper | — |
+| [Incremental Humanoid Learning: Incremental learning of humanoid robot behavior from natural interaction and large language models](https://doi.org/10.3389/frobt.2024.1455375) | 2024 | Paper | — |
 | [InterPreT: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning](https://arxiv.org/abs/2405.19758) | 2024 | Paper | <a href="https://github.com/hmz-15/interactive-predicate-learning"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [DROC: Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections](https://arxiv.org/abs/2311.10678) | 2023 | Paper | <a href="https://github.com/Stanford-ILIAD/droc"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [Incremental Humanoid Learning: Incremental Learning of Humanoid Robot Behavior from Natural Interaction and Large Language Models](https://arxiv.org/html/2309.04316) | 2023 | Paper | — |
 
 <a id="self-evolver-rewards"></a>
 
@@ -198,7 +198,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | --- | --- | --- | --- |
 | [Agent-Driven RL: Agent-Driven Autonomous Reinforcement Learning Research: Iterative Policy Improvement for Quadruped Locomotion](https://arxiv.org/abs/2603.27416) | 2026 | Paper | — |
 | [AgenticRL: Agentic Reinforcement Learning with Self-Refinement for Complex UAV Navigation](https://arxiv.org/abs/2606.03963) | 2026 | Paper | — |
-| [CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](https://arxiv.org/abs/2607.01721) | 2026 | Paper | <a href="https://github.com/nihx9919/CoRe"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](https://proceedings.mlr.press/v306/ni26d.html) | 2026 | Paper | <a href="https://github.com/nihx9919/CoRe"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Debate2Create: Robot Co-design via Multi-Agent LLM Debate](https://proceedings.mlr.press/v306/qiu26c.html) | 2026 | Paper | — |
 | [EvoNav: Evolutionary Reward Function Design for Robot Navigation with Large Language Models](https://arxiv.org/abs/2605.11859) | 2026 | Paper | — |
 | [FATE: Closed-Loop Feasibility-Aware Task Generation with Active Repair for Physically Grounded Robotic Curricula](https://arxiv.org/abs/2603.01505) | 2026 | Paper | — |
@@ -208,12 +208,12 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.02196v1) | 2026 | Paper | — |
 | [IDM: Predict Before You Modify: Learning Improvement Dynamics for Self-Evolving Agents](https://arxiv.org/abs/2610.13991) | 2026 | Paper | — |
 | [RDA: Reward Design Agent for Reinforcement Learning](https://arxiv.org/abs/2606.01672) | 2026 | Paper | — |
+| [RE-GoT: Reward Evolution with Graph-of-Thoughts: A Bi-Level Language Model Framework for Reinforcement Learning](https://doi.org/10.1109/icra57385.2026.11696350) | 2026 | Paper | — |
 | [SUN: Agentic Robot Policy Learning with Persistent Task Programs](https://arxiv.org/abs/2608.31167) | 2026 | Paper | — |
 | [AURA (Zhu): AURA: Autonomous Upskilling with Retrieval-Augmented Agents](https://arxiv.org/abs/2506.02507) | 2025 | Paper | — |
 | [CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks](https://arxiv.org/abs/2509.14380) | 2025 | Paper | — |
 | [ELEMENTAL: Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics](https://proceedings.mlr.press/v267/chen25at.html) | 2025 | Paper | — |
 | [Reflective Adaptation: Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710) | 2025 | Paper | — |
-| [RE-GoT: Reward Evolution with Graph-of-Thoughts: A Bi-Level Language Model Framework for Reinforcement Learning](https://arxiv.org/abs/2509.16136) | 2025 | Paper | — |
 | [RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/abs/2506.00276) | 2025 | Paper | — |
 | [STRIDE: Automating Reward Design, Deep Reinforcement Learning Training and Feedback Optimization in Humanoid Robotics Locomotion](https://arxiv.org/abs/2502.04692) | 2025 | Paper | — |
 | [Video2Policy: Scaling up Manipulation Tasks in Simulation through Internet Videos](https://arxiv.org/abs/2502.09886) | 2025 | Paper | — |
@@ -221,12 +221,12 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Agentic Skill Discovery](https://arxiv.org/abs/2405.15019) | 2024 | Paper | <a href="https://github.com/xf-zhao/Agentic-Skill-Discovery"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation](https://arxiv.org/abs/2410.00371) | 2024 | Paper | <a href="https://github.com/NVlabs/AHA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Code as Reward: Empowering Reinforcement Learning with VLMs](https://proceedings.mlr.press/v235/venuto24a.html) | 2024 | Paper | — |
-| [DrEureka: Language Model Guided Sim-To-Real Transfer](https://arxiv.org/abs/2406.01967) | 2024 | Paper | <a href="https://github.com/eureka-research/DrEureka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [ROSKA: Efficient Language-instructed Skill Acquisition via Reward-Policy Co-Evolution](https://arxiv.org/abs/2412.13492) | 2024 | Paper | <a href="https://github.com/NextMyLove/ROSKA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [DrEureka: Language Model Guided Sim-To-Real Transfer](https://doi.org/10.15607/rss.2024.xx.094) | 2024 | Paper | <a href="https://github.com/eureka-research/DrEureka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [ROSKA: Efficient Language-instructed Skill Acquisition via Reward-Policy Co-Evolution](https://arxiv.org/abs/2412.13492) | 2024 | Paper | <a href="https://github.com/Yanbin-Chang/ROSKA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Self-Alignment: Learning Reward for Robot Skills Using Large Language Models via Self-Alignment](https://proceedings.mlr.press/v235/zeng24d.html) | 2024 | Paper | — |
 | [REvolve (2024): REvolve: Reward Evolution with Large Language Models using Human Feedback](https://arxiv.org/abs/2406.01309) | 2024 | Paper | <a href="https://github.com/RishiHazra/Revolve"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SDS: SDS – See it, Do it, Sorted: Quadruped Skill Synthesis from Single Video Demonstration](https://arxiv.org/abs/2410.11571) | 2024 | Paper | <a href="https://github.com/RPL-CS-UCL/SDS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning](https://arxiv.org/abs/2412.05515) | 2024 | Paper | — |
+| [Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning](https://doi.org/10.3233/faia241014) | 2024 | Paper | — |
 | [Eureka: Human-Level Reward Design via Coding Large Language Models](https://arxiv.org/abs/2310.12931) | 2023 | Paper | <a href="https://github.com/eureka-research/Eureka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Self-Refined LLM: Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics](https://arxiv.org/abs/2309.06687) | 2023 | Paper | — |
 | [Text2Reward: Reward Shaping with Language Models for Reinforcement Learning](https://arxiv.org/abs/2309.11489) | 2023 | Paper | <a href="https://github.com/xlang-ai/text2reward"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -253,13 +253,13 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks](https://arxiv.org/abs/2610.18835) | 2026 | Paper | <a href="https://github.com/robosimstudio/robosimstudio"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images](https://arxiv.org/abs/2610.28585) | 2026 | Paper · [Project](https://red-fairy.github.io/SceneRig/) | <a href="https://github.com/Red-Fairy/SceneRig"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SEES: A Self-Evolving Embodied System via Failure-Guided VLA Policy Adaptation](https://arxiv.org/abs/2609.32698) | 2026 | Paper | — |
+| [Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation](https://proceedings.mlr.press/v306/huang26v.html) | 2026 | Paper | <a href="https://github.com/markli1hoshipu/Plan_LLM"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SimEX: Simulation-Integrated Robotics AutoResearch](https://arxiv.org/abs/2609.38982) | 2026 | Paper | — |
 | [SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning](https://arxiv.org/abs/2605.09423) | 2026 | Paper | — |
 | [Skill-Space Shooting: Skill-Space Shooting for Autonomous Robot Policy Improvement](https://arxiv.org/abs/2609.38178) | 2026 | Paper | — |
 | [Adaptive Environment Generation: Towards Adaptive Environment Generation for Training Embodied Agents](https://arxiv.org/abs/2602.06366) | 2026 | Paper | — |
 | [Video2World: Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos](https://arxiv.org/abs/2610.04432) | 2026 | Paper | <a href="https://github.com/AetherLabsAI/Video2World"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Articulate-Anything: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model](https://proceedings.iclr.cc/paper_files/paper/2025/hash/2c8047bf3ed8ef6905351608d641f02f-Abstract-Conference.html) | 2025 | Paper | <a href="https://github.com/vlongle/articulate-anything"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation](https://arxiv.org/abs/2509.21543) | 2025 | Paper | <a href="https://github.com/markli1hoshipu/Plan_LLM"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Eurekaverse: Environment Curriculum Generation via Large Language Models](https://arxiv.org/abs/2411.01775) | 2024 | Paper | <a href="https://github.com/eureka-research/eurekaverse"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code](https://arxiv.org/abs/2405.15568) | 2024 | Paper | <a href="https://github.com/maxencefaldor/omni-epic"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
@@ -311,14 +311,14 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library](https://arxiv.org/abs/2609.35318) | 2026 | Paper | <a href="https://github.com/dexagent1/DexAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ETM: Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper · [Project](https://ropedia.github.io/ropedia-a0/) | — |
 | [RoboCoach: From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence](https://arxiv.org/abs/2601.21570) | 2026 | Paper | — |
-| [HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents](https://arxiv.org/abs/2610.23479) | 2026 | Paper | <a href="https://github.com/HexaFuture/HexaShell"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World](https://arxiv.org/abs/2610.23479) | 2026 | Paper | <a href="https://github.com/HexaFuture/HexaShell"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [GLIDE: Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
 | [Recursia: Learning to Compose: Recursive Self-Improvement of Shared Executable Stacks for Zero-Shot Long-Horizon Robot Manipulation](https://arxiv.org/abs/2610.24464) | 2026 | Paper | <a href="https://github.com/cocacola-lab/Recursia"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [LITHE: Bridging Best-Effort Python and Real-Time C++ for Hot-Swapping Robotic Control Laws on Commodity Linux](https://arxiv.org/abs/2603.07442) | 2026 | Paper | — |
 | [URAI: Make Code as Policy Great Again: Frontier Agents Write, Call, and Evolve Robot Tools](https://arxiv.org/abs/2609.39018) | 2026 | Paper | — |
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
 | [RACaP: Agentic Reasoning, Acting, and Coding as Policies for Evolvable Robot Learning](https://arxiv.org/abs/2609.29394) | 2026 | Paper | <a href="https://github.com/Robo-Harness/racap"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [ResearchBoost: ResearchBoost-Agent: An autonomous agent that profiles, optimizes, and validates AI training code](https://github.com/AI4AI-for-Anything/ResearchBoost-Agent) | 2026 | Repository | <a href="https://github.com/AI4AI-for-Anything/ResearchBoost-Agent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [ResearchBoost: ResearchBoost-Agent: An autonomous agent that profiles, optimizes, and validates AI training code](https://github.com/DAGroup-PKU/ResearchBoost-Agent) | 2026 | Repository | <a href="https://github.com/DAGroup-PKU/ResearchBoost-Agent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RHO: Your Coding Agent is Secretly a Roboticist](https://arxiv.org/abs/2606.16458) | 2026 | Paper | <a href="https://github.com/KE7/HELIX"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RobotAgentBench: Towards Open-world Robot Autonomy](https://arxiv.org/abs/2610.34649) | 2026 | Paper · [Project](https://aetherlabsai.github.io/RobotAgentBench/) | <a href="https://github.com/AetherLabsAI/RobotAgentBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Physical Coding: Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence](https://arxiv.org/abs/2609.35432) | 2026 | Paper | — |
@@ -406,9 +406,9 @@ These non-robotics works examine research-agent succession, automated research, 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
 | [Weak-to-Strong Researcher: Automated Weak-to-Strong Researcher](https://alignment.anthropic.com/2026/automated-w2s-researcher/) | 2026 | Project / report | — |
-| [DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses](https://arxiv.org/abs/2610.23839) | 2026 | Paper | — |
+| [DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses](https://arxiv.org/abs/2610.23839) | 2026 | Paper | <a href="https://github.com/Gen-Verse/DiscoveryRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Measuring AI R&D: Measuring AI R&D Automation](https://arxiv.org/abs/2603.03992) | 2026 | Paper | — |
-| [PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640) | 2026 | Paper | — |
+| [PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://proceedings.mlr.press/v306/rank26a.html) | 2026 | Paper | — |
 | [AIDE²: Recursive self-improvement of AI research agents](https://arxiv.org/abs/2609.26457) | 2026 | Paper | — |
 | [MASS: Recursive Self-Improvement through Multi-Agent Self-Supervision](https://arxiv.org/abs/2610.12176) | 2026 | Paper | <a href="https://github.com/SakanaAI/mass"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Intelligence Explosions: The Dynamics of Intelligence Explosions](https://arxiv.org/abs/2608.14426) | 2026 | Paper | — |
@@ -417,6 +417,6 @@ These non-robotics works examine research-agent succession, automated research, 
 | [AI R&D Automation: What if automating AI R&D triggers an intelligence explosion?](https://arxiv.org/abs/2609.36054) | 2026 | Paper | — |
 | [When AI Builds Itself: Our Progress toward Recursive Self-Improvement, and Its Implications](https://www.anthropic.com/institute/recursive-self-improvement) | 2026 | Project / report | — |
 | [Self-Developing: Can Large Language Models Invent Algorithms to Improve Themselves?: Algorithm Discovery for Recursive Self-Improvement through Reinforcement Learning](https://aclanthology.org/2025.naacl-long.519/) | 2025 | Project / report | — |
-| [RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts](https://arxiv.org/abs/2411.15114) | 2024 | Paper | — |
+| [RE-Bench: Evaluating Frontier AI R&D Capabilities of Language Model Agents against Human Experts](https://proceedings.mlr.press/v267/wijk25a.html) | 2025 | Paper | — |
 
 [Back to overview](../README.md)
