@@ -52,6 +52,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [AgentRob: From Virtual Forum Agents to Hijacked Physical Robots](https://arxiv.org/abs/2602.13591v1) | 2026 | Paper | — |
 | [RoboProbe: An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond](https://arxiv.org/abs/2609.24170) | 2026 | Paper | <a href="https://github.com/RoboProbe/RoboProbe"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Astranomy: An Empirical Study of GPT-6 Astra as a Native Robot Policy](https://research.nvidia.com/labs/srl/projects/astranomy/) | 2026 | Project / report | — |
+| [AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents](https://arxiv.org/abs/2605.17933) | 2026 | Paper | <a href="https://github.com/wangpan-ustc/AtlasVA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [BeyondCSe: Beyond the Current Scene: Event-Referential Grasping with Active View Selection](https://corl2026-memory.github.io/papers/022.pdf) | 2026 | Paper | — |
 | [Astra-RoboMME: Can a Frontier VLM Serve as a Robot Policy for Memory-Dependent Manipulation?](https://arxiv.org/abs/2610.17350) | 2026 | Paper | <a href="https://github.com/jackbjed/embodied-astra-robomme"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embody: Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | 2026 | Research blog | — |
@@ -110,12 +111,14 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [VIA: Visual Interface Agent for Robot Control](https://arxiv.org/abs/2607.11119) | 2026 | Paper | <a href="https://github.com/hengyuan-hu/via"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SE3 Labs: Where Should a Robot's Intelligence Live? Code-as-Policy versus Agentic Control](https://se3labs.ai/blog/agentic-vs-code-as-policy/) | 2026 | Blog | — |
 | [MissionBench: Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents](https://arxiv.org/abs/2607.22014v1) | 2026 | Paper · [Project](https://gomtae.github.io/publications/missionbench) | <a href="https://github.com/FraunhoferIVI/MissionBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Arcadia: Toward a Full-Lifecycle Framework for Embodied Lifelong Learning](https://arxiv.org/abs/2512.00076) | 2025 | Paper | <a href="https://github.com/Embodied-Arcadia/EmbodiedKit"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AIC MLLM: Autonomous Interactive Correction MLLM for Robust Robotic Manipulation](https://proceedings.mlr.press/v270/xiong25a.html) | 2025 | Paper | — |
 | [DriveMLM: aligning multi-modal large language models with behavioral planning states for autonomous driving](https://doi.org/10.1007/s44267-025-00095-w) | 2025 | Paper | — |
 | [EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](https://proceedings.mlr.press/v267/yang25f.html) | 2025 | Paper | <a href="https://github.com/EmbodiedBench/EmbodiedBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [FSD: From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation](https://arxiv.org/abs/2505.08548) | 2025 | Paper | <a href="https://github.com/pickxiguapi/Embodied-FSD"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Gemini ER: Gemini Robotics: Bringing AI into the Physical World](https://arxiv.org/abs/2503.20020) | 2025 | Paper | — |
 | [LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation](https://arxiv.org/abs/2511.02239) | 2025 | Paper | — |
+| [OmniVIC: A Self-Improving Variable Impedance Controller with Vision-Language In-Context Learning for Safe Robotic Manipulation](https://arxiv.org/abs/2510.17150) | 2025 | Paper | — |
 | [PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models](https://arxiv.org/abs/2509.13903) | 2025 | Paper | — |
 | [RoboPoint: A Vision-Language Model for Spatial Affordance Prediction in Robotics](https://proceedings.mlr.press/v270/yuan25c.html) | 2025 | Paper · [Project](https://robo-point.github.io/) | <a href="https://github.com/wentaoyuan/RoboPoint"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics](https://openaccess.thecvf.com/content/CVPR2025/html/Song_RoboSpatial_Teaching_Spatial_Understanding_to_2D_and_3D_Vision-Language_Models_CVPR_2025_paper.html) | 2025 | Paper · [Project](https://chanh.ee/RoboSpatial/) | <a href="https://github.com/NVlabs/RoboSpatial"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -203,6 +206,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks](https://arxiv.org/abs/2508.08240) | 2025 | Paper | — |
 | [OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning](https://proceedings.mlr.press/v270/he25b.html) | 2025 | Paper · [Project](https://omni.human2humanoid.com/) | <a href="https://github.com/LeCAR-Lab/human2humanoid"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](https://arxiv.org/abs/2504.14588) | 2025 | Paper | <a href="https://github.com/GeWu-Lab/Motion-based-Self-Reflection-Framework"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RationalVLA: A Rational Vision-Language-Action Model with Dual System](https://arxiv.org/abs/2506.10826) | 2025 | Paper | — |
 | [Robix: A Unified Model for Robot Interaction, Reasoning and Planning](https://arxiv.org/abs/2509.01106) | 2025 | Paper | — |
 | [RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](https://arxiv.org/abs/2506.06677) | 2025 | Paper | <a href="https://github.com/buaa-colalab/RoboCerebra"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboChemist: Long-Horizon and Safety-Compliant Robotic Chemical Experimentation](https://arxiv.org/abs/2509.08820) | 2025 | Paper | — |
@@ -215,6 +219,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [UniSim: Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114) | 2024 | Paper | — |
 | [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/abs/2412.04453) | 2024 | Paper · [Project](https://navila-bot.github.io) | <a href="https://github.com/AnjieCheng/NaVILA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving](https://arxiv.org/abs/2410.22313) | 2024 | Paper | <a href="https://github.com/hustvl/Senna"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [SInViG: A Self-Evolving Interactive Visual Agent for Human-Robot Interaction](https://arxiv.org/abs/2402.11792) | 2024 | Paper | — |
 | [YAY Robot: Yell At Your Robot: Improving On-the-Fly from Language Corrections](https://arxiv.org/abs/2403.12910) | 2024 | Paper · [Project](https://yay-robot.github.io/) | <a href="https://github.com/yay-robot/yay_robot"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SuSIE: Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models](https://openreview.net/forum?id=c0chJTSbci) | 2024 | Paper | <a href="https://github.com/kvablack/susie"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [PaLM-E: An Embodied Multimodal Language Model](https://proceedings.mlr.press/v202/driess23a.html) | 2023 | Paper · [Project](https://palm-e.github.io) | — |
@@ -405,6 +410,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [RobiButler: Robi Butler: Multimodal Remote Interaction with a Household Robot Assistant](https://doi.org/10.1109/icra55743.2025.11128329) | 2025 | Paper | <a href="https://github.com/threefruits/zoom_robot_interface"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation](https://doi.org/10.1109/iccv51701.2025.01354) | 2025 | Paper | <a href="https://github.com/abliao/RoBridge"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [TAIROS: An Embodied AI Platform for Robotics Applications](https://cdn.tairos.tencent-cloud.com/downloads/tools/pdf/tairos.pdf) | 2025 | Paper | — |
+| [VLA²: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation](https://arxiv.org/abs/2510.14902) | 2025 | Paper | — |
 | [DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment](https://doi.org/10.1109/iros58592.2024.10802284) | 2024 | Paper | — |
 | [Foundation Models to the Rescue: Deadlock Resolution in Connected Multi-Robot Systems](https://arxiv.org/html/2404.06413) | 2024 | Paper · [Project](https://mit-realm.github.io/LLM-gcbfplus-website/) | — |
 | [SayCan: Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://proceedings.mlr.press/v205/ichter23a.html) | 2023 | Paper | <a href="https://github.com/google-research/google-research/tree/master/saycan"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -492,6 +498,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [RAI: Flexible Agent Framework for Embodied AI](https://doi.org/10.1007/978-3-032-05925-3_16) | 2025 | Paper | <a href="https://github.com/RobotecAI/rai"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ResponsibleRobotBench: Benchmarking Risk-Aware Task-Level Decision Making for Robotic Manipulation with Large Multimodal Models](https://arxiv.org/abs/2512.04308) | 2025 | Paper | — |
 | [RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation](https://arxiv.org/abs/2503.01616) | 2025 | Paper | <a href="https://github.com/henryhcliu/robodex_vlm"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration](https://arxiv.org/abs/2510.26536) | 2025 | Paper | — |
 | [RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration](https://arxiv.org/abs/2505.03673) | 2025 | Paper | <a href="https://github.com/FlagOpen/RoboOS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SAFER: Safety Aware Task Planning via Large Language Models in Robotics](https://arxiv.org/abs/2503.15707) | 2025 | Paper | — |
 | [Trinity Humanoid: Trinity: A Modular Humanoid Robot AI System](https://arxiv.org/abs/2503.08338) | 2025 | Paper | — |
@@ -556,6 +563,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](https://arxiv.org/abs/2610.01178) | 2026 | Paper | — |
 | [Retriever: Composing the Perception-Reasoning-Action Loop for Long-Horizon Manipulation](https://arxiv.org/abs/2607.17213) | 2026 | Paper | <a href="https://github.com/openretriever/retriever"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RHO: Your Coding Agent is Secretly a Roboticist](https://arxiv.org/abs/2606.16458) | 2026 | Paper | <a href="https://github.com/KE7/HELIX"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboAware: Learning to Coordinate Embodied Skills from Counterfactual Outcomes](https://arxiv.org/abs/2610.11480) | 2026 | Paper | — |
 | [RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents](https://arxiv.org/abs/2609.32862) | 2026 | Paper | — |
 | [RoboHarness (BinceQu): RoboHarness: A Simple Harness Outperforms VLA and World Action Models](https://arxiv.org/abs/2610.14018) | 2026 | Paper · [Project](https://bincequ.github.io/RoboHarness/) | <a href="https://github.com/BinceQu/RoboHarness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboSkills: A minimal set of agent workflows and tools for robotics](https://github.com/openrobokit/roboskills) | 2026 | Repository · [Project](https://openrobokit.com/roboskills/) | <a href="https://github.com/openrobokit/roboskills"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -618,6 +626,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints](https://arxiv.org/abs/2608.22149) | 2026 | Paper | — |
 | [RoboJEV](https://github.com/lykycy123/RoboJEV) | 2026 | Repository | <a href="https://github.com/lykycy123/RoboJEV"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments](https://arxiv.org/abs/2610.10409) | 2026 | Paper | <a href="https://github.com/robotworldai/robotworld"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [SharedKV-BT: Node-Local Typed Decisions for Behavior-Tree Agents](https://arxiv.org/abs/2610.07327) | 2026 | Paper | — |
 | [STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models](https://arxiv.org/html/2607.18580) | 2026 | Paper | — |
 | [Verifier-Mediated Coordination: Verifier-Mediated Multi-LLM Coordination for Multi-Robot Path Planning](https://arxiv.org/abs/2610.12761) | 2026 | Paper | — |
 | [PIP-LLM: Integrating PDDL-Integer Programming with LLMs for Coordinating Multi-Robot Teams Using Natural Language](https://arxiv.org/abs/2510.22784) | 2025 | Paper | — |
@@ -680,12 +689,14 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [Jev Arm Demo: Jev vs LLM: Robot Arm Control](https://github.com/FazalAAli/jev-robotics-demo) | 2026 | Engineering demo | <a href="https://github.com/FazalAAli/jev-robotics-demo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning](https://arxiv.org/abs/2604.25788) | 2026 | Paper | <a href="https://github.com/Princeton-Robot-Planning-and-Learning/kindergarden"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [LocalNav: Distilling Frontier VLMs and Embodied RL for On-Device Object Goal Navigation](https://arxiv.org/html/2606.27871v1) | 2026 | Paper | — |
+| [OntoPlan: An Ontology-Grounded Scene Representation and Agentic Framework for Scalable Robot Task Planning](https://arxiv.org/abs/2610.07649) | 2026 | Paper | <a href="https://github.com/namhyeongwoo/OntoPlan"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Physical Agentic AI: An Architecture for Orchestrating a Robot Crew with LLMs](https://arxiv.org/abs/2608.22657v1) | 2026 | Paper | <a href="https://github.com/Liuuuxy/physical-agentic-ai"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [OpenArm Handoffs: Representation Handoffs for OpenArm-Based Laboratory Mobile Manipulation](https://openreview.net/forum?id=aecUusZZ4H) | 2026 | Paper | <a href="https://github.com/yshenfab/xEI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboUse: Robo Use: agent as a policy for embodied agents](https://robouse.ai/) | 2026 | Software | <a href="https://github.com/benchflow-ai/robouse"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarness (Huang): RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning](https://arxiv.org/abs/2607.18060) | 2026 | Paper | — |
 | [RoboTalk: Learning Multi-Robot Communication and Coordination from Multimodal Demonstrations](https://arxiv.org/html/2609.23997v1) | 2026 | Paper | — |
 | [Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams](https://arxiv.org/abs/2603.08814) | 2026 | Paper | <a href="https://github.com/honda-research-institute/Scale_Plan"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation](https://arxiv.org/abs/2609.36171) | 2026 | Paper | <a href="https://github.com/Ada4321/SkillWeaver-openpi"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AGOS-Agent: Towards Embodied Air-Ground Cooperative Object Search: Benchmark, Dataset and Agentic Method](https://arxiv.org/abs/2609.08402) | 2026 | Paper | — |
 | [BrainBody-LLM: Grounding Large Language Models for Robot Task Planning Using Closed‐Loop State Feedback](https://doi.org/10.1002/adrr.202500072) | 2025 | Paper | — |
 | [IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks](https://arxiv.org/abs/2506.16402) | 2025 | Paper | <a href="https://github.com/AI45Lab/IS-Bench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -759,6 +770,7 @@ Entries with a documented execution category carry an A1, A2 or A3 label.
 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
+| [COLADA: Continual Robot Skill and Task Learning via Dialogue](https://arxiv.org/abs/2409.03166) | 2024 | Paper | — |
 | [Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks \[A1\]](https://arxiv.org/abs/2405.01534) | 2024 | Paper | <a href="https://github.com/mihdalal/planseqlearn"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [CLAIRify: Large language models for chemistry robotics](https://doi.org/10.1007/s10514-023-10136-2) | 2023 | Paper | — |
 | [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action \[A1\]](https://proceedings.mlr.press/v205/shah23b.html) | 2023 | Paper | <a href="https://github.com/blazejosinski/lm_nav"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |

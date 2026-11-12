@@ -106,6 +106,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [LYRA: Robotic Ultra-Long-Horizon Manipulation Skills via Human-guided Lifelong Code Generation](https://arxiv.org/abs/2509.18597) | 2025 | Paper | <a href="https://github.com/Ghiara/LYRA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement](https://arxiv.org/abs/2504.20459) | 2025 | Paper | — |
 | [Agentic Skill Discovery](https://arxiv.org/abs/2405.15019) | 2024 | Paper | <a href="https://github.com/xf-zhao/Agentic-Skill-Discovery"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [COLADA: Continual Robot Skill and Task Learning via Dialogue](https://arxiv.org/abs/2409.03166) | 2024 | Paper | — |
 | [LRLL: Lifelong Robot Library Learning: Bootstrapping Composable and Generalizable Skills for Embodied Control with Language Models](https://doi.org/10.1109/icra57147.2024.10611448) | 2024 | Paper | — |
 | [RoboCoder: Robotic Learning from Basic Skills to General Tasks with Large Language Models](https://arxiv.org/abs/2406.03757) | 2024 | Paper | — |
 | [Trace: Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs](https://arxiv.org/abs/2406.16218) | 2024 | Paper | <a href="https://github.com/microsoft/Trace"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
