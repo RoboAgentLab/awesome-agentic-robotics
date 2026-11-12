@@ -51,6 +51,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Skill-RSI: Compile Once, Run Cheap: Frozen, Portable Skills for Embodied Agents, and What Recursive Self-Improvement Adds](https://arxiv.org/abs/2610.25114) | 2026 | Paper | <a href="https://github.com/Orillusion/embodied-skill-rsi"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Contact Code: A Typed Program Interface for Measurable and Repairable Contact-Rich Manipulation](https://openreview.net/forum?id=78L8T5nsLM) | 2026 | Paper | — |
 | [Geometric Abstraction: Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action](https://openreview.net/forum?id=CQFstcjx1Z) | 2026 | Paper | <a href="https://github.com/Spectraorder/geometric-abstraction"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [ELEVATE: Agentic Controller Acquisition from Task Failure for Quadrupedal Manipulation](https://arxiv.org/abs/2610.38388) | 2026 | Paper | — |
 | [ETM: Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper · [Project](https://ropedia.github.io/ropedia-a0/) | — |
 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) | 2026 | Paper | — |
 | [EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution](https://arxiv.org/abs/2610.10498) | 2026 | Paper | — |
@@ -275,6 +276,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [AID-SR: Bridging Language and Physics: Automated Design of Continuum Robots with Large Language Models](https://www.roboticsproceedings.org/rss22/p194.html) | 2026 | Paper | — |
 | [Debate2Create: Robot Co-design via Multi-Agent LLM Debate](https://proceedings.mlr.press/v306/qiu26c.html) | 2026 | Paper | — |
 | [Efficient Robot Design: Efficient Robot Design with Multi-Objective Black-Box Optimization and Large Language Models](https://haraduka.github.io/urdf-llm-opt/) | 2026 | Project / report | — |
+| [L2D: Language to Design (L2D): Towards Self-Evolving Robots](https://openreview.net/forum?id=fi5UmvIKPo) | 2026 | Paper | — |
 | [Auto-Robotist: When Search Becomes Memory: Accelerating Robot Design Discovery with Self-Evolving Skills](https://arxiv.org/abs/2605.25832) | 2026 | Paper | <a href="https://github.com/wangyf9/Auto-Robotist"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward](https://arxiv.org/abs/2506.00276) | 2025 | Paper | — |
 | [VLMgineer: Vision Language Models as Robotic Toolsmiths](https://arxiv.org/html/2507.12644) | 2025 | Paper · [Project](https://vlmgineer.github.io/) | <a href="https://github.com/vlmgineer/vlmgineer"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
