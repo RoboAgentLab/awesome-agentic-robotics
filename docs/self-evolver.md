@@ -49,6 +49,8 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance](https://arxiv.org/abs/2610.21453) | 2026 | Paper · [Project](https://vincent2311.github.io/Projects/CarryOn/) | <a href="https://github.com/JIA-Lab-research/CarryOn"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Coding Agents for TAMP: Coding Agents for Generalized Task and Motion Planning Problems](https://arxiv.org/abs/2609.30233v1) | 2026 | Paper · [Project](https://agenticgentamp.github.io) | <a href="https://github.com/tomsilver/robocode"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Skill-RSI: Compile Once, Run Cheap: Frozen, Portable Skills for Embodied Agents, and What Recursive Self-Improvement Adds](https://arxiv.org/abs/2610.25114) | 2026 | Paper | <a href="https://github.com/Orillusion/embodied-skill-rsi"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Contact Code: A Typed Program Interface for Measurable and Repairable Contact-Rich Manipulation](https://openreview.net/forum?id=78L8T5nsLM) | 2026 | Paper | — |
+| [Geometric Abstraction: Do Agentic Policies Need to Look at Every Step? Geometric Abstraction for Reasoning and Action](https://openreview.net/forum?id=CQFstcjx1Z) | 2026 | Paper | <a href="https://github.com/Spectraorder/geometric-abstraction"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ETM: Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement](https://arxiv.org/abs/2610.12369) | 2026 | Paper · [Project](https://ropedia.github.io/ropedia-a0/) | — |
 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) | 2026 | Paper | — |
 | [EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution](https://arxiv.org/abs/2610.10498) | 2026 | Paper | — |
@@ -73,6 +75,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
 | [PhysicalRSI: PhysicalRSI 1.0: Recursive Self-Harness for Scaling Embodied Skills](https://mmlab.hk/research/PhysicalRSI) | 2026 | Project / report | <a href="https://github.com/PhysicalRSI/PhysicalRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RATs: Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419) | 2026 | Paper | <a href="https://github.com/Playful-RATs/rats"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Adversarial Co-Adaptive Self-Play: Program-Level Adversarial Co-Adaptive Self-Play for Robotic Security](https://openreview.net/forum?id=LkW6BOlHMY) | 2026 | Paper | — |
 | [RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249) | 2026 | Paper | — |
 | [RPG: Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents](https://arxiv.org/abs/2610.02204) | 2026 | Paper | — |
 | [Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](https://arxiv.org/abs/2610.01178) | 2026 | Paper | — |

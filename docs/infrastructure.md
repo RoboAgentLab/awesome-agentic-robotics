@@ -216,6 +216,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Causal Reward Models: Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation](https://arxiv.org/abs/2606.23280) | 2026 | Paper | — |
 | [Embody: Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | 2026 | Research blog | — |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
+| [ComDex: A Compositional Framework for Dexterity Learning from Offline Human Manipulation Videos](https://openreview.net/forum?id=l0BBYNeW4A) | 2026 | Paper | — |
 | [CoRe: Combined Rewards with Vision-Language Model Feedback for Preference-Aligned Reinforcement Learning](https://proceedings.mlr.press/v306/ni26d.html) | 2026 | Paper | <a href="https://github.com/nihx9919/CoRe"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [DexSim2Real: Foundation Model-Guided Sim-to-Real Transfer for Generalizable Dexterous Manipulation](https://arxiv.org/abs/2605.05241) | 2026 | Paper | — |
 | [EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development](https://arxiv.org/abs/2604.13800) | 2026 | Paper | — |
@@ -307,6 +308,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [HALTER: From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation](https://arxiv.org/abs/2609.19413) | 2026 | Paper | — |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hermes Embodied: Self-Improving Robotics via Hermes Agent](https://github.com/bryercowan/hermes-embodied) | 2026 | Repository | <a href="https://github.com/bryercowan/hermes-embodied"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Impossible Twins: Judge-Free Measurement of Verifier False Positives in Agentic Robot Controller Search](https://openreview.net/forum?id=uMkXmX3mAy) | 2026 | Paper | — |
 | [ManipEvalAgent: Promptable and Efficient Evaluation Framework for Robotic Manipulation Policies](https://proceedings.iclr.cc/paper_files/paper/2026/file/8833c8aa10542d24d693bbaf6a4598f5-Paper-Conference.pdf) | 2026 | Paper | — |
 | [MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution](https://arxiv.org/abs/2607.22832) | 2026 | Paper | <a href="https://github.com/sygkounas/MEMENTO"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Nautilus: From One Prompt to Plug-and-Play Robot Learning](https://arxiv.org/abs/2605.11665) | 2026 | Paper | — |
