@@ -290,7 +290,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
 | [AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents](https://arxiv.org/abs/2610.20474) | 2026 | Paper | — |
-| [LLM Weight Editing: Can LLMs Debug Robots by Editing Their Weights?](https://arxiv.org/abs/2611.09376) | 2026 | Paper | — |
+| [Debug Robots by Weights: Can LLMs Debug Robots by Editing Their Weights?](https://arxiv.org/abs/2611.09376) | 2026 | Paper | — |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation](https://arxiv.org/abs/2609.38905) | 2026 | Paper | — |
 | [EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies](https://arxiv.org/abs/2610.13376) | 2026 | Paper | — |
