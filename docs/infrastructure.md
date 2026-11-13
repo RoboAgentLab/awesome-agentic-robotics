@@ -148,6 +148,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [GLIDE: Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
 | [MimicAgent: Quadruped Skills via Prompt-to-Trajectory Generation](https://arxiv.org/abs/2609.24145) | 2026 | Paper | <a href="https://github.com/Luckykantnayak/mimicagent-humnaoid"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2610.03476) | 2026 | Paper | <a href="https://github.com/kaiknower/MobiAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Multimodal BT: Multimodal Behavior Tree Generation: A Small Vision-Language Model for Robot Task Planning](https://arxiv.org/abs/2603.06084) | 2026 | Paper | — |
 | [DRIVE-CHOREO: OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation](https://arxiv.org/abs/2606.17536) | 2026 | Paper | — |
 | [PlayWorld: Learning Robot World Models from Autonomous Play](https://arxiv.org/abs/2603.09030) | 2026 | Paper | <a href="https://github.com/irom-princeton/open-world"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HERO: Practice Makes Policies: Bootstrapping and Consolidating Robotic Capabilities from Zero Human Demonstrations](https://arxiv.org/abs/2607.26809) | 2026 | Paper | — |
@@ -311,6 +312,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [BenchMend: Agent-Guided Instruction Repair for Robotics Benchmarks](https://tianqi-zh.github.io/BenchMend/) | 2026 | Project / report | — |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes](https://arxiv.org/abs/2609.36024) | 2026 | Paper | — |
+| [EmbodiedSkillBench: Embodied Skill Bench: Benchmarking How Well Agents with Embodied Skills Perform on Physical Tasks](https://arxiv.org/abs/2610.16238) | 2026 | Paper | <a href="https://github.com/HanZhi306/EmbodiedSkill-Bench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction](https://arxiv.org/abs/2609.13082) | 2026 | Paper | — |
 | [EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development](https://arxiv.org/abs/2604.13800) | 2026 | Paper | — |
 | [EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation](https://arxiv.org/abs/2609.38905) | 2026 | Paper | — |
@@ -324,14 +326,23 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [ManipEvalAgent: Promptable and Efficient Evaluation Framework for Robotic Manipulation Policies](https://proceedings.iclr.cc/paper_files/paper/2026/file/8833c8aa10542d24d693bbaf6a4598f5-Paper-Conference.pdf) | 2026 | Paper | — |
 | [MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution](https://arxiv.org/abs/2607.22832) | 2026 | Paper | <a href="https://github.com/sygkounas/MEMENTO"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Nautilus: From One Prompt to Plug-and-Play Robot Learning](https://arxiv.org/abs/2605.11665) | 2026 | Paper | — |
+| [PRISM: Planning and Reasoning with Intent in Simulated Embodied Environments](https://arxiv.org/abs/2605.11534) | 2026 | Paper | — |
 | [RoboLineage: Agent-Native Data Lifecycle Governance Across Robot Policy Iterations](https://arxiv.org/abs/2606.22142) | 2026 | Paper | <a href="https://github.com/robolineage/robolineage"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [robot-autoresearch](https://github.com/AlmondGod/robotics-autoresearch) | 2026 | Repository | <a href="https://github.com/AlmondGod/robotics-autoresearch"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment](https://arxiv.org/abs/2610.09294) | 2026 | Paper · [Project](https://xtrose29.github.io/RT-SAFE/) | <a href="https://github.com/XTRose29/RT-SAFE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://proceedings.mlr.press/v306/pfaff26a.html) | 2026 | Paper | <a href="https://github.com/nepfaff/scenesmith"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
+| [DESPITE: Using large language models for embodied planning introduces systematic safety risks](https://arxiv.org/abs/2604.18463) | 2026 | Paper · [Project](https://despite-safety.github.io/) | <a href="https://github.com/taozhang1004/DESPITE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966) | 2026 | Paper | <a href="https://github.com/allenai/vla-evaluation-harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://arxiv.org/abs/2608.09892) | 2026 | Paper | <a href="https://github.com/XPolicyLab/XPolicyLab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [MEMENTO-Personal: Embodied Agents Meet Personalization: Investigating Challenges and Solutions Through the Lens of Memory Utilization](https://arxiv.org/abs/2505.16348) | 2025 | Paper · [Project](https://connoriginal.github.io/MEMENTO) | <a href="https://github.com/Connoriginal/MEMENTO"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [AutoAsk: Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](https://arxiv.org/abs/2504.00907) | 2025 | Paper | — |
+| [HomeSafeBench: Benchmarking Embodied Vision-Language Models in Free-Exploration Home Safety Inspection](https://arxiv.org/abs/2509.23690) | 2025 | Paper | <a href="https://github.com/BITHLP/HomeSafeBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents](https://arxiv.org/abs/2509.25885) | 2025 | Paper | — |
+| [SENTINEL-Formal: SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of Foundation Model-based Embodied Agents](https://arxiv.org/abs/2510.12985) | 2025 | Paper | — |
 | [Critical Scenario Testing: Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach](https://arxiv.org/abs/2412.06684) | 2024 | Paper | — |
 | [RoboPAIR: Jailbreaking LLM-Controlled Robots](https://arxiv.org/abs/2410.13691) | 2024 | Paper · [Project](https://robopair.org/) | <a href="https://github.com/arobey1/robopair"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178) | 2024 | Paper · [Project](https://safeagentbench.github.io/) | <a href="https://github.com/shengyin1224/SafeAgentBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 
 <a id="infrastructure-diagnosis"></a>
 
@@ -376,10 +387,12 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
 | [A²-MEAS: Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124) | 2026 | Paper · [Project](https://a2-meas.github.io/) | <a href="https://github.com/AutoLab-SAI-SJTU/A2MEAS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966) | 2026 | Paper | <a href="https://github.com/allenai/vla-evaluation-harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing](https://arxiv.org/abs/2602.15549) | 2026 | Paper | — |
 | [XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://arxiv.org/abs/2608.09892) | 2026 | Paper | <a href="https://github.com/XPolicyLab/XPolicyLab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AURA (Buchholz): A Collaborative Reasoning Framework for Anomaly Diagnostics in Underwater Robotics](https://arxiv.org/abs/2511.03075) | 2025 | Paper | — |
 | [Unified Failure Handling: A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees](https://arxiv.org/abs/2503.15202) | 2025 | Paper | — |
 | [Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection](https://arxiv.org/abs/2412.04455) | 2025 | Paper · [Project](https://zhoues.github.io/Code-as-Monitor) | — |
+| [ViFailback: Diagnose, Correct, and Learn from Manipulation Failures via Visual Symbols](https://arxiv.org/abs/2512.02787) | 2025 | Paper · [Project](https://x1nyuzhou.github.io/vifailback.github.io/) | <a href="https://github.com/x1nyuzhou/ViFailback"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [UROSA: Distributed AI Agents for Cognitive Underwater Robot Autonomy](https://arxiv.org/abs/2507.23735) | 2025 | Paper · [Project](https://markusbuchholz.github.io/urosa.html) | <a href="https://github.com/markusbuchholz/urosa_underwater_autonomy"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Reflective Adaptation: Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710) | 2025 | Paper | — |
 | [RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction](https://arxiv.org/abs/2505.12224) | 2025 | Paper | <a href="https://github.com/MINT-SJTU/RoboFAC"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |

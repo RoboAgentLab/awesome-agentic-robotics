@@ -146,6 +146,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World](https://arxiv.org/abs/2610.23479) | 2026 | Paper | <a href="https://github.com/HexaFuture/HexaShell"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration](https://arxiv.org/abs/2610.23098) | 2026 | Paper | — |
 | [KnowBody: Know Your Body: A Harness for Direct and Self-Improving Robot Control with VLMs](https://arxiv.org/abs/2609.28530) | 2026 | Paper | — |
+| [LEXP: Learning from Physical Experience: Context-Space Adaptation for Robotic Manipulation](https://arxiv.org/abs/2610.41320) | 2026 | Paper · [Project](https://hatty-z.github.io/LearnFromExperience/) | — |
 | [M2HRI: An LLM-Driven Multimodal Multi-Agent Framework for Personalized Human-Robot Interaction](https://arxiv.org/abs/2604.11975) | 2026 | Paper | — |
 | [ME-Brain: ME-Brain-1.0: Memory, Cognition and Action for Evolving Embodied Intelligence](https://arxiv.org/abs/2609.24271) | 2026 | Paper | — |
 | [MEMORA: Embodied Action Memory from Egocentric Videos for Reasoning and Planning](https://arxiv.org/abs/2607.14252) | 2026 | Paper | <a href="https://github.com/yuzihaowashu/MEMORA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -167,6 +168,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [RoboDoctor: Training-Free Recursive Self-Improvement for Robot Policies](https://arxiv.org/abs/2610.35604) | 2026 | Paper | <a href="https://github.com/THUSI-Lab/RoboDoctor"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboHarn-Evo: Evolving Hierarchical Physical Knowledge for Self-Improving Robotic Manipulation](https://arxiv.org/abs/2609.37583) | 2026 | Paper | <a href="https://github.com/RUCKBReasoning/RoboHarn-Evo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboRouter: Training-Free Policy Routing for Robotic Manipulation](https://arxiv.org/abs/2603.07892) | 2026 | Paper | — |
+| [RobotUse: Allocating Computation, Context, and Decisions](https://arxiv.org/abs/2610.04929) | 2026 | Paper · [Project](https://robotuse-team.github.io/) | <a href="https://github.com/robotuse-team/RobotUse"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RAX: Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) | 2026 | Paper | <a href="https://github.com/robot-agent-exploration/rax/tree/real/franka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SEAR: Self-Evolving Agentic Robotics](https://arxiv.org/abs/2610.18792) | 2026 | Paper | [Code pending release](https://github.com/Self-Evolving-Agentic-Robotics/SEAR) |
 | [SHAPER: Self-Evolving Embodied Agents via Skill-Harness Evolution](https://arxiv.org/abs/2608.11350) | 2026 | Paper | — |
