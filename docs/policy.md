@@ -396,6 +396,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | --- | --- | --- | --- |
 | [ROS-LLM: A robot operating system framework for using large language models in embodied AI](https://doi.org/10.1038/s42256-026-01186-z) | 2026 | Paper | <a href="https://github.com/huawei-noah/HEBO/tree/master/ROSLLM"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [MoMa-SG: Articulated 3D Scene Graphs for Open-World Mobile Manipulation](https://arxiv.org/abs/2602.16356) | 2026 | Paper | <a href="https://github.com/robot-learning-freiburg/MoMa-SG"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [ATLAS: Agentic Harness for Whole-Body Intelligence from Human Video](https://atlas-humanoid.github.io/blog/) | 2026 | Project report · [Project](https://atlas-humanoid.github.io/) | — |
 | [REAL: Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation](https://doi.org/10.1007/978-3-032-37422-6_36) | 2026 | Paper | <a href="https://github.com/InternRobotics/REAL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [FARE: Fast-Slow Agentic Robotic Exploration](https://arxiv.org/html/2601.14681v1) | 2026 | Paper | — |
 | [KINO: A Keyframe Interface for VLM Planning and Whole-Body Control in Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.18869) | 2026 | Paper | — |
