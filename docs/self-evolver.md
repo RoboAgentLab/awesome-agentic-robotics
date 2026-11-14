@@ -64,6 +64,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Gemini 4 Argon: Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [Local Coding Agent: Generalizing Manipulation Skills with a Local Coding Agent](https://arxiv.org/abs/2609.26499v1) | 2026 | Paper · [Project](https://rtalwar2.github.io/agentic-coding-for-robot-manipulation/) | — |
 | [HarnessPAI: An Evolving Harness for Physical AI](https://arxiv.org/abs/2609.29166) | 2026 | Paper | — |
+| [Impossible Twins: Judge-Free Measurement of Verifier False Positives in Agentic Robot Controller Search](https://openreview.net/forum?id=uMkXmX3mAy) | 2026 | Paper | — |
 | [InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration](https://arxiv.org/abs/2610.23098) | 2026 | Paper | — |
 | [Waddle: Introducing Waddle: Agents that Control Robots](https://waddlelabs.ai/research/introducing-waddle) | 2026 | Project / report | — |
 | [Closed-Loop Robot Software: Learning and Transferring Closed-Loop Robot Software](https://arxiv.org/abs/2609.19906) | 2026 | Paper | — |
@@ -145,6 +146,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [RPent: Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents](https://arxiv.org/abs/2607.08448) | 2026 | Paper | <a href="https://github.com/RLinf/RPent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HarnessPAI: An Evolving Harness for Physical AI](https://arxiv.org/abs/2609.29166) | 2026 | Paper | — |
 | [HexaShell: A Universal Harness for Robot Coding Agents in Simulation and the Real World](https://arxiv.org/abs/2610.23479) | 2026 | Paper | <a href="https://github.com/HexaFuture/HexaShell"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [Home Robot Memory Update: How Should a Home Robot Update Its Memories When Human Routines Change?](https://corl2026-memory.github.io/papers/046.pdf) | 2026 | Paper | <a href="https://github.com/nesl/memory-for-home-robots"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration](https://arxiv.org/abs/2610.23098) | 2026 | Paper | — |
 | [KnowBody: Know Your Body: A Harness for Direct and Self-Improving Robot Control with VLMs](https://arxiv.org/abs/2609.28530) | 2026 | Paper | — |
 | [LEXP: Learning from Physical Experience: Context-Space Adaptation for Robotic Manipulation](https://arxiv.org/abs/2610.41320) | 2026 | Paper · [Project](https://hatty-z.github.io/LearnFromExperience/) | — |

@@ -28,7 +28,7 @@ Agents direct robot task execution by selecting behaviors, orchestrating tools, 
 
 Demonstration reports are identified by source type. Dexterous Astra, DexGPT, Sphere Retargeting, Physical Retargeting and Agentic System-ID describe development-time constructions; they do not establish general reactive robot policies. DexGPT reports a failed penetration acceptance test, and the microphone example in Agentic System-ID is kinematic replay with failed dynamics. Innate ICL links to an unmerged implementation pull request.
 
-Configuration notes: FluxVLA refers to its GPT-controlled robot adapters. ASPIRE entries distinguish generated CaP programs from its released MCP execution interface. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
+Configuration notes: ASPIRE entries distinguish generated CaP programs from its released MCP execution interface. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
 
 Engineering resource: [NVIDIA Agent Skills](https://github.com/NVIDIA/skills) includes a CAD-to-SimReady workflow for asset conversion, physics assignment and validation.
 
@@ -82,7 +82,9 @@ def render():
     assert len(ids) == len(PAPERS), "Duplicate bibliography identifiers"
     known = {g["name"] for g in CATEGORIES}
     for paper in PAPERS:
-        assert paper["title"] and paper["categories"]
+        assert paper["title"] and (bool(paper["categories"]) != bool(paper.get("supporting_list")))
+        if paper.get("supporting_list"):
+            assert paper["supporting_list"] in INTRO
         assert set(paper["categories"]) <= known
         assert urlparse(paper["url"]).scheme == "https", paper["id"]
         if paper.get("code_url"):
@@ -123,6 +125,17 @@ def render():
                     title += f" [{p['execution_authority']}]"
                 project = f' · [Project]({p["project_url"]})' if p.get("project_url") else ""
                 text += f'| [{escape(title)}]({p["url"]}) | {p["year"] or "—"} | {p["source_type"]}{project} | {code} |\n'
+        supporting = sorted((p for p in PAPERS if p.get("supporting_list") == name),
+                            key=lambda p: p["short_name"].casefold())
+        if supporting:
+            text += "\n## Supporting references\n\n"
+            for p in supporting:
+                text += f'- [{escape(p["short_name"])}]({p["url"]})'
+                if p.get("code_url"):
+                    text += f' · [Code]({p["code_url"]})'
+                if p.get("scope_note"):
+                    text += f' — {p["scope_note"]}'
+                text += "\n"
         files[f"docs/{name}.md"] = text + "\n[Back to overview](../README.md)\n"
     return files
 

@@ -120,7 +120,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
 | [AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents](https://arxiv.org/abs/2610.20474) | 2026 | Paper | — |
-| [Affordance2Action: Task-Conditioned Scene-level Affordance Grounding for Real-Time Manipulation](https://arxiv.org/abs/2606.04172) | 2026 | Paper | <a href="https://github.com/arc-l/a2a"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [A2A-AffordGen: Affordance2Action: Task-Conditioned Scene-level Affordance Grounding for Real-Time Manipulation](https://arxiv.org/abs/2606.04172) | 2026 | Paper | <a href="https://github.com/arc-l/a2a"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Physical Retargeting: Agentic physical retargeting of human videos to Wuji hands](https://x.com/Lingxiao234/status/2097717020540481630) | 2026 | Demonstration report | — |
 | [AW-0: Agentic World Action Models](https://arxiv.org/abs/2610.30136) | 2026 | Paper | <a href="https://github.com/ZhuoyangLiu2005/agentic-wam"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) | 2026 | Paper | <a href="https://github.com/xinxinliu-ai/AgenticRoboRL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -185,7 +185,6 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://proceedings.mlr.press/v270/hua25a.html) | 2025 | Paper | <a href="https://github.com/GenSim2/GenSim2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning](https://arxiv.org/abs/2507.00833) | 2025 | Paper | <a href="https://github.com/TeleHuman/HumanoidGen"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Manipulate-Anything: Automating Real-World Robots using Vision-Language Models](https://proceedings.mlr.press/v270/duan25a.html) | 2025 | Paper | <a href="https://github.com/Robot-MA/manipulate-anything"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data](https://arxiv.org/abs/2501.04595) | 2025 | Paper · [Project](https://mobileh2r.github.io/) | — |
 | [Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction](https://arxiv.org/abs/2504.14588) | 2025 | Paper | <a href="https://github.com/GeWu-Lab/Motion-based-Self-Reflection-Framework"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](https://arxiv.org/abs/2506.06677) | 2025 | Paper | <a href="https://github.com/buaa-colalab/RoboCerebra"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints](https://arxiv.org/abs/2503.16408v1) | 2025 | Paper · [Project](https://iranqin.github.io/robofactory/) | <a href="https://github.com/MARS-EAI/RoboFactory"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -312,24 +311,19 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [BenchMend: Agent-Guided Instruction Repair for Robotics Benchmarks](https://tianqi-zh.github.io/BenchMend/) | 2026 | Project / report | — |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes](https://arxiv.org/abs/2609.36024) | 2026 | Paper | — |
-| [EmbodiedSkillBench: Embodied Skill Bench: Benchmarking How Well Agents with Embodied Skills Perform on Physical Tasks](https://arxiv.org/abs/2610.16238) | 2026 | Paper | <a href="https://github.com/HanZhi306/EmbodiedSkill-Bench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction](https://arxiv.org/abs/2609.13082) | 2026 | Paper | — |
 | [EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development](https://arxiv.org/abs/2604.13800) | 2026 | Paper | — |
 | [EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation](https://arxiv.org/abs/2609.38905) | 2026 | Paper | — |
 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) | 2026 | Paper | <a href="https://github.com/NVlabs/ENPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HALTER: From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation](https://arxiv.org/abs/2609.19413) | 2026 | Paper | — |
-| [GroundedPlanBench: Spatially Grounded Long-Horizon Task Planning](https://icra2026-rigorous-perception.github.io/pdf/jung2026b.pdf) | 2026 | Paper | — |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hermes Embodied: Self-Improving Robotics via Hermes Agent](https://github.com/bryercowan/hermes-embodied) | 2026 | Repository | <a href="https://github.com/bryercowan/hermes-embodied"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [Home Robot Memory Update: How Should a Home Robot Update Its Memories When Human Routines Change?](https://corl2026-memory.github.io/papers/046.pdf) | 2026 | Paper | <a href="https://github.com/nesl/memory-for-home-robots"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [Impossible Twins: Judge-Free Measurement of Verifier False Positives in Agentic Robot Controller Search](https://openreview.net/forum?id=uMkXmX3mAy) | 2026 | Paper | — |
 | [ManipEvalAgent: Promptable and Efficient Evaluation Framework for Robotic Manipulation Policies](https://proceedings.iclr.cc/paper_files/paper/2026/file/8833c8aa10542d24d693bbaf6a4598f5-Paper-Conference.pdf) | 2026 | Paper | — |
 | [MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution](https://arxiv.org/abs/2607.22832) | 2026 | Paper | <a href="https://github.com/sygkounas/MEMENTO"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Nautilus: From One Prompt to Plug-and-Play Robot Learning](https://arxiv.org/abs/2605.11665) | 2026 | Paper | — |
 | [PRISM: Planning and Reasoning with Intent in Simulated Embodied Environments](https://arxiv.org/abs/2605.11534) | 2026 | Paper | — |
 | [RoboLineage: Agent-Native Data Lifecycle Governance Across Robot Policy Iterations](https://arxiv.org/abs/2606.22142) | 2026 | Paper | <a href="https://github.com/robolineage/robolineage"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [robot-autoresearch](https://github.com/AlmondGod/robotics-autoresearch) | 2026 | Repository | <a href="https://github.com/AlmondGod/robotics-autoresearch"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [RT-Safe: Benchmarking Agent Safety in Real-Time Embodied Environment](https://arxiv.org/abs/2610.09294) | 2026 | Paper · [Project](https://xtrose29.github.io/RT-SAFE/) | <a href="https://github.com/XTRose29/RT-SAFE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://proceedings.mlr.press/v306/pfaff26a.html) | 2026 | Paper | <a href="https://github.com/nepfaff/scenesmith"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
 | [DESPITE: Using large language models for embodied planning introduces systematic safety risks](https://arxiv.org/abs/2604.18463) | 2026 | Paper · [Project](https://despite-safety.github.io/) | <a href="https://github.com/taozhang1004/DESPITE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -384,9 +378,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [VAP-TAMP: Robot Planning and Situation Handling with Active Perception](https://arxiv.org/abs/2604.26988v1) | 2026 | Paper · [Project](https://vap-tamp.github.io/vap-tamp/) | — |
 | [ROS MCP Server](https://github.com/robotmcp/ros-mcp-server) | 2026 | Software | <a href="https://github.com/robotmcp/ros-mcp-server"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SPINE (2026): SPINE: Bridging the Cyber-Physical Gap with Agentic AI](https://arxiv.org/abs/2607.13049) | 2026 | Paper | — |
-| [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
 | [A²-MEAS: Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124) | 2026 | Paper · [Project](https://a2-meas.github.io/) | <a href="https://github.com/AutoLab-SAI-SJTU/A2MEAS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966) | 2026 | Paper | <a href="https://github.com/allenai/vla-evaluation-harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing](https://arxiv.org/abs/2602.15549) | 2026 | Paper | — |
 | [XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://arxiv.org/abs/2608.09892) | 2026 | Paper | <a href="https://github.com/XPolicyLab/XPolicyLab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AURA (Buchholz): A Collaborative Reasoning Framework for Anomaly Diagnostics in Underwater Robotics](https://arxiv.org/abs/2511.03075) | 2025 | Paper | — |
@@ -402,5 +394,10 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [LLM2Swarm: Robot Swarms that Responsively Reason, Plan, and Collaborate through LLMs](https://arxiv.org/html/2410.11387) | 2024 | Paper | <a href="https://github.com/Pold87/LLM2Swarm"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076) | 2024 | Paper | <a href="https://github.com/Video-as-Agent/VideoAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction](https://proceedings.mlr.press/v229/liu23g.html) | 2023 | Paper | <a href="https://github.com/real-stanford/reflect"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+
+## Supporting references
+
+- [GroundedPlanBench](https://icra2026-rigorous-perception.github.io/pdf/jung2026b.pdf) — Models produce spatially grounded action plans that are compared with annotated references. The benchmark supplies evidence about planning outputs.
+- [MobileH2R](https://arxiv.org/abs/2501.04595) — GPT-4 selects activities and postures for synthesizing human motion in the handover dataset (Appendix A.1).
 
 [Back to overview](../README.md)
