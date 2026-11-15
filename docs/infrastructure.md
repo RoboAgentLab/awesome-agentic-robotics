@@ -25,7 +25,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
 | [3DCodeVerse: Exploring 3D Worlds as Code](https://arxiv.org/abs/2610.22341) | 2026 | Paper | <a href="https://github.com/gaoypeng/3dcodeverse"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [Agentic System-ID: Agentic real-to-sim reconstruction from robot demonstrations](https://x.com/Lingxiao234/status/2096992059731443923) | 2026 | Demonstration report | — |
+| [Real2Sim System-ID: Agentic real-to-sim reconstruction from robot demonstrations](https://x.com/Lingxiao234/status/2096992059731443923) | 2026 | Demonstration report | — |
 | [Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents](https://arxiv.org/abs/2607.19190) | 2026 | Paper | <a href="https://github.com/agentic-real2sim/agentic_real2sim"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies](https://arxiv.org/abs/2610.10479) | 2026 | Paper | — |
 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) | 2026 | Paper | — |
@@ -53,8 +53,6 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [glm-skills-embodied: GLM-5.3-Flash Skills: Embodied Data Engine](https://github.com/hxwxss/glm-skills-embodied) | 2026 | Repository | <a href="https://github.com/hxwxss/glm-skills-embodied"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HomeBody: A Humanoid That Explores, Remembers, and Acts on Its Own](https://tml.stanford.edu/homebody/) | 2026 | Project / report | <a href="https://github.com/Stanford-TML/homebody"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [Apex-35B: Introducing Apex-35B-V1.0](https://apexin.com/apex-35b/) | 2026 | Technical blog · [Project](https://huggingface.co/Apexintelligence-AI/Apex-35B-V1.0) | — |
-| [Reflective Test-Time Planning: Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs](https://arxiv.org/html/2602.21198) | 2026 | Paper · [Project](https://reflective-test-time-planning.github.io) | — |
 | [ManipEvalAgent: Promptable and Efficient Evaluation Framework for Robotic Manipulation Policies](https://proceedings.iclr.cc/paper_files/paper/2026/file/8833c8aa10542d24d693bbaf6a4598f5-Paper-Conference.pdf) | 2026 | Paper | — |
 | [PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement](https://arxiv.org/abs/2602.14968) | 2026 | Paper | — |
 | [RAPID: Robot Agentic Programming from Demonstrations](https://arxiv.org/abs/2609.30249) | 2026 | Paper | — |
@@ -121,7 +119,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | --- | --- | --- | --- |
 | [AdaRSI: On-Demand Recursive Self-Improvement for Embodied Agents](https://arxiv.org/abs/2610.20474) | 2026 | Paper | — |
 | [A2A-AffordGen: Affordance2Action: Task-Conditioned Scene-level Affordance Grounding for Real-Time Manipulation](https://arxiv.org/abs/2606.04172) | 2026 | Paper | <a href="https://github.com/arc-l/a2a"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [Physical Retargeting: Agentic physical retargeting of human videos to Wuji hands](https://x.com/Lingxiao234/status/2097717020540481630) | 2026 | Demonstration report | — |
+| [Wuji Video Retargeting: Agentic physical retargeting of human videos to Wuji hands](https://x.com/Lingxiao234/status/2097717020540481630) | 2026 | Demonstration report | — |
 | [AW-0: Agentic World Action Models](https://arxiv.org/abs/2610.30136) | 2026 | Paper | <a href="https://github.com/ZhuoyangLiu2005/agentic-wam"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589) | 2026 | Paper | <a href="https://github.com/xinxinliu-ai/AgenticRoboRL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AllDayNav: Lifelong Navigation via Real-World Reinforcement Learning](https://arxiv.org/abs/2606.10927) | 2026 | Paper | — |
@@ -130,7 +128,6 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation](https://arxiv.org/abs/2610.02274) | 2026 | Paper | — |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [DexAgent: An Agentic Human2Sim2Robot Framework for Dexterous Manipulation with Self-Evolving Tool Library](https://arxiv.org/abs/2609.35318) | 2026 | Paper | <a href="https://github.com/dexagent1/DexAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [DexGPT: GIF to Sharpa Wave](https://github.com/Hu-xiao-max/dexgpt) | 2026 | Software / demo | <a href="https://github.com/Hu-xiao-max/dexgpt"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development](https://arxiv.org/abs/2604.13800) | 2026 | Paper | — |
 | [EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics](https://arxiv.org/abs/2609.27308) | 2026 | Paper | <a href="https://github.com/EmbodiedSWE/EmbodiedSWE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation](https://arxiv.org/abs/2609.38905) | 2026 | Paper | — |
@@ -162,7 +159,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [RoboGene: Diversity-Driven Agentic Task Generation Framework for VLA Pre-training](https://arxiv.org/abs/2602.16444) | 2026 | Paper | — |
 | [RoboLineage: Agent-Native Data Lifecycle Governance Across Robot Policy Iterations](https://arxiv.org/abs/2606.22142) | 2026 | Paper | <a href="https://github.com/robolineage/robolineage"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark](https://arxiv.org/abs/2605.10921) | 2026 | Paper | <a href="https://github.com/OpenHelix-Team/RoboMemArena"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [DGAC: Robot Self-Improvement via Human-Video Dynamics Models](https://arxiv.org/abs/2606.21406) | 2026 | Paper | — |
+| [DGAC Task Proposals: Robot Self-Improvement via Human-Video Dynamics Models](https://arxiv.org/abs/2606.21406) | 2026 | Paper | — |
 | [RobotAgentBench: Towards Open-world Robot Autonomy](https://arxiv.org/abs/2610.34649) | 2026 | Paper · [Project](https://aetherlabsai.github.io/RobotAgentBench/) | <a href="https://github.com/AetherLabsAI/RobotAgentBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://proceedings.mlr.press/v306/chen26j.html) | 2026 | Paper | <a href="https://github.com/RoboTwin-Platform/RoboTwin"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Scene2Demo: Self-Evolving Embodied Data Generation via Object-Action Graph](https://arxiv.org/abs/2602.12065) | 2026 | Paper | — |
@@ -216,7 +213,6 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Agent-Guided RL: Agent-Guided Reinforcement Learning for Robot Policy Improvement](https://openreview.net/forum?id=Necql1OWWV) | 2026 | Paper | — |
 | [AI Training Manager: Bounded Closed-Loop Control of Adaptive Training Recipes](https://arxiv.org/abs/2606.29871) | 2026 | Paper | — |
 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) | 2026 | Paper | — |
-| [Sharpa Pen RL: Autonomous construction and training of a Sharpa pen-spinning task](https://x.com/walterzhu8/status/2100212420840989112) | 2026 | Demonstration report | — |
 | [Autoresearch Gym](https://github.com/gabec-slop/autoresearch-gym) | 2026 | Repository | <a href="https://github.com/gabec-slop/autoresearch-gym"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [autoresearch-robotics: Autonomous Robotics Research with Simulation Feedback](https://github.com/jellyheadandrew/autoresearch-robotics/tree/ff30cc481af9343b9c96f448b5ed72b75bfcd562) | 2026 | Repository | <a href="https://github.com/jellyheadandrew/autoresearch-robotics"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Causal Reward Models: Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation](https://arxiv.org/abs/2606.23280) | 2026 | Paper | — |
@@ -236,7 +232,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [RoboCoach: From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence](https://arxiv.org/abs/2601.21570) | 2026 | Paper | — |
 | [Gemini 4 Argon: Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [GenPHRI: Agentic Generative Simulation for Physical Human-Robot Interaction](https://arxiv.org/abs/2604.08664) | 2026 | Paper | — |
-| [GigaWorld-Policy 0.5: GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch](https://arxiv.org/abs/2607.13960) | 2026 | Paper | — |
+| [GigaWorld AutoResearch: GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch](https://arxiv.org/abs/2607.13960) | 2026 | Paper | — |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hermes Embodied: Self-Improving Robotics via Hermes Agent](https://github.com/bryercowan/hermes-embodied) | 2026 | Repository | <a href="https://github.com/bryercowan/hermes-embodied"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hyperagents](https://arxiv.org/abs/2603.19461) | 2026 | Paper | <a href="https://github.com/facebookresearch/Hyperagents"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -268,6 +264,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [DAAG: Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning](https://proceedings.mlr.press/v274/palo25a.html) | 2025 | Paper | — |
 | [ELEMENTAL: Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics](https://proceedings.mlr.press/v267/chen25at.html) | 2025 | Paper | — |
 | [GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs](https://proceedings.mlr.press/v270/hua25a.html) | 2025 | Paper | <a href="https://github.com/GenSim2/GenSim2"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [AutoAsk: Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](https://arxiv.org/abs/2504.00907) | 2025 | Paper | — |
 | [LAMARL: LLM-Aided Multi-Agent Reinforcement Learning for Cooperative Policy Generation](https://arxiv.org/html/2506.01538) | 2025 | Paper · [Project](https://windylab.github.io/LAMARL/) | — |
 | [LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models](https://arxiv.org/abs/2501.05057) | 2025 | Paper | — |
 | [Reflective Adaptation: Reflection-Based Task Adaptation for Self-Improving VLA](https://arxiv.org/abs/2510.12710) | 2025 | Paper | — |
@@ -277,7 +274,6 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [ARCHIE: Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models](https://arxiv.org/abs/2503.04280) | 2025 | Paper | <a href="https://github.com/turcato-niccolo/towardsARL"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [CARD: A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning](https://arxiv.org/abs/2410.14660) | 2024 | Paper | — |
 | [Agentic Skill Discovery](https://arxiv.org/abs/2405.15019) | 2024 | Paper | <a href="https://github.com/xf-zhao/Agentic-Skill-Discovery"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation](https://arxiv.org/abs/2410.00371) | 2024 | Paper | <a href="https://github.com/NVlabs/AHA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Code as Reward: Empowering Reinforcement Learning with VLMs](https://proceedings.mlr.press/v235/venuto24a.html) | 2024 | Paper | — |
 | [CurricuLLM: Automatic Task Curricula Design for Learning Complex Robot Skills using Large Language Models](https://arxiv.org/abs/2409.18382) | 2024 | Paper | <a href="https://github.com/labicon/CurricuLLM"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [DrEureka: Language Model Guided Sim-To-Real Transfer](https://doi.org/10.15607/rss.2024.xx.094) | 2024 | Paper | <a href="https://github.com/eureka-research/DrEureka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -328,9 +324,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [TacHarness: Agentic Infrastructure for Continually Improving Visuotactile Robot Policies](https://openreview.net/forum?id=V8hQBmyydD) | 2026 | Paper | — |
 | [DESPITE: Using large language models for embodied planning introduces systematic safety risks](https://arxiv.org/abs/2604.18463) | 2026 | Paper · [Project](https://despite-safety.github.io/) | <a href="https://github.com/taozhang1004/DESPITE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966) | 2026 | Paper | <a href="https://github.com/allenai/vla-evaluation-harness"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://arxiv.org/abs/2608.09892) | 2026 | Paper | <a href="https://github.com/XPolicyLab/XPolicyLab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [MEMENTO-Personal: Embodied Agents Meet Personalization: Investigating Challenges and Solutions Through the Lens of Memory Utilization](https://arxiv.org/abs/2505.16348) | 2025 | Paper · [Project](https://connoriginal.github.io/MEMENTO) | <a href="https://github.com/Connoriginal/MEMENTO"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
-| [AutoAsk: Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning](https://arxiv.org/abs/2504.00907) | 2025 | Paper | — |
 | [HomeSafeBench: Benchmarking Embodied Vision-Language Models in Free-Exploration Home Safety Inspection](https://arxiv.org/abs/2509.23690) | 2025 | Paper | <a href="https://github.com/BITHLP/HomeSafeBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SafeMind: Benchmarking and Mitigating Safety Risks in Embodied LLM Agents](https://arxiv.org/abs/2509.25885) | 2025 | Paper | — |
 | [SENTINEL-Formal: SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of Foundation Model-based Embodied Agents](https://arxiv.org/abs/2510.12985) | 2025 | Paper | — |
@@ -352,7 +346,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [autoresearch-robotics: Autonomous Robotics Research with Simulation Feedback](https://github.com/jellyheadandrew/autoresearch-robotics/tree/ff30cc481af9343b9c96f448b5ed72b75bfcd562) | 2026 | Repository | <a href="https://github.com/jellyheadandrew/autoresearch-robotics"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [BenchMend: Agent-Guided Instruction Repair for Robotics Benchmarks](https://tianqi-zh.github.io/BenchMend/) | 2026 | Project / report | — |
 | [CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes](https://arxiv.org/abs/2609.36024) | 2026 | Paper | — |
-| [D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models](https://arxiv.org/abs/2611.03622) | 2026 | Paper · [Project](https://weirdlabuw.github.io/dna/) | <a href="https://github.com/memmelma/dna"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [D&A Feedback: D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models](https://arxiv.org/abs/2611.03622) | 2026 | Paper · [Project](https://weirdlabuw.github.io/dna/) | <a href="https://github.com/memmelma/dna"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [D-World: An Explicit World-Language-Action Model with Recursive Self-Improvement under Dual Control](https://arxiv.org/abs/2610.17114) | 2026 | Paper | — |
 | [EnactOpt: Diagnosis-Guided Harness Evolution for Embodied Agents](https://arxiv.org/abs/2610.14977) | 2026 | Paper | — |
 | [EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies](https://arxiv.org/abs/2610.13376) | 2026 | Paper | — |
@@ -376,11 +370,9 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [RoboLineage: Agent-Native Data Lifecycle Governance Across Robot Policy Iterations](https://arxiv.org/abs/2606.22142) | 2026 | Paper | <a href="https://github.com/robolineage/robolineage"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks](https://arxiv.org/abs/2610.18835) | 2026 | Paper | <a href="https://github.com/robosimstudio/robosimstudio"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VAP-TAMP: Robot Planning and Situation Handling with Active Perception](https://arxiv.org/abs/2604.26988v1) | 2026 | Paper · [Project](https://vap-tamp.github.io/vap-tamp/) | — |
-| [ROS MCP Server](https://github.com/robotmcp/ros-mcp-server) | 2026 | Software | <a href="https://github.com/robotmcp/ros-mcp-server"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SPINE (2026): SPINE: Bridging the Cyber-Physical Gap with Agentic AI](https://arxiv.org/abs/2607.13049) | 2026 | Paper | — |
 | [A²-MEAS: Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124) | 2026 | Paper · [Project](https://a2-meas.github.io/) | <a href="https://github.com/AutoLab-SAI-SJTU/A2MEAS"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VLM-DEWM: Dynamic External World Model for Verifiable and Resilient Vision-Language Planning in Manufacturing](https://arxiv.org/abs/2602.15549) | 2026 | Paper | — |
-| [XPolicyLab: A Unified Standard and Open Ecosystem for Robot Policy Evaluation and Deployment](https://arxiv.org/abs/2608.09892) | 2026 | Paper | <a href="https://github.com/XPolicyLab/XPolicyLab"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [AURA (Buchholz): A Collaborative Reasoning Framework for Anomaly Diagnostics in Underwater Robotics](https://arxiv.org/abs/2511.03075) | 2025 | Paper | — |
 | [Unified Failure Handling: A Unified Framework for Real-Time Failure Handling in Robotics Using Vision-Language Models, Reactive Planner and Behavior Trees](https://arxiv.org/abs/2503.15202) | 2025 | Paper | — |
 | [Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection](https://arxiv.org/abs/2412.04455) | 2025 | Paper · [Project](https://zhoues.github.io/Code-as-Monitor) | — |
@@ -390,6 +382,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction](https://arxiv.org/abs/2505.12224) | 2025 | Paper | <a href="https://github.com/MINT-SJTU/RoboFAC"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/abs/2506.22756) | 2025 | Paper · [Project](https://tangtaogo.github.io/RoboPearls/) | — |
 | [ROS Help Desk: GenAI Powered, User-Centric Framework for ROS Error Diagnosis and Debugging](https://arxiv.org/abs/2507.07846) | 2025 | Paper | — |
+| [AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation](https://arxiv.org/abs/2410.00371) | 2024 | Paper | <a href="https://github.com/NVlabs/AHA"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [LASP: Language-Augmented Symbolic Planner for Open-World Task Planning](https://arxiv.org/abs/2407.09792) | 2024 | Paper | — |
 | [LLM2Swarm: Robot Swarms that Responsively Reason, Plan, and Collaborate through LLMs](https://arxiv.org/html/2410.11387) | 2024 | Paper | <a href="https://github.com/Pold87/LLM2Swarm"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076) | 2024 | Paper | <a href="https://github.com/Video-as-Agent/VideoAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -399,5 +392,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 
 - [GroundedPlanBench](https://icra2026-rigorous-perception.github.io/pdf/jung2026b.pdf) — Models produce spatially grounded action plans that are compared with annotated references. The benchmark supplies evidence about planning outputs.
 - [MobileH2R](https://arxiv.org/abs/2501.04595) — GPT-4 selects activities and postures for synthesizing human motion in the handover dataset (Appendix A.1).
+- [ROS MCP Server](https://github.com/robotmcp/ros-mcp-server) · [Code](https://github.com/robotmcp/ros-mcp-server) — The server exposes ROS interfaces to agents. An industrial gripper demonstration illustrates how an agent can use these interfaces to diagnose an anomaly.
+- [XPolicyLab](https://arxiv.org/abs/2608.09892) · [Code](https://github.com/XPolicyLab/XPolicyLab) — XPolicyLab studies policy integration. A coding agent builds and audits adapters against an interface contract.
 
 [Back to overview](../README.md)

@@ -26,9 +26,9 @@ Agents direct robot task execution by selecting behaviors, orchestrating tools, 
 
 **Code / Model in A1 describes the executor, not the deciding agent.** Calling a Python API does not by itself establish A3. A project can appear in multiple cells because its documented configurations differ.
 
-Demonstration reports are identified by source type. Dexterous Astra, DexGPT, Sphere Retargeting, Physical Retargeting and Agentic System-ID describe development-time constructions; they do not establish general reactive robot policies. DexGPT reports a failed penetration acceptance test, and the microphone example in Agentic System-ID is kinematic replay with failed dynamics. Innate ICL links to an unmerged implementation pull request.
+Demonstration reports are identified by source type. Dexterous Astra, DexGPT, Sphere Retargeting, Wuji Video Retargeting and Real2Sim System-ID describe development-time constructions; they do not establish general reactive robot policies. DexGPT reports a failed penetration acceptance test, and the microphone example in Real2Sim System-ID is kinematic replay with failed dynamics. Innate ICL links to an unmerged implementation pull request.
 
-Configuration notes: ASPIRE entries distinguish generated CaP programs from its released MCP execution interface. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
+Configuration notes: ASPIRE-CaP identifies the O2/A1 Code configuration of ASPIRE. NavGPT-3's sensory ablations are listed; its full observed-map A2 configuration is not assigned an observation category while map provenance remains unresolved.
 
 Engineering resource: [NVIDIA Agent Skills](https://github.com/NVIDIA/skills) includes a CAD-to-SimReady workflow for asset conversion, physics assignment and validation.
 
@@ -86,6 +86,7 @@ def render():
         if paper.get("supporting_list"):
             assert paper["supporting_list"] in INTRO
         assert set(paper["categories"]) <= known
+        assert set(paper.get("category_short_names", {})) <= set(paper["categories"])
         assert urlparse(paper["url"]).scheme == "https", paper["id"]
         if paper.get("code_url"):
             link = urlparse(paper["code_url"])
@@ -113,7 +114,7 @@ def render():
                 if p.get("code_status") == "pending_release" and p.get("repository_url"):
                     code = f'[Code pending release]({p["repository_url"]})'
                 title = p["title"]
-                short_name = p.get("short_name", "")
+                short_name = p.get("category_short_names", {}).get(group["name"], p.get("short_name", ""))
                 if short_name:
                     if title.casefold() == short_name.casefold():
                         title = short_name
