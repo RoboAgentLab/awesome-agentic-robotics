@@ -233,6 +233,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Gemini 4 Argon: Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/) | 2026 | Project / report | — |
 | [GenPHRI: Agentic Generative Simulation for Physical Human-Robot Interaction](https://arxiv.org/abs/2604.08664) | 2026 | Paper | — |
 | [GigaWorld AutoResearch: GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch](https://arxiv.org/abs/2607.13960) | 2026 | Paper | — |
+| [GR00T 2 AutoRL: GR00T 2: Scaling Robot Foundation Models for Generalization, Dexterity, and Adaptation](https://research.nvidia.com/labs/gear/gr00t-2/assets/gr00t2_whitepaper.pdf) | 2026 | Technical report · [Project](https://research.nvidia.com/labs/gear/gr00t-2/) | — |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hermes Embodied: Self-Improving Robotics via Hermes Agent](https://github.com/bryercowan/hermes-embodied) | 2026 | Repository | <a href="https://github.com/bryercowan/hermes-embodied"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Hyperagents](https://arxiv.org/abs/2603.19461) | 2026 | Paper | <a href="https://github.com/facebookresearch/Hyperagents"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -390,6 +391,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 
 ## Supporting references
 
+- [Embodied Analysis](https://embodiedanalysis.com/articles/action-model-eval-method) — Human judges compare paired execution videos by progress and efficiency. Published simulation results aggregate pairwise preferences into Elo scores.
 - [GroundedPlanBench](https://icra2026-rigorous-perception.github.io/pdf/jung2026b.pdf) — Models produce spatially grounded action plans that are compared with annotated references. The benchmark supplies evidence about planning outputs.
 - [MobileH2R](https://arxiv.org/abs/2501.04595) — GPT-4 selects activities and postures for synthesizing human motion in the handover dataset (Appendix A.1).
 - [ROS MCP Server](https://github.com/robotmcp/ros-mcp-server) · [Code](https://github.com/robotmcp/ros-mcp-server) — The server exposes ROS interfaces to agents. An industrial gripper demonstration illustrates how an agent can use these interfaces to diagnose an anomaly.
