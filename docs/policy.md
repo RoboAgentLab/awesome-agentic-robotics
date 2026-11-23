@@ -254,6 +254,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [MHS: Previewing the Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview) | 2026 | Project report | — |
 | [Recova: Agent-Guided Failure Recovery for Autonomous Robotic Manipulation](https://arxiv.org/abs/2610.01178) | 2026 | Paper | — |
 | [RoboUse: Robo Use: agent as a policy for embodied agents](https://robouse.ai/) | 2026 | Software | <a href="https://github.com/benchflow-ai/robouse"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [RoboWild: Can Frontier Models Generalize to Robot Use in the Wild?](https://huggingface.co/datasets/xlangai/RoboWild/blob/main/RoboWild.pdf) | 2026 | Paper · [Project](https://robowild.xlang.ai/) | <a href="https://github.com/xlang-ai/RoboWild"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ROSClaw: An OpenClaw ROS 2 Framework for Agentic Robot Control and Interaction](https://arxiv.org/abs/2603.26997) | 2026 | Paper | <a href="https://github.com/ROSClaw/rosclaw"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Spotter: Let the Embodied Model Lead, and the VLM Reflect for It](https://arxiv.org/abs/2609.36808) | 2026 | Paper | <a href="https://github.com/zqc3117/Spotter"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [StageGuard: Learning Stage Transitions for Long-Horizon Robot Tasks via Agentic Distillation](https://arxiv.org/abs/2609.20791) | 2026 | Paper | — |
