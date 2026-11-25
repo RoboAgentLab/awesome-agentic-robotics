@@ -134,6 +134,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation](https://arxiv.org/html/2605.02600) | 2026 | Paper · [Project](https://sites.google.com/view/lira-coral) | — |
 | [BATON: Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](https://arxiv.org/abs/2608.16889) | 2026 | Paper | — |
+| [Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation](https://embodied-harness.github.io/assets/embodied-harness.pdf) | 2026 | Paper · [Project](https://embodied-harness.github.io/) | — |
 | [EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents](https://arxiv.org/abs/2610.13021) | 2026 | Paper · [Project](https://pku-value-lab.github.io/EmbodiedCLBench-homepage/) | <a href="https://github.com/PKU-VaLuE-Lab/EmbodiedCLBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [EmbodiedEvo: Self-Evolving Coding Agent For Physical Intelligence](https://arxiv.org/abs/2610.18867) | 2026 | Paper | — |
 | [EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution](https://arxiv.org/abs/2610.10498) | 2026 | Paper | — |
