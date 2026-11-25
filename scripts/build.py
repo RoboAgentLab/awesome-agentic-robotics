@@ -125,6 +125,8 @@ def render():
                 if group["name"] == "Policy" and p.get("execution_authority"):
                     title += f" [{p['execution_authority']}]"
                 project = f' · [Project]({p["project_url"]})' if p.get("project_url") else ""
+                for companion in p.get("companion_links", []):
+                    project += f' · [{escape(companion["label"])}]({companion["url"]})'
                 text += f'| [{escape(title)}]({p["url"]}) | {p["year"] or "—"} | {p["source_type"]}{project} | {code} |\n'
         supporting = sorted((p for p in PAPERS if p.get("supporting_list") == name),
                             key=lambda p: p["short_name"].casefold())
