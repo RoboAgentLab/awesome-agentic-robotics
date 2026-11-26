@@ -318,6 +318,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction](https://arxiv.org/abs/2609.13082) | 2026 | Paper | — |
 | [EmbodiedClaw: Conversational Workflow Execution for Embodied AI Development](https://arxiv.org/abs/2604.13800) | 2026 | Paper | — |
 | [EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation](https://arxiv.org/abs/2609.38905) | 2026 | Paper | — |
+| [EmbodiSafety: Benchmarking Risk Understanding and Response in Embodied AI](https://arxiv.org/abs/2611.33054) | 2026 | Paper · [Project](https://embodisafety.github.io/) | <a href="https://github.com/embodisafety/embodiSafety"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](https://arxiv.org/abs/2606.19980) | 2026 | Paper | <a href="https://github.com/NVlabs/ENPIRE"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [HALTER: From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation](https://arxiv.org/abs/2609.19413) | 2026 | Paper | — |
 | [HARBOR: A Harness Framework for Agentic Robot Reinforcement Learning](https://arxiv.org/abs/2606.08610) | 2026 | Paper | <a href="https://github.com/supersglzc/harbor-rl"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
