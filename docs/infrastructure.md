@@ -222,6 +222,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Autoresearch Gym](https://github.com/gabec-slop/autoresearch-gym) | 2026 | Repository | <a href="https://github.com/gabec-slop/autoresearch-gym"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [autoresearch-robotics: Autonomous Robotics Research with Simulation Feedback](https://github.com/jellyheadandrew/autoresearch-robotics/tree/ff30cc481af9343b9c96f448b5ed72b75bfcd562) | 2026 | Repository | <a href="https://github.com/jellyheadandrew/autoresearch-robotics"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Causal Reward Models: Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation](https://arxiv.org/abs/2606.23280) | 2026 | Paper | — |
+| [Poker / Research Replication: Chapter 2: Towards an agent-native CERN of AI robotics](https://pokeandwiggle.com/blog/agent-native-cern-of-ai-robotics) | 2026 | Technical report · [Project](https://pokeandwiggle.com/) · [Replication results](https://pokeandwiggle.com/research-replication) | — |
 | [Embody: Claude plays robotics](https://www.anthropic.com/research/claude-plays-robotics) | 2026 | Research blog | — |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [ComDex: A Compositional Framework for Dexterity Learning from Offline Human Manipulation Videos](https://openreview.net/forum?id=l0BBYNeW4A) | 2026 | Paper | — |
@@ -313,6 +314,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Autoresearch Gym](https://github.com/gabec-slop/autoresearch-gym) | 2026 | Repository | <a href="https://github.com/gabec-slop/autoresearch-gym"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [autoresearch-robotics: Autonomous Robotics Research with Simulation Feedback](https://github.com/jellyheadandrew/autoresearch-robotics/tree/ff30cc481af9343b9c96f448b5ed72b75bfcd562) | 2026 | Repository | <a href="https://github.com/jellyheadandrew/autoresearch-robotics"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [BenchMend: Agent-Guided Instruction Repair for Robotics Benchmarks](https://tianqi-zh.github.io/BenchMend/) | 2026 | Project / report | — |
+| [Poker / Research Replication: Chapter 2: Towards an agent-native CERN of AI robotics](https://pokeandwiggle.com/blog/agent-native-cern-of-ai-robotics) | 2026 | Technical report · [Project](https://pokeandwiggle.com/) · [Replication results](https://pokeandwiggle.com/research-replication) | — |
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes](https://arxiv.org/abs/2609.36024) | 2026 | Paper | — |
 | [Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction](https://arxiv.org/abs/2609.13082) | 2026 | Paper | — |
