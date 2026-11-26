@@ -75,6 +75,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [MEMENTO: Memory-Guided Memetic Code-as-Policy Evolution](https://arxiv.org/abs/2607.22832) | 2026 | Paper | <a href="https://github.com/sygkounas/MEMENTO"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [META-Robot: Self-Cognition and Capability Scaling in Agentic Robots](https://arxiv.org/abs/2610.41868) | 2026 | Paper | — |
 | [PhysEvo: Astra Can Act, Let It](https://arxiv.org/abs/2610.08995) | 2026 | Paper | — |
+| [Black AI Physical RSI: Physical RSI: Self-Improving Robot Control Programs via Tree Search](https://www.blackai.co.jp/blog/physical-rsi-agent-as-a-policy) | 2026 | Technical report · [Cross-robot and cross-task transfer](https://www.blackai.co.jp/blog/physical-rsi-new-robot-new-tasks) | — |
 | [PhysicalRSI: PhysicalRSI 1.0: Recursive Self-Harness for Scaling Embodied Skills](https://mmlab.hk/research/PhysicalRSI) | 2026 | Project / report | <a href="https://github.com/PhysicalRSI/PhysicalRSI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RATs: Playful Agentic Robot Learning](https://arxiv.org/abs/2606.19419) | 2026 | Paper | <a href="https://github.com/Playful-RATs/rats"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Adversarial Co-Adaptive Self-Play: Program-Level Adversarial Co-Adaptive Self-Play for Robotic Security](https://openreview.net/forum?id=LkW6BOlHMY) | 2026 | Paper | — |
