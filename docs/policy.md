@@ -312,6 +312,7 @@ GALATEA is included for deployment-time video motion planning through a fixed le
 | [RUIBench: What Makes a Good Robot-Use Interface?](https://arxiv.org/abs/2611.31115) | 2026 | Paper · [Project](https://showlab.github.io/RUIBench/) | <a href="https://github.com/showlab/RUIBench"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [RAX: Scaling Online Exploration for Robot Agents](https://arxiv.org/abs/2610.22496) | 2026 | Paper | <a href="https://github.com/robot-agent-exploration/rax/tree/real/franka"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SHAPER: Self-Evolving Embodied Agents via Skill-Harness Evolution](https://arxiv.org/abs/2608.11350) | 2026 | Paper | — |
+| [SET: Six Easy Tasks](https://robocurve.org/blog/six-easy-tasks/) | 2026 | Technical report · [Run records](https://robocurve.org/all-runs/) | — |
 | [AA-Robotics: Welcome to the Era of Embodied AI: Introducing AA-Robotics v0.1](https://artificialanalysis.ai/articles/aa-robotics) | 2026 | Project / report | — |
 | [WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories](https://arxiv.org/abs/2609.18435) | 2026 | Paper | <a href="https://github.com/tsudalab/WetRobo"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [SE3 Labs: Where Should a Robot's Intelligence Live? Code-as-Policy versus Agentic Control](https://se3labs.ai/blog/agentic-vs-code-as-policy/) | 2026 | Blog | — |
