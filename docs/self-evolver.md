@@ -67,6 +67,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Waddle: Introducing Waddle: Agents that Control Robots](https://waddlelabs.ai/research/introducing-waddle) | 2026 | Project / report | — |
 | [Closed-Loop Robot Software: Learning and Transferring Closed-Loop Robot Software](https://arxiv.org/abs/2609.19906) | 2026 | Paper | — |
 | [GLIDE: Learning Beyond What Humans Can Demonstrate](https://arxiv.org/abs/2609.24996) | 2026 | Paper | — |
+| [RSIJudge: Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](https://arxiv.org/abs/2611.08318) | 2026 | Paper · [Project](https://dagroup-pku.github.io/PyRUA-Lean/RSIJudge/) | <a href="https://github.com/DAGroup-PKU/PyRUA-Lean/tree/RSIJudge"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [Recursia: Learning to Compose: Recursive Self-Improvement of Shared Executable Stacks for Zero-Shot Long-Horizon Robot Manipulation](https://arxiv.org/abs/2610.24464) | 2026 | Paper | <a href="https://github.com/cocacola-lab/Recursia"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ManiSkillFormer: Demonstration-Free Compositional Manipulation via Geometric Contracts and Agentic Skill Graph](https://arxiv.org/abs/2609.16331) | 2026 | Paper | — |
 | [ME-Brain-RSI: A Dual-Harness Framework for Self-Evolving Embodied Agents](https://machembodied.com/ME-Brain/ME-Brain-RSI/index.html) | 2026 | Blog | — |
@@ -438,5 +439,11 @@ These non-robotics works examine research-agent succession, automated research, 
 | [When AI Builds Itself: Our Progress toward Recursive Self-Improvement, and Its Implications](https://www.anthropic.com/institute/recursive-self-improvement) | 2026 | Project / report | — |
 | [Self-Developing: Can Large Language Models Invent Algorithms to Improve Themselves?: Algorithm Discovery for Recursive Self-Improvement through Reinforcement Learning](https://aclanthology.org/2025.naacl-long.519/) | 2025 | Project / report | — |
 | [RE-Bench: Evaluating Frontier AI R&D Capabilities of Language Model Agents against Human Experts](https://proceedings.mlr.press/v267/wijk25a.html) | 2025 | Paper | — |
+
+## Supporting references
+
+- [ContinualDrive](https://lzrbit.github.io/continualdrive/) — Evaluation context. The benchmark compares continually updated planners against their deployed checkpoints on nuPlan logs, including closed-loop release criteria.
+- [LoopedWSP](https://mbzuai-oryx.github.io/LoopedWSP/) — Method context. A coding agent writes a recurrent transformer’s weights from scratch for shortest-path reasoning on Maze-Hard.
+- [Weight-Space Programming](https://rikiyat.github.io/blog/weight-space-programming/) — Method source. Experiment 4 edits a PPO car policy using a failed Kinetix rollout; all 1,024 reported tests succeed. The linked Qwen checkpoint belongs to a separate language-model experiment.
 
 [Back to overview](../README.md)
