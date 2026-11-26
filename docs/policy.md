@@ -817,6 +817,7 @@ Entries with a documented execution category carry an A1, A2 or A3 label.
 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
+| [PAW-GEN-10-Agentic: Chapter 3: An agentic robotics fable \[A3\]](https://pokeandwiggle.com/blog/agentic-robotics) | 2026 | Technical report · [Project](https://pokeandwiggle.com/) · [Leaderboard](https://pokeandwiggle.com/leaderboard) | — |
 | [FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions \[A1\]](https://arxiv.org/abs/2601.12799) | 2026 | Paper · [Project](https://openmoss.ai/FRoM-W1/) | <a href="https://github.com/OpenMOSS/FRoM-W1"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [COLADA: Continual Robot Skill and Task Learning via Dialogue](https://arxiv.org/abs/2409.03166) | 2024 | Paper | — |
 | [Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks \[A1\]](https://arxiv.org/abs/2405.01534) | 2024 | Paper | <a href="https://github.com/mihdalal/planseqlearn"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
