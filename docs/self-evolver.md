@@ -306,7 +306,7 @@ An improvement to a tool's internal algorithm differs from a change to its calli
 | [Robo-COP: Co-Evolving Robot Orchestrators and Policies through Deployment](https://arxiv.org/abs/2610.09228) | 2026 | Paper | — |
 | [EmbodiRSI: Recursive Self-Improvement for Data-Efficient Robot Adaptation](https://arxiv.org/abs/2609.38905) | 2026 | Paper | — |
 | [EndoRSI: Physical-Evidence-Driven Recursive Improvement of Endoscopic Robot Policies](https://arxiv.org/abs/2610.13376) | 2026 | Paper | — |
-| [ESI: A Self-Improving Flywheel for LLM–VLA Agents](https://www.zerith.com/blog/esi/reports/ESI.pdf) | 2026 | Technical report · [Project](https://zerith.com/blog/esi/) | — |
+| [ESI: An Embodied Self-Improvement Flywheel for LLM-VLA Agents](https://arxiv.org/abs/2611.18176) | 2026 | Technical report · [Project](https://zerith.com/blog/esi/) | <a href="https://github.com/ZERITH-ZLab/ESI"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [VLA Weight Editing: How Far Can an LLM Go by Editing VLA Weights?](https://no-518.github.io/no-518-blog/blog/vla-weight-space-programming/) | 2026 | Technical blog | — |
 | [InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884) | 2026 | Paper | <a href="https://github.com/insight-vla/insight"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation](https://arxiv.org/abs/2610.03476) | 2026 | Paper | <a href="https://github.com/kaiknower/MobiAgent"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |

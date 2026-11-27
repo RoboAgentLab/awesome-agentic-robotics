@@ -412,6 +412,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 
 ## Supporting references
 
+- [Agentic LongLive](https://arxiv.org/abs/2611.34907) — In robot video simulation, the memory agent selects reference images from earlier generated segments to preserve object appearance and location under scripted instructions. Evaluation measures visual consistency when an object returns to view.
 - [ClothDojo](https://arxiv.org/abs/2611.01190) · [Code](https://github.com/clothdojo/clothdojo.github.io) — A garment manipulation simulation and data-generation resource. A fine-tuned VLA uses NOCS observations to generate trajectories that are filtered by task-specific success criteria and re-rendered as RGB; these fixed policy and filtering stages do not establish agent-directed workflow decisions.
 - [Embodied Analysis](https://embodiedanalysis.com/articles/action-model-eval-method) — Human judges compare paired execution videos by progress and efficiency. Published simulation results aggregate pairwise preferences into Elo scores.
 - [GroundedPlanBench](https://icra2026-rigorous-perception.github.io/pdf/jung2026b.pdf) — Models produce spatially grounded action plans that are compared with annotated references. The benchmark supplies evidence about planning outputs.
