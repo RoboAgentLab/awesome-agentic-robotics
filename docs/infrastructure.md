@@ -311,7 +311,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 
 | Work | Year | Source | Code |
 | --- | --- | --- | --- |
-| [AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](https://arxiv.org/abs/2611.26613) | 2026 | Paper | <a href="https://github.com/cxcscmu/AgentRoboCritic"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](https://arxiv.org/abs/2611.26613) | 2026 | Paper · [Project](https://adu2021.github.io/blog/AgentRoboCritic/) | <a href="https://github.com/cxcscmu/AgentRoboCritic"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ARS: Agentic Reward System for Robot Learning](https://arxiv.org/abs/2609.34484) | 2026 | Paper | <a href="https://github.com/midea-ai/ars"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [ARSTAG: An Agentic Real2Sim2Real System for Task-Specific Robot Data Generation](https://arxiv.org/abs/2609.24563) | 2026 | Paper | — |
 | [Autoresearch Gym](https://github.com/gabec-slop/autoresearch-gym) | 2026 | Repository | <a href="https://github.com/gabec-slop/autoresearch-gym"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
@@ -363,7 +363,7 @@ Evaluation resource: [HandsOn](https://llltttwww.github.io/HandsOn-website/) ([p
 | [Agent-Driven RL: Agent-Driven Autonomous Reinforcement Learning Research: Iterative Policy Improvement for Quadruped Locomotion](https://arxiv.org/abs/2603.27416) | 2026 | Paper | — |
 | [Agent-Guided RL: Agent-Guided Reinforcement Learning for Robot Policy Improvement](https://openreview.net/forum?id=Necql1OWWV) | 2026 | Paper | — |
 | [Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies](https://arxiv.org/abs/2610.10479) | 2026 | Paper | — |
-| [AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](https://arxiv.org/abs/2611.26613) | 2026 | Paper | <a href="https://github.com/cxcscmu/AgentRoboCritic"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
+| [AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](https://arxiv.org/abs/2611.26613) | 2026 | Paper · [Project](https://adu2021.github.io/blog/AgentRoboCritic/) | <a href="https://github.com/cxcscmu/AgentRoboCritic"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [autoresearch-robotics: Autonomous Robotics Research with Simulation Feedback](https://github.com/jellyheadandrew/autoresearch-robotics/tree/ff30cc481af9343b9c96f448b5ed72b75bfcd562) | 2026 | Repository | <a href="https://github.com/jellyheadandrew/autoresearch-robotics"><img src="../assets/github.svg" width="18" height="18" alt="GitHub" /></a> |
 | [BenchMend: Agent-Guided Instruction Repair for Robotics Benchmarks](https://tianqi-zh.github.io/BenchMend/) | 2026 | Project / report | — |
 | [CoDimRecon: Agentic Reconstruction of Sim-Ready 3D Scenes with Deformable Curves, Surfaces, and Volumes](https://arxiv.org/abs/2609.36024) | 2026 | Paper | — |
