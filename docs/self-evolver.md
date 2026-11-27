@@ -446,6 +446,7 @@ These non-robotics works examine research-agent succession, automated research, 
 
 - [ContinualDrive](https://lzrbit.github.io/continualdrive/) — Evaluation context. The benchmark compares continually updated planners against their deployed checkpoints on nuPlan logs, including closed-loop release criteria.
 - [LoopedWSP](https://mbzuai-oryx.github.io/LoopedWSP/) — Method context. A coding agent writes a recurrent transformer’s weights from scratch for shortest-path reasoning on Maze-Hard.
+- [MORSE](https://arxiv.org/abs/2611.30011) — An editor revises memory code and validates candidates on held-out video streams. The downstream evaluation measures video question answering, including driving footage.
 - [Weight-Space Programming](https://rikiyat.github.io/blog/weight-space-programming/) — Method source. Experiment 4 edits a PPO car policy using a failed Kinetix rollout; all 1,024 reported tests succeed. The linked Qwen checkpoint belongs to a separate language-model experiment.
 
 [Back to overview](../README.md)
