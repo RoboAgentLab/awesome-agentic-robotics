@@ -832,6 +832,7 @@ Entries with a documented execution category carry an A1, A2 or A3 label.
 
 - [Apex-35B](https://apexin.com/apex-35b/) — The Apex-35B report illustrates robot programming and reconstruction of simulation environments in two application demos.
 - [BEHAVIOR-Spatial](https://arxiv.org/abs/2610.34051) · [Code](https://github.com/arielchen07/BEHAVIOR-Spatial-benchmark) — The benchmark studies spatial understanding and instruction following. Its Code as Policies baseline tests robot programs on held-out configurations. The repository contains the benchmark evaluation.
+- [CollaBot](https://arxiv.org/abs/2508.03526) · [Code](https://github.com/song-kun/CollaBot) — A vision-language model selects a set of grasp points for cooperating robots from numbered candidates. A fixed two-stage planner computes the motions.
 - [cuArms](https://arxiv.org/abs/2610.36250) — Supplementary Appendices D and E demonstrate coding agents generating multi-arm programs with the motion planner.
 - [DreamCan](https://arxiv.org/abs/2610.24981) · [Code](https://github.com/HeegerGao/DreamCan) — In the language-guided experiment (§V-D), a VLM writes the task-progress function used by the visual planner.
 - [Embodied XAI](https://openreview.net/forum?id=9HKnVoy6O0) — Qwen directs a PPO executor in the configuration used to study visual attribution.
